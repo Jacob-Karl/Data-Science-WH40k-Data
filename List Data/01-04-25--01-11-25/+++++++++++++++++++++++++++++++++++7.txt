@@ -1,0 +1,83 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Aeldari - Drukhari
++ DETACHMENT: Reaper's Wager
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: Archon
++ ENHANCEMENT: Webway walker (on Char1: Archon)
+& Reaper's Cowl (on Char3: Troupe Master)
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (5x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Lelith Hesperax (95 pts): Lelith's blades
+
+Char2: 1x Archon (100 pts): WARLORD, Huskblade, Blast Pistol
+Enhancement: Webway walker (+15 pts)
+
+Char3: 7x Beastmaster (120 pts)
+• 1x Beastmaster: Agoniser, Splinter pods
+• 1x Clawed Fiend: Clawed Fiend fists
+• 2x Khymerae: 2 with Khymerae talons
+• 3x Razorwing Flock: 3 with Razorwing feathers
+
+Char4: 1x Troupe Master (80 pts): Troupe Master's Blade, Fusion Pistol
+Enhancement: Reaper's Cowl (+25 pts)
+
+10x Kabalite Warriors (110 pts) RED
+• 5x Kabalite Warrior: 5 with Close Combat Weapon, Splinter rifle
+• 1x Kabalite Warrior with Blaster: Blaster, Close Combat Weapon
+• 1x Kabalite Warrior with Dark Lance: Close Combat Weapon, Dark lance
+• 1x Kabalite Warrior with Shredder: Close Combat Weapon, Shredder
+• 1x Kabalite Warrior with Splinter Cannon: Close Combat Weapon, Splinter cannon
+• 1x Sybarite: Phantasm Grenade Launcher, Sybarite Weapon, Blast Pistol
+10x Kabalite Warriors (110 pts) BLUE
+• 5x Kabalite Warrior: 5 with Close Combat Weapon, Splinter rifle
+• 1x Kabalite Warrior with Blaster: Blaster, Close Combat Weapon
+• 1x Kabalite Warrior with Dark Lance: Close Combat Weapon, Dark lance
+• 1x Kabalite Warrior with Shredder: Close Combat Weapon, Shredder
+• 1x Kabalite Warrior with Splinter Cannon: Close Combat Weapon, Splinter cannon
+• 1x Sybarite: Phantasm Grenade Launcher, Sybarite Weapon, Blast Pistol
+
+10x Wyches (90 pts)
+• 1x Hekatrix: Phantasm Grenade Launcher, Hekatarii Blade, Blast Pistol
+• 9x Wych: 9 with Hekatarii Blade, Splinter Pistol
+
+10x Incubi (170 pts)
+• 9x Incubi: 9 with Klaive
+• 1x Klaivex: demiklaives
+
+5x Mandrakes (70 pts) GREEN
+• 4x Mandrake: 4 with Baleblast, Glimmersteel Blade
+• 1x Nightfiend: Baleblast, Glimmersteel Blade
+
+5x Mandrakes (70 pts) YELLOW
+• 4x Mandrake: 4 with Baleblast, Glimmersteel Blade
+• 1x Nightfiend: Baleblast, Glimmersteel Blade
+
+5x Scourges (130 pts) ORANGE
+• 4x Scourge with Heavy Weapon: 4 with Close combat weapon, Dark Lance
+• 1x Solarite: Close combat weapon, Solarite Weapon, Shardcarbine
+
+5x Scourges (130 pts) PINK
+• 4x Scourge with Heavy Weapon: 4 with Close combat weapon, Drukhari Haywire Blaster
+• 1x Solarite: Close combat weapon, Solarite Weapon, Shardcarbine
+
+5x Scourges (130 pts) Purple
+• 4x Scourge with Heavy Weapon: 4 with Close combat weapon, Dark Lance
+• 1x Solarite: Close combat weapon, Solarite Weapon, Shardcarbine
+
+11x Troupe (165 pts)
+• 1x Lead Player: Aeldari power sword, Fusion Pistol
+• 3x Player with Fusion Pistol: 3 with Fusion Pistol, Harlequin's Special Weapon
+• 3x Player with Harlequin's Special Weapon: 3 with Harlequin's Special Weapon, Shuriken Pistol
+• 4x Player with Neuro Disruptor: 4 with Neuro Disruptor, Harlequin's Special Weapon
+
+1x Cronos (50 pts): Spirit Syphon, Spirit Vortex, Spirit-leech Tentacles
+
+2x Talos (160 pts): 2 with Twin Liquifier Gun, Talos Gauntlet, Twin Haywire Blasters
+
+1x Raider (80 pts): Bladevanes, Dark Lance
+1x Venom (70 pts): Bladevanes, Splinter Cannon, Splinter Cannon
+1x Venom (70 pts): Bladevanes, Splinter Cannon, Splinter Cannon
+

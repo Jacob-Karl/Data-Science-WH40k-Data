@@ -1,0 +1,31 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Hypercrypt Legion
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: Imotekh the Stormlord
++ ENHANCEMENT:
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (1x2) + (1x6) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x C'tan Shard of the Nightbringer (295 pts): Gaze of death, Scythe of the Nightbringer
+Char2: 1x Imotekh the Stormlord (100 pts): Warlord, Gauntlet of Fire, Staff of the Destroyer
+Char3: 1x Skorpekh Lord (80 pts): Enmitic annihilator, Flensing claw, Hyperphase harvester
+Char4: 1x Skorpekh Lord (80 pts): Enmitic annihilator, Flensing claw, Hyperphase harvester
+Char5: 1x Technomancer (85 pts): Staff of light
+
+5x Deathmarks (65 pts): 5 with Close combat weapon, Synaptic disintegrator
+5x Flayed Ones (60 pts): 5 with Flayer claws
+5x Flayed Ones (60 pts): 5 with Flayer claws
+3x Skorpekh Destroyers (90 pts): Plasmacyte, 3 with Skorpekh hyperphase weapons
+3x Skorpekh Destroyers (90 pts): Plasmacyte, 3 with Skorpekh hyperphase weapons
+1x Lokhust Destroyers (35 pts): Close combat weapon, Gauss cannon
+1x Lokhust Destroyers (35 pts): Close combat weapon, Gauss cannon
+1x Lokhust Destroyers (35 pts): Close combat weapon, Gauss cannon
+1x Lokhust Heavy Destroyers (55 pts): Close combat weapon, Enmitic exterminator
+1x Lokhust Heavy Destroyers (55 pts): Close combat weapon, Enmitic exterminator
+1x Lokhust Heavy Destroyers (55 pts): Close combat weapon, Enmitic exterminator
+3x Tomb Blades (75 pts): 3 with Shadowloom, Close combat weapon, Twin tesla carbine
+6x Canoptek Wraiths (250 pts): 6 with Particle caster, Vicious claws
+1x Monolith (400 pts): Particle whip, Portal of exile, 4x Death ray

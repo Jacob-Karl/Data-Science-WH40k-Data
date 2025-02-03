@@ -1,0 +1,59 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Liberator Assault Group
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Commander Dante
++ ENHANCEMENT:
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (6x2) - Assassination: 1 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Commander Dante (130 pts): Warlord, Perdition, The Axe Mortalis
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Assault Intercessors with Jump Packs (90 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Incursor Squad (80 pts)
+• 4x Incursor
+3 with Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
+1 with Haywire Mine, Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
+• 1x Incursor Sergeant: Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+2 with Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Helix Gauntlet, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Infiltrator Comms Array, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+• 1x Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+3x Sanguinary Guard (130 pts)
+1 with Sanguinary Banner, Encarmine Blade, Inferno Pistol
+2 with Encarmine Blade, Angelus Boltgun
+3x Sanguinary Guard (130 pts)
+1 with Sanguinary Banner, Encarmine Blade, Inferno Pistol
+2 with Encarmine Blade, Angelus Boltgun
+3x Sanguinary Guard (130 pts)
+1 with Sanguinary Banner, Encarmine Blade, Inferno Pistol
+2 with Encarmine Blade, Angelus Boltgun
+5x Scout Squad (70 pts)
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 4x Scouts: 4 with Bolt Pistol, Close Combat Weapon, Combat Knife
+5x Vanguard Veteran Squad with Jump Packs (110 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack: Vanguard Veteran Weapon, Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs: 4 with Vanguard Veteran Weapon, Inferno Pistol
+5x Vanguard Veteran Squad with Jump Packs (110 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack: Vanguard Veteran Weapon, Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs: 4 with Vanguard Veteran Weapon, Inferno Pistol
+1x Predator Annihilator (130 pts): Armoured Tracks, Hunter Killer Missile, Predator Twin Lascannon, Storm Bolter, 2x Lascannon
+1x Predator Annihilator (130 pts): Armoured Tracks, Hunter Killer Missile, Predator Twin Lascannon, Storm Bolter, 2x Lascannon
+1x Predator Destructor (130 pts): Armoured Tracks, Hunter Killer Missile, Predator Autocannon, Storm Bolter, 2x Lascannon
+1x Predator Destructor (130 pts): Armoured Tracks, Hunter Killer Missile, Predator Autocannon, Storm Bolter, 2x Lascannon
+1x Predator Destructor (130 pts): Armoured Tracks, Hunter Killer Missile, Predator Autocannon, Storm Bolter, 2x Lascannon
+1x Vindicator (175 pts): Armoured Tracks, Demolisher Cannon, Hunter Killer Missile, Storm Bolter
+

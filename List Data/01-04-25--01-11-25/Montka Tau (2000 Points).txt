@@ -1,0 +1,199 @@
+Montka Tau (2000 Points)
+
+T'au Empire
+Mont'ka
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Cadre Fireblade (50 Points)
+• 1x Close combat weapon
+• 1x Fireblade pulse rifle
+• 2x Gun Drone
+
+Cadre Fireblade (50 Points)
+• 1x Close combat weapon
+• 1x Fireblade pulse rifle
+• 2x Gun Drone
+
+Cadre Fireblade (50 Points)
+• 1x Close combat weapon
+• 1x Fireblade pulse rifle
+• 2x Gun Drone
+
+Commander in Enforcer Battlesuit (100 Points)
+• Warlord
+• 1x Battlesuit fists
+• 2x Shield Drone
+• 1x T'au flamer
+• 3x T'au flamer
+• Enhancements: Coordinated Exploitation
+
+BATTLELINE
+
+Breacher Team (100 Points)
+• 1x Support turret
+• 1x Breacher Fire Warrior Shas'ui
+◦ 1x Close combat weapon
+◦ 1x Guardian Drone
+◦ 1x Marker Drone
+◦ 1x Pulse blaster
+◦ 1x Pulse pistol
+• 9x Breacher Fire Warrior
+◦ 9x Close combat weapon
+◦ 9x Pulse blaster
+◦ 9x Pulse pistol
+
+Breacher Team (100 Points)
+• 1x Support turret
+• 1x Breacher Fire Warrior Shas'ui
+◦ 1x Close combat weapon
+◦ 1x Guardian Drone
+◦ 1x Marker Drone
+◦ 1x Pulse blaster
+◦ 1x Pulse pistol
+• 9x Breacher Fire Warrior
+◦ 9x Close combat weapon
+◦ 9x Pulse blaster
+◦ 9x Pulse pistol
+
+Breacher Team (100 Points)
+• 1x Support turret
+• 1x Breacher Fire Warrior Shas'ui
+◦ 1x Close combat weapon
+◦ 1x Guardian Drone
+◦ 1x Marker Drone
+◦ 1x Pulse blaster
+◦ 1x Pulse pistol
+• 9x Breacher Fire Warrior
+◦ 9x Close combat weapon
+◦ 9x Pulse blaster
+◦ 9x Pulse pistol
+
+DEDICATED TRANSPORTS
+
+Devilfish (85 Points)
+• 1x Accelerator burst cannon
+• 1x Armoured hull
+• 2x Seeker missile
+• 2x Smart missile system
+
+Devilfish (85 Points)
+• 1x Accelerator burst cannon
+• 1x Armoured hull
+• 2x Seeker missile
+• 2x Smart missile system
+
+Devilfish (85 Points)
+• 1x Accelerator burst cannon
+• 1x Armoured hull
+• 2x Seeker missile
+• 2x Smart missile system
+
+OTHER DATASHEETS
+
+Broadside Battlesuits (180 Points)
+• 1x Broadside Shas'vre
+◦ 1x Crushing bulk
+◦ 1x Heavy rail rifle
+◦ 2x Missile Drone
+◦ 1x Twin plasma rifle
+◦ 1x Weapon Support System
+• 1x Broadside Shas'ui
+◦ 1x Crushing bulk
+◦ 1x Heavy rail rifle
+◦ 2x Missile Drone
+◦ 1x Twin plasma rifle
+◦ 1x Weapon Support System
+
+Crisis Starscythe Battlesuits (110 Points)
+• 1x Crisis Starscythe Shas'vre
+◦ 1x Battlesuit fists
+◦ 1x Gun Drone
+◦ 1x Shield Drone
+◦ 2x T'au flamer
+• 2x Crisis Starscythe Shas'ui
+◦ 2x Battlesuit fists
+◦ 2x Gun Drone
+◦ 1x Marker Drone
+◦ 1x Shield Drone
+◦ 4x T'au flamer
+
+Hammerhead Gunship (145 Points)
+• 2x Accelerator burst cannon
+• 1x Armoured hull
+• 1x Railgun
+• 2x Seeker missile
+
+Hammerhead Gunship (145 Points)
+• 2x Accelerator burst cannon
+• 1x Armoured hull
+• 1x Ion cannon
+• 2x Seeker missile
+
+Kroot Carnivores (65 Points)
+• 1x Long-quill
+◦ 1x Close combat weapon
+◦ 1x Kroot pistol
+◦ 1x Kroot rifle
+• 9x Kroot Carnivore
+◦ 9x Close combat weapon
+◦ 9x Kroot rifle
+
+Pathfinder Team (90 Points)
+• 1x Pathfinder Shas'ui
+◦ 1x Close combat weapon
+◦ 1x Gun Drone
+◦ 1x Marker Drone
+◦ 1x Pulse carbine
+◦ 1x Pulse pistol
+◦ 1x Recon Drone
+◦ 1x Semi-automatic grenade launcher
+• 9x Pathfinder
+◦ 9x Close combat weapon
+◦ 3x Ion rifle
+◦ 6x Pulse carbine
+◦ 9x Pulse pistol
+
+Piranhas (60 Points)
+• 1x Armoured hull
+• 1x Piranha fusion blaster
+• 2x Seeker missile
+• 2x Twin pulse carbine
+
+Sky Ray Gunship (140 Points)
+• 2x Accelerator burst cannon
+• 1x Armoured hull
+• 1x Seeker missile rack
+
+Sky Ray Gunship (140 Points)
+• 2x Accelerator burst cannon
+• 1x Armoured hull
+• 1x Seeker missile rack
+
+Stealth Battlesuits (60 Points)
+• 1x Stealth Shas'vre
+◦ 1x Battlesuit Support System
+◦ 1x Battlesuit fists
+◦ 1x Fusion blaster
+◦ 1x Homing Beacon
+◦ 1x Marker Drone
+◦ 1x Shield Drone
+• 2x Stealth Shas'ui
+◦ 2x Battlesuit fists
+◦ 2x Burst cannon
+
+Stealth Battlesuits (60 Points)
+• 1x Stealth Shas'vre
+◦ 1x Battlesuit Support System
+◦ 1x Battlesuit fists
+◦ 1x Fusion blaster
+◦ 1x Homing Beacon
+◦ 1x Marker Drone
+◦ 1x Shield Drone
+• 2x Stealth Shas'ui
+◦ 2x Battlesuit fists
+◦ 2x Burst cannon
+
+Exported with App Version: v1.24.0 (1), Data Version: v525
+

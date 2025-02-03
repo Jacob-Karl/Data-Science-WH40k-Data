@@ -1,0 +1,31 @@
++ TEAM: Rocket
++ PLAYER: VAS
++ ROSTER NAME: Подзадолбал уже этот ростер, когда там новые детачи демонов?
++ HIN: 167
++ Factions used: Chaos - Chaos Daemons
++ Total cost: 1995 pts
++
++ Number of Units: 11
++ Character Units (Models): 5 (5)
++ Vehicle/Monster Models (Max Points): 5 (17)
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++ Daemonic Incursion Army Roster 2000 pts ++
+
+EH1: Be'lakor: Warlord [325 pts]
+EH2: Syll'esske [120 pts]
+
+CH1: Great Unclean One: Bileblade, Bilesword, The Endless Gift [260 pts]
+CH2: Rendmaster on Blood Throne [165 pts]
+CH3: Rendmaster on Blood Throne [165 pts]
+
+MO1: Bloodcrushers: 5xBloodcrusher, Bloodhunter [220 pts]
+MO2: Bloodcrushers: 5xBloodcrusher, Bloodhunter [220 pts]
+MO3: Skull Cannon [95 pts]
+
+BE1: Beasts of Nurgle: Beast of Nurgle [70 pts]
+
+VE1: Slaanesh Soul Grinder: Warpclaw [180 pts]
+VE2: Slaanesh Soul Grinder: Warpclaw [180 pts]
+++++++++++++++++++++++++++++++++++++++++++++++++++
+

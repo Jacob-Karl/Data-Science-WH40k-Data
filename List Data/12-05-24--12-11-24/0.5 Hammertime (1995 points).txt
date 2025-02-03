@@ -1,0 +1,119 @@
+0.5 "Hammertime" (1995 points)
+
+Space Marines
+Blood Angels
+Strike Force (2000 points)
+Liberator Assault Group
+
+
+CHARACTERS
+
+Blood Angels Captain (90 points)
+• Warlord
+• 1x Inferno pistol
+1x Power fist
+• Enhancement: Rage-fuelled Warrior
+
+Chaplain in Terminator Armour (75 points)
+• 1x Crozius arcanum
+1x Storm bolter
+
+Chief Librarian Mephiston (125 points)
+• 1x Fury of the Ancients
+1x Plasma pistol
+1x Vitarus
+
+Lemartes (110 points)
+• 1x Absolvor bolt pistol
+1x The Blood Crozius
+
+Sanguinary Priest (115 points)
+• 1x Absolvor bolt pistol
+1x Astartes chainsword
+• Enhancement: Speed of the Primarch
+
+
+BATTLELINE
+
+Assault Intercessor Squad (150 points)
+• 1x Assault Intercessor Sergeant
+• 1x Plasma pistol
+1x Thunder hammer
+• 9x Assault Intercessor
+• 9x Astartes chainsword
+9x Heavy bolt pistol
+
+Intercessor Squad (80 points)
+• 1x Intercessor Sergeant
+• 1x Astartes grenade launcher
+1x Bolt pistol
+1x Bolt rifle
+1x Power fist
+• 4x Intercessor
+• 4x Bolt pistol
+4x Bolt rifle
+4x Close combat weapon
+
+
+OTHER DATASHEETS
+
+Assault Intercessors with Jump Packs (90 points)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma pistol
+1x Power fist
+• 4x Assault Intercessors with Jump Packs
+• 4x Astartes chainsword
+3x Heavy bolt pistol
+1x Plasma pistol
+
+Death Company Marines with Jump Packs (240 points)
+• 10x Death Company Marine with Jump Packs
+• 5x Astartes chainsword
+2x Eviscerator
+6x Heavy bolt pistol
+2x Inferno pistol
+2x Plasma pistol
+3x Power fist
+
+Gladiator Lancer (160 points)
+• 1x Armoured hull
+1x Icarus rocket pod
+1x Ironhail heavy stubber
+1x Lancer laser destroyer
+2x Storm bolter
+
+Gladiator Lancer (160 points)
+• 1x Armoured hull
+1x Icarus rocket pod
+1x Ironhail heavy stubber
+1x Lancer laser destroyer
+2x Storm bolter
+
+Scout Squad (65 points)
+• 1x Scout Sergeant
+• 1x Astartes chainsword
+1x Bolt pistol
+1x Close combat weapon
+• 4x Scout
+• 4x Bolt pistol
+4x Close combat weapon
+2x Combat knife
+1x Heavy bolter
+1x Scout sniper rifle
+
+Terminator Assault Squad (360 points)
+• 1x Assault Terminator Sergeant
+• 1x Storm Shield
+1x Thunder hammer
+• 9x Assault Terminator
+• 9x Storm Shield
+9x Thunder hammer
+
+Vindicator (175 points)
+• 1x Armoured tracks
+1x Demolisher cannon
+1x Hunter-killer missile
+1x Storm bolter
+
+Exported with App Version: v1.23.0 (63), Data Version: v507
+

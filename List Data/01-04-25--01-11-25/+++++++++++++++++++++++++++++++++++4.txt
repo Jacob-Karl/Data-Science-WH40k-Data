@@ -1,0 +1,36 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Space Wolves
++ DETACHMENT: Stormlance Task Force
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Bjorn the Fell-Handed
++ ENHANCEMENT: Portents of Wisdom (on Char2: Wolf Guard Battle Leader on Thunderwolf)
+& Fury of the Storm (on Char3: Wolf Guard Battle Leader on Thunderwolf)
+& Hunter's Instincts (on Char4: Wolf Lord on Thunderwolf)
++ NUMBER OF UNITS: 13
++ SECONDARY: - Bring It Down: (3x2) - Assassination: 7 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Bjorn the Fell-Handed (190 pts): Warlord, Heavy Flamer, Trueclaw, Helfrost cannon
+Char2: 1x Harald Deathwolf (85 pts): Bolt Pistol, Crushing teeth and claws, Glacius
+Char3: 1x Logan Grimnar on Stormrider (180 pts): Flurry of teeth and claws, Storm Bolter, The Axe Morkai
+Char4: 1x Wolf Guard Battle Leader on Thunderwolf (80 pts): Storm shield and close combat weapon, Close combat weaponCrushing teeth and claws, Thunder hammer, Close combat weapon
+Char5: 1x Wolf Guard Battle Leader on Thunderwolf (95 pts): Storm shield and close combat weapon, Close combat weaponCrushing teeth and claws, Thunder hammer, Close combat weapon
+Enhancement: Portents of Wisdom (+15 pts)
+Char6: 1x Wolf Guard Battle Leader on Thunderwolf (105 pts): Storm shield and close combat weapon, Close combat weaponCrushing teeth and claws, Thunder hammer, Close combat weapon
+Enhancement: Fury of the Storm (+25 pts)
+Char7: 1x Wolf Lord on Thunderwolf (125 pts): Relic shield and close combat weapon, Close combat weaponCrushing teeth and claws, Thunder Hammer, Close combat weapon
+Enhancement: Hunter's Instincts (+25 pts)
+
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+2 with Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Infiltrator Comms Array, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Helix Gauntlet, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+• 1x Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+6x Thunderwolf Cavalry (240 pts): 6 with Storm shield, Crushing teeth and claws, Heirloom weapon
+6x Thunderwolf Cavalry (240 pts): 6 with Storm shield, Crushing teeth and claws, Heirloom weapon
+6x Thunderwolf Cavalry (240 pts): 6 with Storm shield, Crushing teeth and claws, Heirloom weapon
+1x Gladiator Lancer (160 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, Lancer Laser Destroyer, 2x Storm Bolter
+1x Gladiator Lancer (160 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, Lancer Laser Destroyer, 2x Storm Bolter
+

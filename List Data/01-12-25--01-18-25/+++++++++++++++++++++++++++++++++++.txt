@@ -1,0 +1,174 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Mechanicus
++ DETACHMENT: Haloscreed Battleclade
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Belisarius Cawl
++ ENHANCEMENT: Sanctified Ordnance (on Char1: Skitarii Marshal)
++ NUMBER OF UNITS: 20
++ SECONDARY: - Bring It Down: (6x2) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Belisarius Cawl (150 pts)
+• 1x Arc scourge
+• 1x Cawl's Omnissian axe
+• 1x Mechadendrite hive
+• 1x Solar atomiser
+• Warlord
+
+1x Skitarii Marshal (45 pts)
+• 1x Control stave
+• 1x Mechanicus pistol
+• Sanctified Ordnance (+10 pts)
+
+1x Skitarii Marshal (35 pts)
+• 1x Control stave
+• 1x Mechanicus pistol
+
+1x Skitarii Marshal (35 pts)
+• 1x Control stave
+• 1x Mechanicus pistol
+
+1x Sydonian Skatros (50 pts)
+• 1x Mechanicus pistol
+• 1x Sydonian Feet
+• 1x Skatros transuranic arquebus
+
+BATTLELINE
+
+10x Skitarii Rangers (85 pts)
+• 1x Skitarii Ranger Alpha
+• 1x Alpha combat weapon
+• 1x Close combat weapon
+• 1x Galvanic rifle
+• 9x Skitarii Ranger
+• 1x Arc rifle
+• 9x Close combat weapon
+• 6x Galvanic rifle
+• 1x Plasma caliver
+• 1x Transuranic arquebus
+• Enhanced data-tether
+
+10x Skitarii Vanguard (95 pts)
+• 1x Skitarii Vanguard Alpha
+• 1x Alpha combat weapon
+• 1x Close combat weapon
+• 1x Radium carbine
+• 9x Skitarii Vanguard
+• 1x Arc rifle
+• 9x Close combat weapon
+• 6x Radium carbine
+• 1x Plasma caliver
+• 1x Transuranic arquebus
+• Enhanced data-tether
+
+10x Skitarii Vanguard (95 pts)
+• 1x Skitarii Vanguard Alpha
+• 1x Alpha combat weapon
+• 1x Close combat weapon
+• 1x Radium carbine
+• 9x Skitarii Vanguard
+• 1x Arc rifle
+• 9x Close combat weapon
+• 6x Radium carbine
+• 1x Plasma caliver
+• 1x Transuranic arquebus
+• Enhanced data-tether
+
+OTHER DATASHEETS
+
+5x Pteraxii Skystalkers (70 pts)
+• 1x Pteraxii Skystalker Alpha
+• 1x Flechette blaster
+• 1x Taser goad
+• 4x Pteraxii Skystalkers
+• 4x Close combat weapon
+• 4x Flechette carbine
+
+5x Pteraxii Skystalkers (70 pts)
+• 1x Pteraxii Skystalker Alpha
+• 1x Flechette blaster
+• 1x Taser goad
+• 4x Pteraxii Skystalkers
+• 4x Close combat weapon
+• 4x Flechette carbine
+
+5x Pteraxii Skystalkers (70 pts)
+• 1x Pteraxii Skystalker Alpha
+• 1x Flechette blaster
+• 1x Taser goad
+• 4x Pteraxii Skystalkers
+• 4x Close combat weapon
+• 4x Flechette carbine
+
+5x Sicarian Infiltrators (70 pts)
+• 4x Sicarian Infiltrator (Taser goad & flechette blaster)
+• 4x Flechette blaster
+• 4x Taser goad
+• 1x Sicarian Infiltrator Princeps (Taser goad & flechette blaster)
+• 1x Flechette blaster
+• 1x Taser goad
+
+10x Sicarian Ruststalkers (150 pts)
+• 9x Sicarian Ruststalker (Transonic razor & chordclaw)
+• 9x Transonic razor & chordclaw
+• 1x Sicarian Ruststalker Princeps (Transonic razor & chordclaw)
+• 1x Transonic razor & chordclaw
+
+3x Serberys Raiders (60 pts)
+• 1x Serberys Raider Alpha
+• 1x Cavalry sabre & clawed limbs
+• 1x Galvanic carbine
+• 1x Mechanicus pistol
+• 2x Serberys Raider
+• 2x Cavalry sabre & clawed limbs
+• 2x Galvanic carbine
+
+6x Serberys Sulphurhounds (110 pts)
+• 1x Serberys Sulphurhound Alpha
+• 1x Cavalry arc maul
+• 1x Clawed limbs
+• 1x Mechanicus pistol
+• 1x Sulphur breath
+• 2x Serberys Sulphurhound (Phosphor blast carbine & Phosphor pistol)
+• 2x Clawed limbs
+• 2x Phosphor blast carbine
+• 2x Phosphor pistol
+• 2x Sulphur breath
+• 3x Serberys Sulphurhound (Twin phosphor pistols)
+• 3x Clawed limbs
+• 6x Phosphor pistol
+• 3x Sulphur breath
+
+1x Archaeopter Stratoraptor (185 pts)
+• 1x Armoured hull
+• 2x Cognis heavy stubber
+• 2x Heavy phosphor blaster
+• 1x Twin cognis lascannon
+• Chaff Launcher
+
+1x Archaeopter Stratoraptor (185 pts)
+• 1x Armoured hull
+• 2x Cognis heavy stubber
+• 2x Heavy phosphor blaster
+• 1x Twin cognis lascannon
+• Chaff Launcher
+
+1x Skorpius Disintegrator (175 pts)
+• 1x Armoured hull
+• 3x Cognis heavy stubber
+• 1x Disruptor missile launcher
+• 1x Ferrumite cannon
+
+1x Skorpius Disintegrator (175 pts)
+• 1x Armoured hull
+• 3x Cognis heavy stubber
+• 1x Disruptor missile launcher
+• 1x Ferrumite cannon
+
+1x Skorpius Dunerider (85 pts)
+• 1x Armoured hull
+• 1x Cognis heavy stubber array
+

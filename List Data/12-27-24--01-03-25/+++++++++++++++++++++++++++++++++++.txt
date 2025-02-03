@@ -1,0 +1,33 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Custodes
++ DETACHMENT: Solar Spearhead
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char2: Telemon Heavy Dreadnought
++ ENHANCEMENT: Adamantine Talisman (on Char1: Blade Champion)
+& Augury Uplink (on Vehi3: Telemon Heavy Dreadnought)
++ NUMBER OF UNITS: 12
++ SECONDARY: - Bring It Down: (8x2) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Blade Champion (135 pts): Vaultswords
+Enhancement: Adamantine Talisman (+25 pts)
+
+4x Custodian Wardens (200 pts)
+• 3x Custodian Warden (Guardian Spear): 3 with Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: 3 with Boltgun, Close combat weapon
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: 3 with Boltgun, Close combat weapon
+1x Caladius Grav-tank (215 pts): Armoured hull, Twin lastrum bolt cannon, Twin arachnus heavy blaze cannon
+1x Caladius Grav-tank (215 pts): Armoured hull, Twin lastrum bolt cannon, Twin arachnus heavy blaze cannon
+Char2: 1x Telemon Heavy Dreadnought (240 pts): Armoured feet, Warlord, Augury Uplink, Spiculus bolt launcher, Arachnus storm cannon, Telemon Caestus & twin plasma projector
+1x Telemon Heavy Dreadnought (215 pts): Armoured feet, Spiculus bolt launcher, Arachnus storm cannon, Telemon Caestus & twin plasma projector
+1x Telemon Heavy Dreadnought (215 pts): Armoured feet, Spiculus bolt launcher, Arachnus storm cannon, Telemon Caestus & twin plasma projector
+1x Venerable Contemptor Dreadnought (160 pts): Combi-bolter, Contemptor combat weapon, Multi-melta
+1x Venerable Contemptor Dreadnought (160 pts): Combi-bolter, Contemptor combat weapon, Multi-melta
+1x Venerable Contemptor Dreadnought (160 pts): Combi-bolter, Contemptor combat weapon, Multi-melta
+

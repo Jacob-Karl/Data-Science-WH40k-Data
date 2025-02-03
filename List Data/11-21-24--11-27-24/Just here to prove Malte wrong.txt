@@ -1,0 +1,66 @@
+Just here to prove Malte wrong
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Retaliation Cadre
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char3: Commander in Coldstar Battlesuit
++ ENHANCEMENT: Internal Grenade Racks (on Char1: Commander in Coldstar Battlesuit)
+& Starflare Ignition System (on Char2: Commander in Coldstar Battlesuit)
+& Prototype Weapon System (on Char4: Commander in Enforcer Battlesuit)
++ NUMBER OF UNITS: 20
++ SECONDARY: - Bring It Down: (14x2) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Commander Farsight (95 pts): Dawn Blade, High-intensity plasma rifle
+Char2: 1x Commander in Coldstar Battlesuit (115 pts): 2x Shield Drone, Battlesuit fists, 4x Fusion blaster
+Enhancement: Internal Grenade Racks (+20 pts)
+Char3: 1x Commander in Coldstar Battlesuit (115 pts): Warlord, 2x Shield Drone, Battlesuit fists, Cyclic ion blaster, High-output burst cannon, 2x Missile pod
+Enhancement: Starflare Ignition System (+20 pts)
+Char4: 1x Commander in Enforcer Battlesuit (80 pts): Marker Drone, Battlesuit fists, 4x Fusion blaster, Twin pulse carbine
+Char5: 1x Commander in Enforcer Battlesuit (95 pts): Shield Drone, Battlesuit fists, Cyclic ion blaster, 3x Missile pod, Gundrone
+Enhancement: Prototype Weapon System (+15 pts)
+
+10x Kroot Carnivores (65 pts)
+• 1x Long-quill: Close combat weapon, Kroot pistol, Kroot rifle
+• 1x Kroot Carnivore: Close combat weapon, Tanglebomb launcher
+• 8x Kroot Carnivores: 8 with Close combat weapon, Kroot rifle
+10x Pathfinder Team (90 pts)
+• 9x Pathfinders
+5 with Close combat weapon, Pulse carbine, Pulse pistol
+1 with Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher
+3 with Close combat weapon, Ion rifle, Pulse pistol
+• 1x Pathfinder Shas'ui: Gundrone, Shield Drone, Recon drone, Drone burst cannon, Close combat weapon, Pulse carbine, Pulse pistol, Drone burst cannon
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre: Battlesuit support system, Homing beacon, Marker Drone, Shield Drone, Battlesuit fists, Fusion blaster
+• 2x Stealth Shas'ui: 2 with Battlesuit fists, Burst cannon
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre: Battlesuit support system, Homing beacon, Marker Drone, Shield Drone, Battlesuit fists, Fusion blaster
+• 2x Stealth Shas'ui: 2 with Battlesuit fists, Burst cannon
+5x Vespid Stingwings (65 pts)
+• 1x Vespid Strain Leader: Neutron blaster, Stingwing claws
+• 4x Vespid Stingwings: 4 with Neutron blaster, Stingwing claws
+5x Vespid Stingwings (65 pts)
+• 1x Vespid Strain Leader: Neutron blaster, Stingwing claws
+• 4x Vespid Stingwings: 4 with Neutron blaster, Stingwing claws
+3x Crisis Fireknife Battlesuits (130 pts)
+• 1x Crisis Fireknife Shas'vre: Marker Drone, Battlesuit fists, 2x Plasma rifle, Gundrone
+• 2x Crisis Fireknife Shas'ui: 2 with Shield Drone & Gundrone Battlesuit fists, 2x Plasma rifle, Twin pulse carbine
+3x Crisis Starscythe Battlesuits (110 pts)
+• 1x Crisis Starscythe Shas'vre: Marker Drone, Battlesuit fists, 2x T'au flamer, Gundrone
+• 2x Crisis Starscythe Shas'ui: 2 with Shield Drone & Gundrone, Battlesuit fists, 2x T'au flamer, Twin pulse carbine
+3x Crisis Starscythe Battlesuits (110 pts)
+• 1x Crisis Starscythe Shas'vre: Marker Drone, Battlesuit fists, 2x Burst cannon, Gundrone
+• 2x Crisis Starscythe Shas'ui: 2 with Shield Drone & Gundrone, Battlesuit fists, 2x Burst cannon, Twin pulse carbine
+3x Crisis Sunforge Battlesuits (150 pts)
+• 1x Crisis Sunforge Shas'vre: Marker Drone, Battlesuit fists, 2x Fusion blaster, Gundrone
+• 2x Crisis Sunforge Shas'ui: 2 with Shield Drone & Gundrone Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+3x Crisis Sunforge Battlesuits (150 pts)
+• 1x Crisis Sunforge Shas'vre: Marker Drone, Battlesuit fists, 2x Fusion blaster, Gundrone
+• 2x Crisis Sunforge Shas'ui: 2 with Shield Drone & Gundrone, Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+1x Ghostkeel Battlesuit (160 pts): Battlesuit support system, Ghostkeel fists, Cyclic ion raker, Twin T'au flamer
+1x Ghostkeel Battlesuit (160 pts): Battlesuit support system, Ghostkeel fists, Fusion collider, Twin fusion blaster
+1x Piranha (60 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile
+1x Piranha (60 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile
+

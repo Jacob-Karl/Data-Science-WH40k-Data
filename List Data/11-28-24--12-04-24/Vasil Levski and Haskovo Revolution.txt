@@ -1,0 +1,80 @@
+Vasil Levski and Haskovo Revolutionary Comitee
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Asmodai [70pts]
+
+Azrael [115pts]
+
+Lion El'Jonson [285pts]
+
++ Battleline +
+
+
+Assault Intercessor Squad [75pts]
+
+. Assault Intercessor Sergeant: Plasma Pistol, Thunder Hammer
+. 4x Assault Intercessors: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
++ Infantry +
+
+
+Deathwing Knights [250pts]: Power Weapon, Watcher in the Dark
+
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Deathwing Knights [250pts]: Mace of absolution, Watcher in the Dark
+
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Inner Circle Companions [180pts]
+
+. 6x Inner Circle Companion: 6x Calibanite Greatsword, 6x Heavy Bolt Pistol
+
+Scout Squad [65pts]
+
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Heavy Bolter
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Astartes Shotgun: 2x Astartes Shotgun, 2x Bolt Pistol, 2x Close Combat Weapon
+
++ Vehicle +
+
+
+Ballistus Dreadnought [130pts]
+
+Vindicator [175pts]: Hunter Killer Missile, Storm Bolter
+
+Vindicator [175pts]: Hunter Killer Missile, Storm Bolter
+
++ Allied Units +
+
+
+Sisters of Battle Immolator [115pts]: Hunter-killer missile, Twin multi-melta
+
+Sisters of Battle Squad [115pts]
+
+. 6x Battle Sister: 6x Bolt pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialis
+. Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. Battle Sister w/ Special Weapon: Meltagun
+. Sister Superior: Condemnor boltgun, Power weapon
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

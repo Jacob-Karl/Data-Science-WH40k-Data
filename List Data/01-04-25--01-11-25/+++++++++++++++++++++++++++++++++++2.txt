@@ -1,0 +1,25 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Imperial Knights
++ DETACHMENT: Noble Lance
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char3: Knight Errant
++ ENHANCEMENT: Banner of Macharius Triumphant (on Char2: Knight Errant)
++ NUMBER OF UNITS: 9
++ SECONDARY: - Bring It Down: (5x2) + (3x6) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Canis Rex (450 pts)
+• 1x Canis Rex: Chainbreaker las-impulsor, Chainbreaker multi-laser, Freedom's Hand
+• 1x Sir Hekhtur: Close combat weapon, Hekhtur's pistol
+Char2: 1x Knight Errant (390 pts): Thermal cannon, Stormspear rocket pod, Questoris heavy stubber, Thunderstrike gauntlet
+Char3: 1x Knight Errant (420 pts): Warlord, Thermal cannon, Stormspear rocket pod, Questoris heavy stubber, Thunderstrike gauntlet
+Enhancement: Banner of Macharius Triumphant (+30 pts)
+
+1x Armiger Helverin (130 pts): 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+1x Armiger Warglaive (140 pts): Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+1x Armiger Warglaive (140 pts): Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+1x Armiger Warglaive (140 pts): Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+1x Armiger Warglaive (140 pts): Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+Char4: 1x Ministorum Priest (40 pts): Zealot's vindictor

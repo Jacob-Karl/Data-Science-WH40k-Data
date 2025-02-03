@@ -1,0 +1,77 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Daemons
++ DETACHMENT: Daemonic Incursion (The Shadow of Chaos)
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Be'lakor
++ ENHANCEMENT: The Everstave (on Char1: Lord of Change)
++ NUMBER OF UNITS: 12
++ SECONDARY: - Bring It Down: (2x4) + (2x6) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Be'lakor (325 pts)
+• 1x Betraying Shades
+• 1x The Blade of Shadows
+• Warlord
+
+1x Kairos Fateweaver (270 pts)
+• 1x Infernal Gateway
+• 1x Staff of Tomorrow
+
+1x Shalaxi Helbane (425 pts)
+• 1x Lash of Slaanesh
+• 1x Pavane of Slaanesh
+• 1x Snapping claws
+• 1x Soulpiercer
+
+1x The Changeling (90 pts)
+• 1x Infernal Flames
+• 1x The Trickster's Staff
+
+1x Lord of Change (285 pts)
+• 1x Bolt of Change
+• 1x Staff of Tzeentch
+• 1x Rod of sorcery
+• The Everstave (+25 pts)
+
+BATTLELINE
+
+3x Nurglings (40 pts)
+• 3x Nurgling Swarm
+• 3x Diseased claws and teeth
+
+10x Pink Horrors (140 pts)
+• 10x Pink Horror
+• 10x Coruscating Pink flames
+• 10x Pink claws
+• Instrument of Chaos, Daemonic Icon
+
+10x Plaguebearers (110 pts)
+• 10x Plaguebearer
+• 10x Plaguesword
+• Instrument of Chaos, Daemonic Icon
+
+OTHER DATASHEETS
+
+5x Seekers (80 pts)
+• 5x Seeker
+• 5x Lashing tongues
+• 5x Slashing claws
+• Instrument of Chaos, Daemonic Icon
+
+5x Seekers (80 pts)
+• 5x Seeker
+• 5x Lashing tongues
+• 5x Slashing claws
+• Instrument of Chaos, Daemonic Icon
+
+3x Screamers (75 pts)
+• 3x Screamer
+• 3x Lamprey bite
+
+3x Screamers (75 pts)
+• 3x Screamer
+• 3x Lamprey bite
+

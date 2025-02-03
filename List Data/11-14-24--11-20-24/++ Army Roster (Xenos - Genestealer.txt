@@ -1,0 +1,110 @@
+++ Army Roster (Xenos - Genestealer Cults) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Biosanctic Broodsurge
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Abominant [95pts]: Predatory Instincts
+
+Abominant [75pts]
+
+Abominant [75pts]
+
+Acolyte Iconward [50pts]
+
+Patriarch [100pts]: Biomorph Adaption
+
++ Battleline +
+
+
+Acolyte Hybrids with Autopistols [65pts]
+
+. 4x Acolyte Hybrid w/ Auto Pistol: 4x Autopistol, 4x Cult Claws and Knife
+. Acolyte Leader: Cult Claws and Knife
+
+Acolyte Hybrids with Hand Flamers [70pts]
+
+. 4x Acolyte Hybrid w/ Hand Flamer: 4x Cult Claws and Knife, 4x Hand Flamer
+. Acolyte Leader: Autopistol, Cult Claws and Knife
+
+Acolyte Hybrids with Hand Flamers [70pts]
+
+. 4x Acolyte Hybrid w/ Hand Flamer: 4x Cult Claws and Knife, 4x Hand Flamer
+. Acolyte Leader: Autopistol, Cult Claws and Knife
+
+Acolyte Hybrids with Hand Flamers [70pts]
+
+. 4x Acolyte Hybrid w/ Hand Flamer: 4x Cult Claws and Knife, 4x Hand Flamer
+. Acolyte Leader: Autopistol, Cult Claws and Knife
+
+Acolyte Hybrids with Hand Flamers [70pts]
+
+. 4x Acolyte Hybrid w/ Hand Flamer: 4x Cult Claws and Knife, 4x Hand Flamer
+. Acolyte Leader: Autopistol, Cult Claws and Knife
+
+Neophyte Hybrids [130pts]
+
+. Neophyte Hybrid w/ Heavy Weapon: Seismic Cannon
+. 9x Neophyte Hybrid w/ Hybrid Firearm: 9x Autopistol, 9x Close Combat Weapon, 9x Hybrid Firearm
+. Neophyte Leader
+
+. . Autopistol, Hybrid Firearm, and Close Combat Weapon
+
++ Infantry +
+
+
+Aberrants [135pts]: Aberrant, Aberrant, Aberrant, Aberrant
+
+Aberrants [135pts]: Aberrant, Aberrant, Aberrant, Aberrant
+
+Aberrants [135pts]: Aberrant, Aberrant, Aberrant, Aberrant
+
+Purestrain Genestealers [150pts]
+
+. 10x Purestrain Genestealer: 10x Cult Claws and Talons
+
+Purestrain Genestealers [75pts]
+
+. 5x Purestrain Genestealer: 5x Cult Claws and Talons
+
+Purestrain Genestealers [75pts]
+
+. 5x Purestrain Genestealer: 5x Cult Claws and Talons
+
++ Mounted +
+
+
+Atalan Jackals [80pts]
+
+. 4x Atalan Jackal: 4x Atalan Small Arms, 4x Close Combat Weapon
+. Atalan Wolfquad: Heavy Stubber
+
++ Vehicle +
+
+
+Achilles Ridgerunners [75pts]
+
+. Achilles Ridgerunner: Heavy Mortar, Spotter
+
+Achilles Ridgerunners [75pts]
+
+. Achilles Ridgerunner: Heavy Mining Laser, Spotter
+
+Achilles Ridgerunners [75pts]
+
+. Achilles Ridgerunner: Heavy Mortar, Spotter
+
+Goliath Rockgrinder [120pts]: Clearance Incinerator
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

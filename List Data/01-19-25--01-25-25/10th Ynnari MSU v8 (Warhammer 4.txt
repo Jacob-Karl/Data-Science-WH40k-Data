@@ -1,0 +1,144 @@
++++ 10th Ynnari MSU v8 (Warhammer 40,000 10th Edition) +++
+
+++ Army Roster (Aeldari - Ynnari) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Battle Host
+
+Show/Hide Options
+
++ Epic Hero +
+
+
+The Visarch [90pts]
+
+Yvraine [125pts]: Warlord
+
++ Character +
+
+
+Death Jester [105pts]: Fate's Messenger
+
+Troupe Master [55pts]: Fusion Pistol, Troupe Master's Blade
+
++ Battleline +
+
+
+Kabalite Warriors [110pts]
+
+5x Kabalite Warrior: 5x Close Combat Weapon, 5x Splinter rifle
+Kabalite Warrior with Blaster
+Kabalite Warrior with Dark Lance
+Kabalite Warrior with Shredder
+Kabalite Warrior with Splinter Cannon
+Sybarite: Blast Pistol, Phantasm Grenade Launcher, Sybarite Weapon
+
+Kabalite Warriors [110pts]
+
+5x Kabalite Warrior: 5x Close Combat Weapon, 5x Splinter rifle
+Kabalite Warrior with Blaster
+Kabalite Warrior with Dark Lance
+Kabalite Warrior with Shredder
+Kabalite Warrior with Splinter Cannon
+Sybarite: Blast Pistol, Phantasm Grenade Launcher, Sybarite Weapon
+
++ Infantry +
+
+
+Scourges [130pts]
+
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Solarite: Shardcarbine, Solarite Weapon
+
+Scourges [130pts]
+
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Solarite: Shardcarbine, Solarite Weapon
+
+Scourges [130pts]
+
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Scourge with Heavy Weapon: Dark Lance
+Solarite: Shardcarbine, Solarite Weapon
+
+Shadow Spectres [115pts]
+
+5x Shadow Spectre: 5x Close combat weapon, 5x Prism Rifle
+
+Striking Scorpions [65pts]
+
+4x Striking Scorpion: 4x Scorpion chainsword, 4x Shuriken pistol
+Striking Scorpion Exarch: Biting blade
+
+Striking Scorpions [65pts]
+
+4x Striking Scorpion: 4x Scorpion chainsword, 4x Shuriken pistol
+Striking Scorpion Exarch: Biting blade
+
+Striking Scorpions [65pts]
+
+4x Striking Scorpion: 4x Scorpion chainsword, 4x Shuriken pistol
+Striking Scorpion Exarch: Biting blade
+
+Troupe [75pts]
+
+Lead Player: Aeldari power sword, Fusion Pistol
+3x Player: 3x Harlequin's Blade, 3x Shuriken Pistol
+Player with Fusion Pistol: Harlequin's Special Weapon
+
+Troupe [75pts]
+
+Lead Player: Aeldari power sword, Fusion Pistol
+3x Player: 3x Harlequin's Blade, 3x Shuriken Pistol
+Player with Fusion Pistol: Harlequin's Special Weapon
+
+Troupe [75pts]
+
+Lead Player: Aeldari power sword, Fusion Pistol
+3x Player: 3x Harlequin's Blade, 3x Shuriken Pistol
+Player with Fusion Pistol: Harlequin's Special Weapon
+
++ Mounted +
+
+
+Reavers [65pts]
+
+Arena Champion: Agonizer, Cluster Caltrops, Heat Lance
+Reaver
+Reaver
+
+Reavers [65pts]
+
+Arena Champion: Agonizer, Cluster Caltrops, Heat Lance
+Reaver
+Reaver
+
++ Vehicle +
+
+
+Falcon [130pts]: Bright Lance, Shuriken Cannon
+
+Vyper [75pts]: Shuriken Cannon
+
++ Dedicated Transport +
+
+
+Venom [70pts]: Splinter Cannon
+
+Venom [70pts]: Splinter Cannon
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()

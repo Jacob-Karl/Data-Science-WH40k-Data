@@ -1,0 +1,138 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Deathwatch
++ DETACHMENT: Black Spear Task Force
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Captain with Jump Pack
++ ENHANCEMENT: The Tome of Ectoclades (on Char1: Captain with Jump Pack)
+& Thief of Secrets (on Char2: Judiciar)
+& Beacon Angelis (on Char3: Watch Master)
++ NUMBER OF UNITS: 12
++ SECONDARY: - Assassination: 3 Characters - Cull The Horde: 4x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Captain with Jump Pack (115 pts)
+• 1x Relic Shield
+• 1x Thunder Hammer
+• Warlord
+• The Tome of Ectoclades (+30 pts)
+
+1x Judiciar (95 pts)
+• 1x Absolver Bolt Pistol
+• 1x Executioner Relic Blade
+• Thief of Secrets (+25 pts)
+
+1x Watch Master (130 pts)
+• 1x Vigil spear
+• Beacon Angelis (+25 pts)
+
+BATTLELINE
+
+10x Deathwatch Veterans (200 pts)
+• 9x Model
+• 3x Power weapon
+• 4x Deathwatch thunder hammer
+• 2x Close combat weapon
+• 2x Frag cannon
+• 3x Astartes shield
+• 1x Sgt
+• 1x Xenophase blade
+• Astartes shield
+
+5x Intercessor Squad (80 pts)
+• 1x Intercessor Sergeant
+• 1x Astartes Grenade Launcher
+• 1x Bolt Pistol
+• 1x Bolt Rifle
+• 1x Thunder Hammer
+• 4x Intercessors
+• 4x Bolt Pistol
+• 4x Bolt Rifle
+• 4x Close Combat Weapon
+
+OTHER DATASHEETS
+
+5x Incursor Squad (80 pts)
+• 4x Incursor
+• 4x Bolt Pistol
+• 4x Occulus Bolt Carbine
+• 4x Paired Combat Blades
+• Haywire Mine
+• 1x Incursor Sergeant
+• 1x Bolt Pistol
+• 1x Occulus Bolt Carbine
+• 1x Paired Combat Blades
+
+5x Incursor Squad (80 pts)
+• 4x Incursor
+• 4x Bolt Pistol
+• 4x Occulus Bolt Carbine
+• 4x Paired Combat Blades
+• Haywire Mine
+• 1x Incursor Sergeant
+• 1x Bolt Pistol
+• 1x Occulus Bolt Carbine
+• 1x Paired Combat Blades
+
+10x Indomitor Kill Team (270 pts)
+• 10x Kill Team Heavy Intercessor
+• 7x Bolt pistol
+• 7x Close combat weapon
+• 2x Deathwatch heavy bolt rifle
+• 2x Deathwatch heavy bolter
+• 2x Melta rifle
+• 1x Multi-melta
+• 3x Auto boltstorm gauntlets
+• 3x Fragstorm grenade launcher
+• 3x Twin power fists
+
+10x Indomitor Kill Team (270 pts)
+• 10x Kill Team Heavy Intercessor
+• 7x Bolt pistol
+• 7x Close combat weapon
+• 2x Deathwatch heavy bolt rifle
+• 2x Deathwatch heavy bolter
+• 2x Melta rifle
+• 1x Multi-melta
+• 3x Auto boltstorm gauntlets
+• 3x Fragstorm grenade launcher
+• 3x Twin power fists
+
+5x Sternguard Veteran Squad (100 pts)
+• 1x Sternguard Veteran Sergeant
+• 1x Close Combat Weapon
+• 1x Sternguard Bolt Pistol
+• 1x Power Fist
+• 1x Sternguard Bolt Rifle
+• 4x Sternguard Veteran
+• 4x Close Combat Weapon
+• 4x Sternguard Bolt Pistol
+• 3x Sternguard Bolt Rifle
+• 1x Sternguard Heavy Bolter
+
+10x Talonstrike Kill Team (290 pts)
+• 1x Kill Team Sergeant
+• 1x Power Fist
+• 1x Plasma pistol
+• 5x Heavy Intercessor
+• 5x Close Combat Weapon
+• 5x Plasma exterminators
+• 4x Intercessor
+• 4x Astartes Chainsword
+• 2x Heavy Bolt Pistol
+• 2x Plasma pistol
+
+10x Talonstrike Kill Team (290 pts)
+• 1x Kill Team Sergeant
+• 1x Power Fist
+• 1x Plasma pistol
+• 5x Heavy Intercessor
+• 5x Close Combat Weapon
+• 5x Plasma exterminators
+• 4x Intercessor
+• 4x Astartes Chainsword
+• 2x Heavy Bolt Pistol
+• 2x Plasma pistol
+

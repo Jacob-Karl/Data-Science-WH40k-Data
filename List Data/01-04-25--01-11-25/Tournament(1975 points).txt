@@ -1,0 +1,79 @@
+Tournament(1975 points)
+
+Chaos Knights
+Strike Force (2000 points)
+Traitoris Lance
+
+
+CHARACTERS
+
+Knight Desecrator (410 points)
+• 1x Desecrator laser destructor
+1x Diabolus heavy stubber
+1x Reaper chainsword
+
+Knight Despoiler (445 points)
+• Warlord
+• 1x Daemonbreath meltagun
+1x Daemonbreath thermal cannon
+1x Despoiler battle cannon
+1x Diabolus heavy stubber
+1x Ruinspear rocket pod
+1x Titanic feet
+• Enhancement: The Traitor's Mark
+
+War Dog Stalker (165 points)
+• 1x Avenger chaincannon
+1x Diabolus heavy stubber
+1x Reaper chaintalon
+• Enhancement: Aura of Terror
+* This Datasheet also has the Battleline keyword.
+
+War Dog Stalker (155 points)
+• 1x Daemonbreath spear
+1x Diabolus heavy stubber
+1x Slaughterclaw
+• Enhancement: Lord of Dread
+* This Datasheet also has the Battleline keyword.
+
+
+BATTLELINE
+
+War Dog Brigand (165 points)
+• 1x Armoured feet
+1x Avenger chaincannon
+1x Daemonbreath spear
+1x Havoc multi-launcher
+
+War Dog Executioner (130 points)
+• 1x Armoured feet
+1x Diabolus heavy stubber
+2x War Dog autocannon
+
+War Dog Executioner (130 points)
+• 1x Armoured feet
+1x Diabolus heavy stubber
+2x War Dog autocannon
+
+War Dog Executioner (130 points)
+• 1x Armoured feet
+1x Diabolus heavy stubber
+2x War Dog autocannon
+
+War Dog Huntsman (140 points)
+• 1x Daemonbreath spear
+1x Diabolus heavy stubber
+1x Reaper chaintalon
+
+
+ALLIED UNITS
+
+Beasts of Nurgle (65 points)
+• 1x Putrid appendages
+
+Nurglings (40 points)
+• 3x Nurgling Swarm
+• 3x Diseased claws and teeth
+
+Exported with App Version: v1.24.0 (64), Data Version: v525
+

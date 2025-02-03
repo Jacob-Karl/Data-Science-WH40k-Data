@@ -1,0 +1,34 @@
+Halloween Town is a fantasy world populated by various monsters and supernatural beings. Jack Skellington, the well-respected Silent King, leads the town in organizing the annual Halloween celebrations. This year, however, Jack grows tired of the same routine and longs for something new. Upon discovering trees containing doors to other holiday-themed worlds, Jack stumbles through the one leading to Christmas Town and is fascinated by the unfamiliar holiday.
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Starshatter Arsenal
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: The Silent King
++ ENHANCEMENT: Chrono-impedance Fields (on Char1: Skorpekh Lord)
+& Demanding Leader (on Char2: Technomancer)
++ NUMBER OF UNITS: 14
++ SECONDARY: - Bring It Down: (3x2) + (1x6) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Imotekh the Stormlord (100 pts): Gauntlet of Fire, Staff of the Destroyer
+Char2: 3x The Silent King (420 pts): Warlord
+• 1x Szarekh: Sceptre of Eternal Glory, Staff of Stars, Weapons of the Final Triarch
+• 2x Triarchal Menhir: 2 with Annihilator beam, Armoured bulk
+Char3: 1x Skorpekh Lord (105 pts): Enmitic annihilator, Flensing claw, Hyperphase harvester
+Enhancement: Chrono-impedance Fields (+25 pts)
+Char4: 1x Technomancer (95 pts): Staff of light
+Enhancement: Demanding Leader (+10 pts)
+
+5x Flayed Ones (60 pts): 5 with Flayer claws
+3x Ophydian Destroyers (80 pts): Plasmacyte, 3 with Ophydian hyperphase weapons
+3x Skorpekh Destroyers (90 pts): Plasmacyte, 3 with Skorpekh hyperphase weapons
+6x Lokhust Destroyers (180 pts): 6 with Close combat weapon, Gauss cannon
+1x Lokhust Destroyers (35 pts): Close combat weapon, Gauss cannon
+1x Lokhust Destroyers (35 pts): Close combat weapon, Gauss cannon
+6x Canoptek Wraiths (230 pts): 6 with Particle caster, Vicious claws
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+

@@ -1,0 +1,115 @@
+Gk court (2000 Points)
+
+Grey Knights
+Warpbane Taskforce
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Brotherhood Techmarine (85 Points)
+• 1x Boltgun
+• 1x Flamer
+• 1x Omnissian power axe
+• 1x Plasma cutter
+• 1x Servo-arms
+• Enhancements: Radiant Champion
+
+Castellan Crowe (90 Points)
+• Warlord
+• 1x Black Blade of Antwyr
+• 1x Purifying Flame
+• 1x Storm bolter
+
+Grand Master in Nemesis Dreadknight (210 Points)
+• 1x Gatling psilencer
+• 1x Heavy psycannon
+• 1x Nemesis daemon greathammer
+
+BATTLELINE
+
+Strike Squad (120 Points)
+• 1x Justicar
+◦ 1x Nemesis force weapon
+◦ 1x Storm bolter
+• 4x Grey Knight
+◦ 4x Nemesis force weapon
+◦ 4x Storm bolter
+
+Strike Squad (120 Points)
+• 1x Justicar
+◦ 1x Nemesis force weapon
+◦ 1x Storm bolter
+• 4x Grey Knight
+◦ 4x Nemesis force weapon
+◦ 4x Storm bolter
+
+OTHER DATASHEETS
+
+Nemesis Dreadknight (210 Points)
+• 1x Gatling psilencer
+• 1x Heavy psycannon
+• 1x Nemesis daemon greathammer
+
+Nemesis Dreadknight (210 Points)
+• 1x Gatling psilencer
+• 1x Heavy psycannon
+• 1x Nemesis daemon greathammer
+
+Nemesis Dreadknight (210 Points)
+• 1x Gatling psilencer
+• 1x Heavy psycannon
+• 1x Nemesis daemon greathammer
+
+Purifier Squad (250 Points)
+• 1x Knight of the Flame
+◦ 1x Nemesis force weapon
+◦ 1x Purifying Flame
+◦ 1x Storm bolter
+• 9x Purifier
+◦ 9x Nemesis force weapon
+◦ 9x Purifying Flame
+◦ 9x Storm bolter
+
+Purifier Squad (250 Points)
+• 1x Knight of the Flame
+◦ 1x Nemesis force weapon
+◦ 1x Purifying Flame
+◦ 1x Storm bolter
+• 9x Purifier
+◦ 9x Nemesis force weapon
+◦ 9x Purifying Flame
+◦ 9x Storm bolter
+
+Purifier Squad (125 Points)
+• 1x Knight of the Flame
+◦ 1x Nemesis force weapon
+◦ 1x Purifying Flame
+◦ 1x Storm bolter
+• 4x Purifier
+◦ 4x Nemesis force weapon
+◦ 4x Purifying Flame
+◦ 4x Storm bolter
+
+Servitors (50 Points)
+• 4x Servitor
+◦ 2x Multi-melta
+◦ 2x Servitor's servo-arm
+◦ 2x Servitor's tools
+
+ALLIED UNITS
+
+Voidsmen-at-Arms (70 Points)
+• 1x Voidmaster
+◦ 1x Artificer shotgun
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 4x Voidsman
+◦ 4x Close combat weapon
+◦ 3x Lasgun
+◦ 4x Laspistol
+◦ 1x Voidsman rotor cannon
+• 1x Canid
+◦ 1x Vicious bite
+
+Exported with App Version: v1.24.0 (1), Data Version: v525
+

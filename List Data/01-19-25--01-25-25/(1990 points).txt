@@ -1,0 +1,80 @@
+(1990 points)
+
+Imperial Knights
+Strike Force (2000 points)
+Noble Lance
+
+
+CHARACTERS
+
+Canis Rex (450 points)
+• Warlord
+• 1x Chainbreaker las-impulsor
+1x Chainbreaker multi-laser
+1x Freedom's Hand
+
+Knight Warden (490 points)
+• 1x Avenger gatling cannon
+1x Heavy flamer
+1x Questoris heavy stubber
+1x Stormspear rocket pod
+1x Thunderstrike gauntlet
+• Enhancement: Unyielding Paragon
+
+
+BATTLELINE
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+
+ALLIED UNITS
+
+Sisters of Battle Immolator (115 points)
+• 1x Armoured tracks
+1x Heavy bolter
+1x Hunter-killer missile
+1x Twin multi-melta
+
+Sisters of Battle Squad (115 points)
+• 1x Sister Superior
+• 1x Bolt pistol
+1x Close combat weapon
+1x Combi-weapon
+1x Power weapon
+• 9x Battle Sister
+• 9x Bolt pistol
+7x Boltgun
+9x Close combat weapon
+1x Meltagun
+1x Multi-melta
+1x Simulacrum Imperialis
+
+Exported with App Version: v1.26.0 (67), Data Version: v541

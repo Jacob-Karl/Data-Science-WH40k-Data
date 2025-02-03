@@ -1,0 +1,175 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Aeldari - Drukhari
++ DETACHMENT: Reaper's Wager
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char3: Archon
++ ENHANCEMENT: Archraider (on Char1: Archon)
+& Conductor of Torment (on Char2: Succubus)
++ NUMBER OF UNITS: 22
++ SECONDARY: - Bring It Down: (11x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Lelith Hesperax (95 pts)
+•⁠ ⁠1x Lelith's blades
+
+1x Urien Rakarth (80 pts)
+•⁠ ⁠1x Casket of Flensing
+•⁠ ⁠1x Haemonculus tools and scissorhands
+
+1x Archon (100 pts)
+•⁠ ⁠1x Huskblade
+•⁠ ⁠1x Blast Pistol
+•⁠ ⁠Warlord
+•⁠ ⁠Archraider (+15 pts)
+
+1x Succubus (65 pts)
+•⁠ ⁠1x Succubus weapons
+•⁠ ⁠1x Blast Pistol
+•⁠ ⁠Conductor of Torment (+20 pts)
+
+BATTLELINE
+
+10x Kabalite Warriors (110 pts)
+•⁠ ⁠5x Kabalite Warrior
+• 5x Close Combat Weapon
+• 5x Splinter rifle
+•⁠ ⁠1x Kabalite Warrior with Blaster
+• 1x Blaster
+• 1x Close Combat Weapon
+•⁠ ⁠1x Kabalite Warrior with Dark Lance
+• 1x Close Combat Weapon
+• 1x Dark lance
+•⁠ ⁠1x Kabalite Warrior with Shredder
+• 1x Close Combat Weapon
+• 1x Shredder
+•⁠ ⁠1x Kabalite Warrior with Splinter Cannon
+• 1x Close Combat Weapon
+• 1x Splinter cannon
+•⁠ ⁠1x Sybarite
+• 1x Sybarite Weapon
+• 1x Blast Pistol
+• Phantasm Grenade Launcher
+
+5x Wracks (55 pts)
+•⁠ ⁠1x Acothyst
+• 1x Wrack blades
+•⁠ ⁠1x Wrack with Hexrifle
+• 1x Hexrifle
+• 1x Wrack blades
+•⁠ ⁠1x Wrack with Liquifier Gun
+• 1x Liquifier gun
+• 1x Wrack blades
+•⁠ ⁠1x Wrack with Ossefactor
+• 1x Ossefactor
+• 1x Wrack blades
+•⁠ ⁠1x Wrack with Stinger Pistol
+• 1x Stinger pistol
+• 1x Wrack blades
+
+10x Wyches (90 pts)
+•⁠ ⁠1x Hekatrix
+• 1x Hekatarii Blade
+• 1x Blast Pistol
+• Phantasm Grenade Launcher
+•⁠ ⁠9x Wych
+• 9x Hekatarii Blade
+• 9x Splinter Pistol
+
+OTHER DATASHEETS
+
+4x Court of the Archon (95 pts)
+•⁠ ⁠1x Lhamaean
+• 1x Shaimeshi Blade
+•⁠ ⁠1x Medusae
+• 1x Close combat weapon
+• 1x Eyeburst
+•⁠ ⁠1x Sslyth
+• 1x Shardcarbine
+• 1x Splinter pistol
+• 1x Sslyth battle-blade
+•⁠ ⁠1x Ur-ghul
+• 1x Ur-ghul Talons
+
+5x Mandrakes (70 pts)
+•⁠ ⁠4x Mandrake
+• 4x Baleblast
+• 4x Glimmersteel Blade
+•⁠ ⁠1x Nightfiend
+• 1x Baleblast
+• 1x Glimmersteel Blade
+
+5x Mandrakes (70 pts)
+•⁠ ⁠4x Mandrake
+• 4x Baleblast
+• 4x Glimmersteel Blade
+•⁠ ⁠1x Nightfiend
+• 1x Baleblast
+• 1x Glimmersteel Blade
+
+5x Scourges (130 pts)
+•⁠ ⁠4x Scourge with Heavy Weapon
+• 4x Close combat weapon
+• 4x Drukhari Haywire Blaster
+•⁠ ⁠1x Solarite
+• 1x Close combat weapon
+• 1x Solarite Weapon
+• 1x Shardcarbine
+
+1x Cronos (50 pts)
+•⁠ ⁠1x Cronos
+• 1x Spirit Syphon
+• 1x Spirit Vortex
+• 1x Spirit-leech Tentacles
+
+1x Cronos (50 pts)
+•⁠ ⁠1x Cronos
+• 1x Spirit Syphon
+• 1x Spirit Vortex
+• 1x Spirit-leech Tentacles
+
+2x Talos (160 pts)
+•⁠ ⁠2x Talos
+• 2x Twin Liquifier Gun
+• 2x Talos Gauntlet
+• 2x Twin Haywire Blasters
+
+2x Talos (160 pts)
+•⁠ ⁠2x Talos
+• 2x Twin Liquifier Gun
+• 2x Talos Gauntlet
+• 2x Twin Haywire Blasters
+
+1x Ravager (110 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠3x Dark Lance
+
+1x Ravager (110 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠3x Dark Lance
+
+1x Ravager (110 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠3x Dark Lance
+
+1x Raider (80 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠1x Dark Lance
+
+1x Venom (70 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠1x Splinter Cannon
+•⁠ ⁠1x Splinter Cannon
+
+1x Venom (70 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠1x Splinter Cannon
+•⁠ ⁠1x Splinter Cannon
+
+1x Venom (70 pts)
+•⁠ ⁠1x Bladevanes
+•⁠ ⁠1x Splinter Cannon
+•⁠ ⁠1x Splinter Cannon
+

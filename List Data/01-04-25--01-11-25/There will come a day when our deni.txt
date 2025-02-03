@@ -1,0 +1,146 @@
+"There will come a day when our denims will be safe, our Levi's untouched, our boot-cuts and straight legs unsullied by their many hands
+
+But it is not this day!"
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Genestealer Cults
++ DETACHMENT: Biosanctic Broodsurge
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char6: Patriarch
++ ENHANCEMENT: Predatory Instincts (on Char1: Abominant)
+& Biomorph Adaption (on Char6: Patriarch)
++ NUMBER OF UNITS: 21
++ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 8 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Abominant (115 pts)
+• 1x Power Sledgehammer
+• Predatory Instincts (+20 pts)
+
+1x Abominant (95 pts)
+• 1x Power Sledgehammer
+
+1x Abominant (95 pts)
+• 1x Power Sledgehammer
+
+1x Biophagus (50 pts)
+• 1x Autopistol
+• 1x Chemical Vials
+• 1x Injector Goad
+• Alchemicus Familiar
+
+1x Biophagus (50 pts)
+• 1x Autopistol
+• 1x Chemical Vials
+• 1x Injector Goad
+• Alchemicus Familiar
+
+1x Patriarch (100 pts)
+• 1x Patriarch's Claws
+• Warlord
+• Biomorph Adaption (+25 pts)
+
+1x Sanctus (50 pts)
+• 1x Sanctus Bio-dagger
+
+1x Sanctus (50 pts)
+• 1x Sanctus Bio-dagger
+
+BATTLELINE
+
+10x Acolyte Hybrids with Autopistols (130 pts)
+• 1x Acolyte Leader
+• 1x Autopistol
+• 1x Leader's Bio-weapons
+• 9x Acolyte Hybrid
+• 2x Autopistol
+• 3x Cult Claws and Knife
+• 6x Heavy Mining Tool
+• Cult Icon
+
+5x Acolyte Hybrids with Autopistols (65 pts)
+• 1x Acolyte Leader
+• 1x Autopistol
+• 1x Leader's Bio-weapons
+• 4x Acolyte Hybrid
+• 1x Cult Claws and Knife
+• 3x Heavy Mining Tool
+• Cult Icon
+
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader
+• 1x Leader's Cult Weapons
+• 1x Hand Flamer
+• 4x Acolyte Hybrid
+• 4x Cult Claws and Knife
+• 3x Hand Flamer
+• Cult Icon
+
+OTHER DATASHEETS
+
+5x Aberrants (135 pts)
+• 4x Aberrant
+• 4x Aberrant Weapons
+• 1x Aberrant Hypermorph
+• 1x Aberrant Weapons
+
+5x Aberrants (135 pts)
+• 4x Aberrant
+• 4x Aberrant Weapons
+• 1x Aberrant Hypermorph
+• 1x Aberrant Weapons
+
+5x Aberrants (135 pts)
+• 4x Aberrant
+• 4x Aberrant Weapons
+• 1x Aberrant Hypermorph
+• 1x Aberrant Weapons
+
+10x Hybrid Metamorphs (160 pts)
+• 1x Metamorph Leader
+• 1x Leader's Bio-weapons
+• 1x Hand Flamer
+• 9x Hybrid Metamorph
+• 9x Metamorph Mutations
+• 8x Hand Flamer
+• Cult Icon
+
+5x Purestrain Genestealers (75 pts)
+• 5x Purestrain Genestealer
+• 5x Cult Claws and Talons
+
+5x Purestrain Genestealers (75 pts)
+• 5x Purestrain Genestealer
+• 5x Cult Claws and Talons
+
+5x Purestrain Genestealers (75 pts)
+• 5x Purestrain Genestealer
+• 5x Cult Claws and Talons
+
+2x Achilles Ridgerunners (170 pts)
+• 2x Achilles Ridgerunner
+• 2x Armoured Hull
+• 2x Twin Heavy Stubber
+• 2x Heavy Mining Laser
+• 2x Spotter
+
+1x Achilles Ridgerunners (85 pts)
+• 1x Achilles Ridgerunner
+• 1x Armoured Hull
+• 1x Twin Heavy Stubber
+• 1x Heavy Mortar
+• Survey Augur
+
+1x Goliath Truck (85 pts)
+• 1x Demolition Charge Cache
+• 1x Goliath Wheels
+• 1x Heavy Stubber
+• 1x Twin Autocannon
+

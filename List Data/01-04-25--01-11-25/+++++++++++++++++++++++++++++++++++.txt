@@ -1,0 +1,32 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Starshatter Arsenal
++ TOTAL ARMY POINTS: 0pts
++
++ ENHANCEMENT:
++ NUMBER OF UNITS: 17
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char0: 1x Imotekh the Stormlord (100 pts): Warlord, Gauntlet of Fire, Staff of the Destroyer
+Char0: 1x Catacomb Command Barge (150 pts): Resurrection orb, Gauss cannon, Overlord's blade
+Enhancement: Dread Majesty (+30 pts)
+Char0: 1x Hexmark Destroyer (85 pts): Close combat weapon, Enmitic disintegrator pistols
+Enhancement: Demanding Leader (+10 pts)
+Char0: 1x Lokhust Lord (95 pts): Resurrection orb, Lord's blade
+Enhancement: Minaturised Nebuloscope (+15 pts)
+
+10x Necron Warriors (90 pts): 10 with Close combat weapon, Gauss reaper
+
+5x Flayed Ones (60 pts): 5 with Flayer claws
+5x Flayed Ones (60 pts): 5 with Flayer claws
+3x Ophydian Destroyers (80 pts): Plasmacyte, 3 with Ophydian hyperphase weapons
+3x Ophydian Destroyers (80 pts): Plasmacyte, 3 with Ophydian hyperphase weapons
+3x Ophydian Destroyers (80 pts): Plasmacyte, 3 with Ophydian hyperphase weapons
+3x Skorpekh Destroyers (90 pts): Plasmacyte, 3 with Skorpekh hyperphase weapons
+6x Lokhust Destroyers (180 pts): 6 with Close combat weapon, Gauss cannon
+3x Lokhust Heavy Destroyers (165 pts): 3 with Close combat weapon, Enmitic exterminator
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Ghost Ark (115 pts): Armoured bulk, 2x Gauss flayer array
+

@@ -1,0 +1,43 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adepta Sororitas
++ DETACHMENT: Bringers of Flame
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Morvenn Vahl
++ ENHANCEMENT: Iron Surplice of Saint Istalela (on Char1: Canoness)
+& Righteous Rage (on Char2: Palatine)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (8x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Morvenn Vahl (170 pts): Warlord, Fidelis, Lance of Illumination, Paragon missile launcher
+Char2: 1x Triumph of Saint Katherine (250 pts): Bolt Pistols, Relic Weapons
+Char3: 1x Canoness (60 pts): Blessed blade, Condemnor boltgun
+Enhancement: Iron Surplice of Saint Istalela (+10 pts)
+Char4: 1x Palatine (65 pts): Palatine blade, Plasma pistol
+Enhancement: Righteous Rage (+15 pts)
+
+3x Arco-Flagellants (45 pts): 3 with Arco-flails
+3x Arco-Flagellants (45 pts): 3 with Arco-flails
+10x Dominion Squad (125 pts)
+• 9x Dominion
+4 with Bolt pistol, Boltgun, Close combat weapon
+1 with Simulacrum Imperialis, Bolt pistol, Boltgun, Close combat weapon
+4 with Bolt pistol, Close combat weapon, Meltagun
+• 1x Dominion Superior: Bolt pistol, Close combat weapon, Power weapon, Inferno pistol
+10x Sisters Novitiate Squad (100 pts)
+• 1x Novitiate Superior: Plasma pistol, Power weapon
+• 2x Novitiate with Ministorum Flamer: 2 with Close combat weapon, Ministorum flamer
+• 1x Novitiate with Sacred Banner: Sacred Banner, Autopistol, Close combat weapon
+• 1x Novitiate with Simulacrum Imperialis: Simulacrum Imperialis, Autopistol, Close combat weapon
+• 5x Sister Novitiate (Melee Weapon): 5 with Autopistol, Novitiate melee weapon
+1x Castigator (160 pts): Armoured tracks, 3x Heavy bolter, Castigator autocannons, Hunter-Killer Missile, Storm bolter
+1x Castigator (160 pts): Armoured tracks, 3x Heavy bolter, Castigator autocannons, Hunter-Killer Missile, Storm bolter
+1x Castigator (160 pts): Armoured tracks, 3x Heavy bolter, Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+1x Exorcist (190 pts): Armoured tracks, Heavy Bolter, Hunter-Killer Missile, Exorcist Missile Launcher
+3x Paragon Warsuits (220 pts)
+• 1x Paragon Superior: Bolt pistol, Paragon Storm Bolters, Paragon War Mace, Multi-melta
+• 2x Paragon Warsuit: 2 with Bolt pistol, Paragon Storm Bolters, Paragon War Blade, Multi-melta
+1x Immolator (125 pts): Armoured tracks, Heavy Bolter, Hunter-Killer Missile, Immolation Flamers
+1x Immolator (125 pts): Armoured tracks, Heavy Bolter, Hunter-Killer Missile, Twin Multi-melta
+

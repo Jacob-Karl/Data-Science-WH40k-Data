@@ -1,0 +1,39 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Sebastien Geoffrion
++ TEAM NAME: Trash-Tier
++ FACTION KEYWORD: Xenos - Tyranids
++ DETACHMENT: Vanguard Onslaught
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Deathleaper
++ ENHANCEMENT:
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (2x2) - Assassination: 7 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Deathleaper (80 pts): Warlord, Lictor Claws and Talons
+Char2: 1x The Swarmlord (240 pts): Bone Sabres, Synaptic Pulse
+Char3: 1x Broodlord (80 pts): Broodlord Claws and Talons
+Char4: 1x Broodlord (80 pts): Broodlord Claws and Talons
+Char5: 1x Winged Hive Tyrant (200 pts): Tyrant talons, Monstrous Bonesword and Lash Whip
+Char6: 1x Winged Tyranid Prime (65 pts): Prime Talons
+Char7: 1x Winged Tyranid Prime (65 pts): Prime Talons
+
+10x Gargoyles (85 pts): 10 with Blinding Venom, Fleshborer
+10x Gargoyles (85 pts): 10 with Blinding Venom, Fleshborer
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+
+1x Biovores (50 pts): Chitin-barbed Limbs, Spore Mine Launcher
+10x Genestealers (150 pts): 10 with Genestealers claws and talons
+10x Genestealers (150 pts): 10 with Genestealers claws and talons
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Neurolictor (90 pts): Piercing Claws and Talons
+1x Neurolictor (90 pts): Piercing Claws and Talons
+6x Tyranid Warriors with Melee Bio-Weapons (150 pts)
+• 1x Tyranid Prime: Tyranid Warrior Claws and Talons
+• 5x Tyranid Warrior: 5 with Tyranid Warrior Claws and Talons
+6x Tyranid Warriors with Melee Bio-Weapons (150 pts)
+• 1x Tyranid Prime: Tyranid Warrior Claws and Talons
+• 5x Tyranid Warrior: 5 with Tyranid Warrior Claws and Talons
+

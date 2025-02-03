@@ -1,0 +1,61 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Genestealer Cults
++ DETACHMENT: Biosanctic Broodsurge
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char5: Patriarch
++ ENHANCEMENT: Predatory Instincts (on Char1: Abominant)
+& Biomorph Adaption (on Char5: Patriarch)
++ NUMBER OF UNITS: 20
++ SECONDARY: - Bring It Down: (2x2) + (2x4) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Abominant (95 pts): Predatory Instincts, Power Sledgehammer
+Char2: 1x Abominant (75 pts): Power Sledgehammer
+Char3: 1x Abominant (75 pts): Power Sledgehammer
+Char4: 1x Biophagus (50 pts): Autopistol, Chemical Vials, Injector Goad
+Char5: 1x Patriarch (100 pts): Warlord, Biomorph Adaption, Patriarch's Claws
+
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 4x Acolyte Hybrid
+1 with Cult Icon, Cult Claws and Knife
+3 with Cult Claws and Knife, Hand Flamer
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 4x Acolyte Hybrid
+1 with Cult Icon, Cult Claws and Knife
+3 with Cult Claws and Knife, Hand Flamer
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 4x Acolyte Hybrid
+1 with Cult Icon, Cult Claws and Knife
+3 with Cult Claws and Knife, Hand Flamer
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 4x Acolyte Hybrid
+1 with Cult Icon, Cult Claws and Knife
+3 with Cult Claws and Knife, Hand Flamer
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+
+5x Aberrants (135 pts)
+• 4x Aberrant: 4 with Aberrant Weapons
+• 1x Aberrant Hypermorph: Aberrant Weapons
+5x Aberrants (135 pts)
+• 4x Aberrant: 4 with Aberrant Weapons
+• 1x Aberrant Hypermorph: Aberrant Weapons
+5x Aberrants (135 pts)
+• 4x Aberrant: 4 with Aberrant Weapons
+• 1x Aberrant Hypermorph: Aberrant Weapons
+10x Hybrid Metamorphs (160 pts)
+• 9x Hybrid Metamorph
+1 with Cult Icon, Metamorph Mutations
+8 with Hand Flamer, Metamorph Mutations
+• 1x Metamorph Leader: Leader's Bio-weapons, Hand Flamer
+10x Purestrain Genestealers (150 pts): 10 with Cult Claws and Talons
+5x Purestrain Genestealers (75 pts): 5 with Cult Claws and Talons
+5x Purestrain Genestealers (75 pts): 5 with Cult Claws and Talons
+1x Achilles Ridgerunners (75 pts): Survey Augur, Armoured Hull, Twin Heavy Stubber, Heavy Mortar
+2x Achilles Ridgerunners (150 pts): 2 with Spotter, Armoured Hull, Twin Heavy Stubber, Heavy Mining Laser
+2x Achilles Ridgerunners (150 pts): 2 with Spotter, Armoured Hull, Twin Heavy Stubber, Heavy Mining Laser
+1x Goliath Truck (85 pts): Demolition Charge Cache, Goliath Wheels, Heavy Stubber, Twin Autocannon
+

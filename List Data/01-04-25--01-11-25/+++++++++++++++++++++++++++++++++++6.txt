@@ -1,0 +1,41 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Space Wolves
++ DETACHMENT: Champions of Russ
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char2: Logan Grimnar
++ ENHANCEMENT: Black Death (on Char5: Wolf Lord on Thunderwolf)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (3x2) - Assassination: 8 Characters - Cull The Horde: 1x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Bjorn the Fell-Handed (190 pts): Heavy Flamer, Trueclaw, Twin lascannon
+Char2: 1x Logan Grimnar (115 pts): Warlord, Storm Bolter, The Axe Morkai
+Char3: 1x Ragnar Blackmane (90 pts): Bolt Pistol, Frostfang
+Char4: 1x Chaplain in Terminator Armour (75 pts): Relic Shield, Crozius Arcanum
+Char5: 1x Lieutenant in Phobos Armour (55 pts): Bolt Pistol, Master-crafted Scoped Bolt Carbine, Paired Combat Blades
+Char6: 1x Lieutenant with Combi-weapon (70 pts): Combi-weapon, Paired Combat Blades
+Char7: 1x Wolf Guard Battle Leader on Thunderwolf (80 pts): Crushing teeth and claws, Power fist, Plasma pistol
+Char8: 1x Wolf Lord on Thunderwolf (125 pts): Relic shield and close combat weapon, Close combat weaponCrushing teeth and claws, Thunder Hammer, Close combat weapon
+Enhancement: Black Death (+25 pts)
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant: Plasma Pistol, Power Fist
+• 4x Assault Intercessors: 4 with Astartes Chainsword, Heavy Bolt Pistol
+
+5x Reiver Squad (80 pts)
+• 1x Reiver Sergeant: Combat Knife, Special Issue Bolt Pistol
+• 4x Reivers: 4 with Special Issue Bolt Pistol, Combat Knife
+5x Scout Squad (70 pts)
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 1x Scout: Bolt Pistol, Close Combat Weapon, Missile Launcher
+• 3x Scouts: 3 with Bolt Pistol, Close Combat Weapon, Combat Knife
+10x Wolf Guard Terminators (370 pts)
+• 1x Wolf Guard Terminators: Storm shield, Power fist, Close Combat Weapon, Power fist
+• 7x Terminators: 7 with Storm shield, Power fist, Close Combat Weapon, Power fist
+• 2x 1 per 5 models: 2 with Cyclone missile launcher, Storm Bolter, Power fist, Close Combat Weapon, ➤ Cyclone missile launcher - frag, ➤ Cyclone missile launcher - krak, Storm Bolter, Power fist
+6x Thunderwolf Cavalry (240 pts): 6 with Storm shield, Crushing teeth and claws, Heirloom weapon
+3x Thunderwolf Cavalry (120 pts): 3 with Storm shield, Crushing teeth and claws, Heirloom weapon
+1x Gladiator Lancer (160 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, Lancer Laser Destroyer, 2x Storm Bolter
+1x Impulsor (80 pts): Shield Dome, Armoured Hull, Ironhail Heavy Stubber, 2x Storm Bolter
+

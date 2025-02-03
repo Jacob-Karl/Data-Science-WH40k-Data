@@ -1,0 +1,201 @@
+Guard -A (2000 Points)
+
+Astra Militarum
+Combined Regiment
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Lord Solar Leontus (125 Points)
+• Warlord
+• 1x Conquest
+• 1x Konstantin's hooves
+• 1x Sol's Righteous Gaze
+
+Militarum Tempestus Command Squad (110 Points)
+• 1x Tempestor Prime
+◦ 1x Command Rod
+◦ 1x Tempestus dagger
+◦ Enhancements: Kurov's Aquila
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 1x Hot-shot lasgun
+◦ 1x Hot-shot volley gun
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+
+Platoon Command Squad (60 Points)
+• 1x Platoon Commander
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 2x Veteran Guardsman
+◦ 2x Close combat weapon
+◦ 2x Lasgun
+◦ 2x Laspistol
+◦ 1x Master Vox
+◦ 1x Medi-pack
+• 1x Veteran Heavy Weapons Team
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+◦ 1x Mortar
+
+Tank Commander (225 Points)
+• 1x Armoured tracks
+• 1x Demolisher battle cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+BATTLELINE
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+
+DEDICATED TRANSPORTS
+
+Chimera (70 Points)
+• 1x Armoured tracks
+• 1x Chimera heavy flamer
+• 1x Heavy flamer
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lasgun array
+
+Chimera (70 Points)
+• 1x Armoured tracks
+• 1x Chimera heavy flamer
+• 1x Heavy flamer
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lasgun array
+
+OTHER DATASHEETS
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Plasma cannon
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Multi-melta
+
+Leman Russ Exterminator (170 Points)
+• 1x Armoured tracks
+• 1x Exterminator autocannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot laspistol
+◦ 1x Power weapon
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 8x Hot-shot lascarbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 8x Hot-shot lascarbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Scions (50 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power weapon
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 2x Hot-shot lasgun
+◦ 1x Hot-shot volley gun
+◦ 1x Plasma gun
+
+ALLIED UNITS
+
+Sisters of Battle Immolator (115 Points)
+• 1x Armoured tracks
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+• 1x Twin multi-melta
+
+Sisters of Battle Immolator (115 Points)
+• 1x Armoured tracks
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+• 1x Twin multi-melta
+
+Sisters of Battle Squad (115 Points)
+• 1x Sister Superior
+◦ 1x Bolt pistol
+◦ 1x Chainsword
+◦ 1x Close combat weapon
+◦ 1x Ministorum hand flamer
+• 9x Battle Sister
+◦ 9x Bolt pistol
+◦ 7x Boltgun
+◦ 9x Close combat weapon
+◦ 1x Ministorum flamer
+◦ 1x Multi-melta
+◦ 1x Simulacrum Imperialis
+
+Exported with App Version: v1.23.0 (3), Data Version: v507

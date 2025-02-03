@@ -1,0 +1,42 @@
+Orks
++ DETACHMENT: Bully Boyz
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Ghazghkull Thraka
+
+Char1: 2x Ghazghkull Thraka (235 pts): Warlord
+• 1x Ghazghkull Thraka: Gork's Klaw, Mork's Roar
+• 1x Makari: Makari's stabba
+Char2: 1x Mozrog Skragbad (165 pts): Big Chompa's jaws, Gutrippa, Thump gun
+Char3: 1x Beastboss on Squigosaur (130 pts): Beastchoppa, Slugga, Squigosaur's jaws
+Char4: 1x Big Mek in Mega Armour (90 pts): Grot oiler, Kustom force field, Kustom mega-blasta, Power klaw
+Char5: 1x Big Mek in Mega Armour (90 pts): Grot oiler, Kustom force field, Kustom mega-blasta, Power klaw
+Char6: 1x Weirdboy (65 pts): 'Eadbanger, Weirdboy staff
+
+11x Gretchin (40 pts)
+• 10x Gretchin: 10 with Close combat weapon, Grot blasta
+• 1x Runtherd: Grot-smacka, Slugga
+11x Gretchin (40 pts)
+• 10x Gretchin: 10 with Close combat weapon, Grot blasta
+• 1x Runtherd: Grot-smacka, Slugga
+11x Gretchin (40 pts)
+• 10x Gretchin: 10 with Close combat weapon, Grot blasta
+• 1x Runtherd: Grot-smacka, Slugga
+5x Meganobz (175 pts): 5 with Kombi-weapon, Power klaw
+5x Meganobz (175 pts): 5 with Kombi-weapon, Power klaw
+5x Meganobz (175 pts): 5 with Kombi-weapon, Power klaw
+5x Stormboyz (65 pts)
+• 1x Boss Nob: Slugga, Power klaw
+• 4x Stormboy: 4 with Choppa, Slugga
+5x Stormboyz (65 pts)
+• 1x Boss Nob: Slugga, Power klaw
+• 4x Stormboy: 4 with Choppa, Slugga
+4x Squighog Boyz (160 pts): Bomb squig
+• 1x Nob on Smasha Squig: Big choppa, Slugga, Squig jaws
+• 3x Squighog Boy: 3 with Saddlegit weapons, Squig jaws, Stikka
+4x Squighog Boyz (160 pts): Bomb squig
+• 1x Nob on Smasha Squig: Big choppa, Slugga, Squig jaws
+• 3x Squighog Boy: 3 with Saddlegit weapons, Squig jaws, Stikka
+1x Trukk (65 pts): Big shoota, Spiked wheels, Wreckin' ball
+1x Trukk (65 pts): Big shoota, Spiked wheels, Wreckin' ball
+

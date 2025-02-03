@@ -1,0 +1,40 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Space Marines
++ DETACHMENT: Renegade Raiders
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Abaddon the Despoiler
++ ENHANCEMENT:
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (7x2) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Abaddon the Despoiler (280 pts): Warlord, Drach'nyen, Talon of Horus
+Char2: 1x Huron Blackheart (80 pts): Exalted weapon, Tyrant's Claw
+
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Autopistol
+• 9x Cultist: 9 with Autopistol, Brutal assault weapon
+5x Legionaries (90 pts)
+• 4x Legionary
+2 with Astartes chainsword, Bolt pistol, Close combat weapon
+1 with Bolt pistol, Close combat weapon, Heavy melee weapon
+1 with Bolt pistol, Close combat weapon, Lascannon
+• 1x Aspiring Champion: Close combat weapon, Plasma pistol, Heavy melee weapon
+
+5x Chosen (125 pts)
+1 with Accursed weapon, Bolt pistol, Boltgun
+2 with Accursed weapon, Bolt pistol, Combi-weapon
+1 with Paired accursed weapons, Plasma pistol
+1 with Chaos icon, Boltgun, Plasma pistol, Power fist
+2x Obliterators (160 pts): 2 with Crushing fists, Fleshmetal guns
+2x Obliterators (160 pts): 2 with Crushing fists, Fleshmetal guns
+5x Warp Talons (125 pts): 5 with Warp claws
+1x Chaos Predator Destructor (140 pts): Armoured tracks, Havoc launcher, Predator autocannon, Combi-weapon, 2x Lascannon
+1x Chaos Predator Destructor (140 pts): Armoured tracks, Havoc launcher, Predator autocannon, Combi-weapon, 2x Lascannon
+1x Chaos Vindicator (185 pts): Armoured tracks, Demolisher cannon, Havoc launcher, Combi-weapon
+1x Chaos Vindicator (185 pts): Armoured tracks, Demolisher cannon, Havoc launcher, Combi-weapon
+1x Helbrute (130 pts): Close combat weapon, Heavy flamer, Helbrute fist, Twin lascannon
+1x Chaos Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+1x Chaos Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+

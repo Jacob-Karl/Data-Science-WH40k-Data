@@ -1,0 +1,146 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Sebastian Hebert
++ TEAM NAME: Slugfest
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Liberator Assault Group
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char2: Chief Librarian Mephiston
++ ENHANCEMENT: Rage-Fuelled Warrior (on Char1: Blood Angels Captain)
++ NUMBER OF UNITS: 18
++ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 7 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Astorath (105 pts)
+• 1x The Executioner's Axe
+
+1x Chief Librarian Mephiston (125 pts)
+• 1x Fury of the Ancients
+• 1x Plasma Pistol
+• 1x Vitarus
+• Warlord
+
+1x Lemartes (110 pts)
+• 1x Absolver Bolt Pistol
+• 1x The Blood Crozius
+
+1x Blood Angels Captain (90 pts)
+• 1x Power Fist
+• 1x Inferno Pistol
+• Rage-Fuelled Warrior (+10 pts)
+
+1x Blood Angels Captain (80 pts)
+• 1x Power Fist
+• 1x Inferno Pistol
+
+1x Blood Angels Captain (80 pts)
+• 1x Power Fist
+• 1x Inferno Pistol
+
+1x Lieutenant with Combi-weapon (70 pts)
+• 1x Combi-weapon
+• 1x Paired Combat Blades
+
+BATTLELINE
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors
+• 4x Astartes Chainsword
+• 4x Heavy Bolt Pistol
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors
+• 4x Astartes Chainsword
+• 4x Heavy Bolt Pistol
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors
+• 4x Astartes Chainsword
+• 4x Heavy Bolt Pistol
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 4x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 4x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+10x Death Company Marines with Jump Packs (240 pts)
+• 10x Death Company Marine
+• 5x Astartes Chainsword
+• 6x Heavy Bolt Pistol
+• 3x Power Fist
+• 2x Inferno Pistol
+• 2x Eviscerator
+• 2x Plasma Pistol
+
+10x Death Company Marines with Jump Packs (240 pts)
+• 10x Death Company Marine
+• 5x Astartes Chainsword
+• 6x Heavy Bolt Pistol
+• 3x Power Fist
+• 2x Inferno Pistol
+• 2x Eviscerator
+• 2x Plasma Pistol
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Astartes Chainsword
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Missile Launcher
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+1x Repulsor Executioner (220 pts)
+• 1x Armoured Hull
+• 1x Heavy Onslaught Gatling Cannon
+• 1x Icarus Rocket Pod
+• 1x Ironhail Heavy Stubber
+• 1x Repulsor Executioner Defensive Array
+• 1x Twin Heavy Bolter
+• 1x Twin Icarus Ironhail Heavy Stubber
+• 1x Heavy Laser Destroyer
+
+1x Impulsor (80 pts)
+• 1x Armoured Hull
+• 1x Ironhail Heavy Stubber
+• 2x Fragstorm Grenade Launcher
+• Shield Dome
+
+1x Impulsor (80 pts)
+• 1x Armoured Hull
+• 1x Ironhail Heavy Stubber
+• 2x Fragstorm Grenade Launcher
+• Shield Dome
+

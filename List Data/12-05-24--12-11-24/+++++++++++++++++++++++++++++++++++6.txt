@@ -1,0 +1,25 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Carstaneedos
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Hypercrypt Legion
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: The Silent King
++ ENHANCEMENT:
++ NUMBER OF UNITS: 11
++ SECONDARY: - Bring It Down: (3x2) + (3x6) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 3x The Silent King (420 pts): Warlord
+Char2: 1x Hexmark Destroyer (70 pts)
+
+5x Immortals (75 pts): Tesla carbine
+
+5x Flayed Ones (60 pts)
+5x Flayed Ones (60 pts)
+1x Lokhust Destroyers (35 pts)
+1x Canoptek Spyders (75 pts): Fabricator claw array, Gloom prism, Automaton claws, 2x Particle beamer
+1x Doomsday Ark (190 pts)
+1x Doomsday Ark (190 pts)
+1x Monolith (400 pts): Death ray
+1x Tesseract Vault (425 pts)

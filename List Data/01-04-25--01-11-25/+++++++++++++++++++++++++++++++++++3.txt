@@ -1,0 +1,106 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Starshatter Arsenal
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: The Silent King
++ ENHANCEMENT: Dread Majesty (on Char1: Catacomb Command Barge)
+& Chrono-impedance Fields (on Char2: Hexmark Destroyer)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (4x2) + (1x6) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+3x The Silent King (420 pts)
+• 1x Szarekh
+• 1x Sceptre of Eternal Glory
+• 1x Staff of Stars
+• 1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+• 2x Annihilator beam
+• 2x Armoured bulk
+• Warlord
+
+1x Catacomb Command Barge (150 pts)
+• 1x Gauss cannon
+• 1x Overlord's blade
+• Resurrection orb
+• Dread Majesty (+30 pts)
+
+1x Hexmark Destroyer (100 pts)
+• 1x Close combat weapon
+• 1x Enmitic disintegrator pistols
+• Chrono-impedance Fields (+25 pts)
+
+OTHER DATASHEETS
+
+5x Deathmarks (65 pts)
+• 5x Deathmark
+• 5x Close combat weapon
+• 5x Synaptic disintegrator
+
+5x Flayed Ones (60 pts)
+• 5x Flayed One
+• 5x Flayer claws
+
+3x Ophydian Destroyers (80 pts)
+• 3x Ophydian Destroyer
+• 3x Ophydian hyperphase weapons
+• Plasmacyte
+
+3x Ophydian Destroyers (80 pts)
+• 3x Ophydian Destroyer
+• 3x Ophydian hyperphase weapons
+• Plasmacyte
+
+3x Skorpekh Destroyers (90 pts)
+• 3x Skorpekh Destroyer
+• 3x Skorpekh hyperphase weapons
+• Plasmacyte
+
+3x Skorpekh Destroyers (90 pts)
+• 3x Skorpekh Destroyer
+• 3x Skorpekh hyperphase weapons
+• Plasmacyte
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+1x Lokhust Heavy Destroyers (55 pts)
+• 1x Destroyer
+• 1x Close combat weapon
+• 1x Gauss destructor
+
+1x Lokhust Heavy Destroyers (55 pts)
+• 1x Destroyer
+• 1x Close combat weapon
+• 1x Gauss destructor
+
+2x Lokhust Heavy Destroyers (110 pts)
+• 2x Destroyer
+• 2x Close combat weapon
+• 2x Enmitic exterminator
+
+1x Doomsday Ark (190 pts)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+1x Doomsday Ark (190 pts)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+1x Doomsday Ark (190 pts)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+

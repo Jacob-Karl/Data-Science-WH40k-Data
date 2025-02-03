@@ -1,0 +1,170 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Aeldari - Ynnari
++ DETACHMENT: Battle Host
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char2: Yvraine
++ ENHANCEMENT:
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (3x2) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x The Visarch (90 pts)
+• 1x Asu-var, The Sword of Silent Screams
+
+1x Yvraine (125 pts)
+• 1x Kha-vir, the Sword of Sorrows
+• 1x Storm of Whispers
+• Warlord
+
+1x Farseer (80 pts)
+• 1x Eldritch Storm
+• 1x Shuriken Pistol
+• 1x Singing Spear
+
+BATTLELINE
+
+10x Kabalite Warriors (110 pts)
+• 5x Kabalite Warrior
+• 5x Close Combat Weapon
+• 5x Splinter rifle
+• 1x Kabalite Warrior with Blaster
+• 1x Blaster
+• 1x Close Combat Weapon
+• 1x Kabalite Warrior with Dark Lance
+• 1x Close Combat Weapon
+• 1x Dark lance
+• 1x Kabalite Warrior with Shredder
+• 1x Close Combat Weapon
+• 1x Shredder
+• 1x Kabalite Warrior with Splinter Cannon
+• 1x Close Combat Weapon
+• 1x Splinter cannon
+• 1x Sybarite
+• 1x Sybarite Weapon
+• 1x Blast Pistol
+• Phantasm Grenade Launcher
+
+OTHER DATASHEETS
+
+5x Mandrakes (70 pts)
+• 4x Mandrake
+• 4x Baleblast
+• 4x Glimmersteel Blade
+• 1x Nightfiend
+• 1x Baleblast
+• 1x Glimmersteel Blade
+
+5x Mandrakes (70 pts)
+• 4x Mandrake
+• 4x Baleblast
+• 4x Glimmersteel Blade
+• 1x Nightfiend
+• 1x Baleblast
+• 1x Glimmersteel Blade
+
+5x Mandrakes (70 pts)
+• 4x Mandrake
+• 4x Baleblast
+• 4x Glimmersteel Blade
+• 1x Nightfiend
+• 1x Baleblast
+• 1x Glimmersteel Blade
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+• 4x Close combat weapon
+• 4x Dark Lance
+• 1x Solarite
+• 1x Close combat weapon
+• 1x Solarite Weapon
+• 1x Shardcarbine
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+• 4x Close combat weapon
+• 4x Dark Lance
+• 1x Solarite
+• 1x Close combat weapon
+• 1x Solarite Weapon
+• 1x Shardcarbine
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+• 4x Close combat weapon
+• 4x Dark Lance
+• 1x Solarite
+• 1x Close combat weapon
+• 1x Solarite Weapon
+• 1x Shardcarbine
+
+5x Striking Scorpions (65 pts)
+• 4x Striking Scorpion
+• 4x Scorpion chainsword
+• 4x Shuriken pistol
+• 1x Striking Scorpion Exarch
+• 1x Biting blade
+
+11x Troupe (165 pts)
+• 1x Lead Player
+• 1x Aeldari power sword
+• 1x Fusion Pistol
+• 1x Player with Fusion Pistol
+• 1x Fusion Pistol
+• 1x Harlequin's Special Weapon
+• 9x Player with Harlequin's Special Weapon
+• 9x Harlequin's Special Weapon
+• 9x Shuriken Pistol
+
+5x Warp Spiders (125 pts)
+• 4x Warp Spider
+• 4x Close combat weapon
+• 4x Deathspinner
+• 1x Warp Spider Exarch
+• 1x Close combat weapon
+• 2x Deathspinner
+• 1x Powerblades
+
+5x Warp Spiders (125 pts)
+• 4x Warp Spider
+• 4x Close combat weapon
+• 4x Deathspinner
+• 1x Warp Spider Exarch
+• 1x Close combat weapon
+• 2x Deathspinner
+• 1x Powerblades
+
+5x Warp Spiders (125 pts)
+• 4x Warp Spider
+• 4x Close combat weapon
+• 4x Deathspinner
+• 1x Warp Spider Exarch
+• 1x Close combat weapon
+• 2x Deathspinner
+• 1x Powerblades
+
+5x Hellions (75 pts)
+• 1x Heliarch
+• 1x Splinter Pods
+• 1x Heliarch Weapon and Splinter Pistol
+• Phantasm Grenade Launcher
+• 4x Hellion
+• 4x Hellglaive
+• 4x Splinter Pods
+
+1x Support Weapons (135 pts)
+• 1x Close Combat Weapon
+• 1x Shuriken Catapult
+• 1x D-cannon
+
+1x Support Weapons (135 pts)
+• 1x Close Combat Weapon
+• 1x Shuriken Catapult
+• 1x D-cannon
+
+1x Venom (70 pts)
+• 1x Bladevanes
+• 1x Splinter Cannon
+• 1x Splinter Cannon

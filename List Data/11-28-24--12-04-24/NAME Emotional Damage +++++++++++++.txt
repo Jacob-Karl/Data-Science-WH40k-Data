@@ -1,0 +1,88 @@
+NAME: Emotional Damage +++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Awakened Dynasty
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: The Silent King
++ ENHANCEMENT: Enaegic Dermal Bond (on Char1: Catacomb Command Barge)
+& Phasal Subjugator (on Char2: Hexmark Destroyer)
+& Nether-realm Casket (on Char3: Technomancer)
++ NUMBER OF UNITS: 14
++ SECONDARY: - Bring It Down: (4x2) + (1x6) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+3x The Silent King (420 pts)
+• 1x Szarekh
+• 1x Sceptre of Eternal Glory
+• 1x Staff of Stars
+• 1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+• 2x Annihilator beam
+• 2x Armoured bulk
+• Warlord
+
+1x Catacomb Command Barge (135 pts)
+• 1x Gauss cannon
+• 1x Overlord's blade
+• Resurrection orb
+• Enaegic Dermal Bond (+15 pts)
+
+1x Hexmark Destroyer (105 pts)
+• 1x Close combat weapon
+• 1x Enmitic disintegrator pistols
+• Phasal Subjugator (+35 pts)
+
+1x Technomancer (105 pts)
+• 1x Staff of light
+• Nether-realm Casket (+20 pts)
+
+1x Technomancer (85 pts)
+• 1x Staff of light
+
+OTHER DATASHEETS
+
+5x Deathmarks (65 pts)
+• 5x Deathmark
+• 5x Close combat weapon
+• 5x Synaptic disintegrator
+
+5x Flayed Ones (60 pts)
+• 5x Flayed One
+• 5x Flayer claws
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+1x Lokhust Destroyers (35 pts)
+• 1x Lokhust Destroyer
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+6x Canoptek Wraiths (250 pts)
+• 6x Wraith
+• 6x Particle caster
+• 6x Vicious claws
+
+6x Canoptek Wraiths (250 pts)
+• 6x Wraith
+• 6x Particle caster
+• 6x Vicious claws
+
+1x Canoptek Reanimator (75 pts)
+• 2x Atomiser beam
+• 1x Reanimator's claws
+
+1x Doomsday Ark (190 pts)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+1x Doomsday Ark (190 pts)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+

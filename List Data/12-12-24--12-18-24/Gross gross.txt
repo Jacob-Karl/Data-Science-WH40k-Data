@@ -1,0 +1,96 @@
+Gross gross
+
+++ Army Roster (Chaos - Death Guard) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Plague Company
+
+Show/Hide Options: Nurgle Daemons are visible
+
++ Epic Hero +
+
+Typhus [80pts]
+
++ Character +
+
+Biologus Putrifier [50pts]
+
+Biologus Putrifier [50pts]
+
+Death Guard Sorcerer in Terminator Armour [85pts]: Deadly Pathogen, Plague fist, Plague-encrusted exalted weapon
+
+Foul Blightspawn [60pts]: Warlord
+
+Foul Blightspawn [60pts]
+
+Malignant Plaguecaster [65pts]
+
+Malignant Plaguecaster [65pts]
+
++ Battleline +
+
+Plague Marines [180pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 3x Plague Marine w/ bubotic weapons: 3x Bubotic weapons, 3x Plague knives
+. 4x Plague Marine w/ heavy plague weapon: 4x Heavy plague weapon, 4x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+
+Plague Marines [180pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 3x Plague Marine w/ bubotic weapons: 3x Bubotic weapons, 3x Plague knives
+. 4x Plague Marine w/ heavy plague weapon: 4x Heavy plague weapon, 4x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+
+Plague Marines [90pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. 2x Plague Marine w/ bubotic weapons: 2x Bubotic weapons, 2x Plague knives
+. 2x Plague Marine w/ heavy plague weapon: 2x Heavy plague weapon, 2x Plague knives
+
++ Infantry +
+
+Death Guard Cultists [50pts]
+. 6x Cultist: 6x Brutal assault weapon, 6x Cultist firearm
+. Cultist w/ flamer
+. Cultist w/ grenade launcher
+. Cultist w/ heavy stubber
+
+Death Guard Cultists [50pts]
+. 6x Cultist: 6x Brutal assault weapon, 6x Cultist firearm
+. Cultist w/ flamer
+. Cultist w/ grenade launcher
+. Cultist w/ heavy stubber
+
+Deathshroud Terminators [220pts]
+. 5x Deathshroud Terminator: 5x Manreaper, 5x Plaguespurt gauntlet
+. Deathshroud Terminator Champion: 2x Plaguespurt gauntlet
+
+Poxwalkers [50pts]
+. 10x Poxwalker: 10x Improvised weapons
+
++ Vehicle +
+
+Death Guard Predator Destructor [130pts]: Havoc launcher, Plague combi-bolter
+. 2 plague heavy bolters
+
+Death Guard Predator Destructor [130pts]: Havoc launcher, Plague combi-bolter
+. 2 plague heavy bolters
+
+Foetid Bloat-drone [90pts]: Fleshmower
+
+Foetid Bloat-drone [90pts]: Fleshmower
+
++ Dedicated Transport +
+
+Death Guard Rhino [75pts]: Havoc launcher, Plague combi-bolter
+
+Death Guard Rhino [75pts]: Havoc launcher, Plague combi-bolter
+
+Death Guard Rhino [75pts]: Havoc launcher, Plague combi-bolter
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

@@ -1,0 +1,70 @@
+Chaos is not a Pit. Chaos is a Ladder
+
+Fabulous Bill, John Wick, and the Fallen Petty Purple Marines
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Space Marines
++ DETACHMENT: Creations of Bile
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Chaos Knights
++
++ WARLORD: Char2: Fabius Bile
++ ENHANCEMENT: Prime Test Subject (on Char1: Chaos Lord)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (5x2) - Assassination: 3 Characters - Cull The Horde: 3x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Cypher (90 pts): Cypher's bolt pistol, Cypher's plasma pistol
+Char2: 2x Fabius Bile (85 pts): Warlord
+• 1x Fabius Bile: Rod of Torment, The Chirurgeon, Xyclos needler
+• 1x Surgeon Acolyte: Surgeon Acolyte's tools
+Char3: 1x Chaos Lord (125 pts): Daemon hammer, Plasma pistol
+Enhancement: Prime Test Subject (+35 pts)
+
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Bolt pistol
+• 9x Cultist: 9 with Autopistol, Brutal assault weapon
+5x Legionaries (90 pts)
+• 4x Legionary
+2 with Astartes chainsword, Bolt pistol, Close combat weapon
+1 with Bolt pistol, Close combat weapon, Heavy melee weapon
+1 with Bolt pistol, Close combat weapon, Lascannon
+• 1x Aspiring Champion: Chaos icon, Close combat weapon, Heavy melee weapon, Plasma pistol
+5x Legionaries (90 pts)
+• 4x Legionary
+2 with Astartes chainsword, Bolt pistol, Close combat weapon
+1 with Bolt pistol, Close combat weapon, Heavy melee weapon
+1 with Bolt pistol, Close combat weapon, Lascannon
+• 1x Aspiring Champion: Chaos icon, Close combat weapon, Heavy melee weapon, Plasma pistol
+
+10x Chosen (250 pts)
+2 with Accursed weapon, Bolt pistol, Boltgun
+4 with Accursed weapon, Bolt pistol, Combi-weapon
+2 with Paired accursed weapons, Plasma pistol
+1 with Boltgun, Plasma pistol, Power fist
+1 with Chaos icon, Boltgun, Plasma pistol, Power fist
+5x Chosen (125 pts)
+1 with Accursed weapon, Bolt pistol, Boltgun
+2 with Accursed weapon, Bolt pistol, Combi-weapon
+1 with Paired accursed weapons, Plasma pistol
+1 with Chaos icon, Boltgun, Plasma pistol, Power fist
+5x Nemesis Claw (110 pts)
+• 4x Legionary
+1 with Accursed weapon, Bolt pistol, Close combat weapon
+1 with Bolt pistol, Close combat weapon, Nostraman chainglaive
+1 with Bolt pistol, Close combat weapon, Paired accursed weapons
+1 with Voice eater, Astartes chainsword, Bolt pistol, Close combat weapon
+• 1x Visionary: Power fist, Plasma pistol
+10x Possessed (240 pts)
+9 with Hideous mutations
+1 with Chaos icon, Hideous mutations
+10x Possessed (240 pts)
+9 with Hideous mutations
+1 with Chaos icon, Hideous mutations
+1x Chaos Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+1x Chaos Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+1x Chaos Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+
+1x War Dog Huntsman (140 pts): Daemonbreath spear, Reaper chaintalon, Daemonbreath meltagun
+1x War Dog Huntsman (140 pts): Daemonbreath spear, Reaper chaintalon, Daemonbreath meltagun
+

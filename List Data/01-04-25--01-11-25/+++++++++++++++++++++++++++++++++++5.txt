@@ -1,0 +1,47 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Death Guard
++ DETACHMENT: Plague Company
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Mortarion
++ ENHANCEMENT: Deadly Pathogen (on Char2: Lord of Contagion)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (6x2) + (1x4) - Assassination: 4 Characters - Cull The Horde: 2x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Mortarion (300 pts): Warlord, Rotwind, Silence, The Lantern
+Char2: 1x Typhus (80 pts): Master-crafted manreaper
+Char3: 1x Death Guard Sorcerer in Terminator Armour (70 pts): Curse of the Leper, Plague combi-bolter, Chainfist
+Char4: 1x Lord of Contagion (95 pts): Plagueblade
+Enhancement: Deadly Pathogen (+15 pts)
+
+10x Death Guard Cultists (50 pts)
+• 9x Cultist
+6 with Brutal assault weapon, Cultist firearm
+1 with Brutal assault weapon, Flamer
+1 with Brutal assault weapon, Grenade launcher
+1 with Brutal assault weapon, Heavy stubber
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+10x Death Guard Cultists (50 pts)
+• 9x Cultist
+6 with Brutal assault weapon, Cultist firearm
+1 with Brutal assault weapon, Flamer
+1 with Brutal assault weapon, Grenade launcher
+1 with Brutal assault weapon, Heavy stubber
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator: 5 with Manreaper, Plaguespurt gauntlet
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator: 5 with Manreaper, Plaguespurt gauntlet
+20x Poxwalkers (100 pts): 20 with Improvised weapons
+10x Poxwalkers (50 pts): 10 with Improvised weapons
+20x Poxwalkers (100 pts): 20 with Improvised weapons
+1x Death Guard Predator Destructor (130 pts): Armoured tracks, Havoc launcher, Predator autocannon, Plague combi-bolter, 2x Lascannon
+1x Death Guard Predator Destructor (130 pts): Armoured tracks, Havoc launcher, Predator autocannon, Plague combi-bolter, 2x Lascannon
+1x Death Guard Predator Destructor (130 pts): Armoured tracks, Havoc launcher, Predator autocannon, Plague combi-bolter, 2x Lascannon
+1x Foetid Bloat-drone (90 pts): Plague probe, 2x Plaguespitter
+1x Foetid Bloat-drone (90 pts): Plague probe, 2x Plaguespitter
+1x Foetid Bloat-drone (90 pts): Plague probe, 2x Plaguespitter
+

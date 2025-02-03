@@ -1,0 +1,89 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Death Guard
++ DETACHMENT: Plague Company (Spread the Sickness)
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Legiones Daemonica
++
++ WARLORD: Char1: Mortarion
++ ENHANCEMENT:
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (5x2) + (1x4) + (1x6) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Mortarion (300 pts)
+1 with Rotwind, Silence, The Lantern
+• Warlord
+
+Char2: 1x Typhus (80 pts)
+1 with Master-crafted manreaper
+
+Char3: 1x Death Guard Sorcerer in Terminator Armour (70 pts)
+1 with Curse of the Leper, Plague combi-bolter, Force weapon
+
+Char4: 1x Death Guard Sorcerer in Terminator Armour (70 pts)
+1 with Curse of the Leper, Plague combi-bolter, Force weapon
+
+OTHER DATASHEETS
+
+10x Death Guard Cultists (50 pts)
+• 1x Cultist Champion
+1 with Brutal assault weapon, Cultist firearm
+• 9x Cultist
+6 with Brutal assault weapon, Cultist firearm
+1 with Brutal assault weapon, Flamer
+1 with Brutal assault weapon, Grenade launcher
+1 with Brutal assault weapon, Heavy stubber
+
+10x Death Guard Cultists (50 pts)
+• 1x Cultist Champion
+1 with Brutal assault weapon, Cultist firearm
+• 9x Cultist
+9 with Brutal assault weapon, Cultist firearm
+
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion
+1 with Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator
+5 with Manreaper, Plaguespurt gauntlet
+
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion
+1 with Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator
+5 with Manreaper, Plaguespurt gauntlet
+
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion
+1 with Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator
+5 with Manreaper, Plaguespurt gauntlet
+
+1x Foetid Bloat-drone (90 pts)
+1 with Plague probe, Fleshmower
+
+1x Foetid Bloat-drone (90 pts)
+1 with Plague probe, Fleshmower
+
+1x Myphitic Blight-haulers (90 pts)
+• 1x Myphitic Blight-hauler
+1 with Bile spurt, Gnashing maw, Missile launcher, Multi-melta
+
+1x Myphitic Blight-haulers (90 pts)
+• 1x Myphitic Blight-hauler
+1 with Bile spurt, Gnashing maw, Missile launcher, Multi-melta
+
+1x Myphitic Blight-haulers (90 pts)
+• 1x Myphitic Blight-hauler
+1 with Bile spurt, Gnashing maw, Missile launcher, Multi-melta
+
+ALLIED UNITS
+
+3x Nurglings (40 pts)
+• 3x Nurgling Swarm
+3 with Diseased claws and teeth
+
+Char5: 1x Rotigus (230 pts)
+1 with Gnarlrod, Streams of brackish filth
+

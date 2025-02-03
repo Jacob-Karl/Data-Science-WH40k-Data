@@ -1,0 +1,32 @@
+One of the Waggas in Wagga Wagga is silent. Nobody knows which one.
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Tyranids
++ DETACHMENT: Invasion Fleet
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: Hive Tyrant
++ ENHANCEMENT:
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (8x2) + (1x4) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Old One Eye (150 pts): Old One Eye's claws and talons
+Char2: 1x Hive Tyrant (235 pts): Warlord, Monstrous Bonesword and Lash Whip, Heavy Venom Cannon
+Char3: 1x Neurotyrant (105 pts): Neurotyrant claws and lashes, Psychic scream
+
+10x Gargoyles (85 pts): 10 with Blinding Venom, Fleshborer
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+
+1x Biovores (50 pts): Chitin-barbed Limbs, Spore Mine Launcher
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Neurolictor (90 pts): Piercing Claws and Talons
+1x Neurolictor (90 pts): Piercing Claws and Talons
+2x Carnifexes (230 pts): 2 with Xenos Claws and Teeth, Bio-plasma, Spine Banks, Deathspitters with Slimer Maggots, Deathspitters with Slimer Maggots
+1x Exocrine (135 pts): Bio-plasmic Cannon, Powerful Limbs
+1x Exocrine (135 pts): Bio-plasmic Cannon, Powerful Limbs
+1x Maleceptor (170 pts): Massive Scything Talons, Psychic Overload
+1x Maleceptor (170 pts): Massive Scything Talons, Psychic Overload
+1x Maleceptor (170 pts): Massive Scything Talons, Psychic Overload
+

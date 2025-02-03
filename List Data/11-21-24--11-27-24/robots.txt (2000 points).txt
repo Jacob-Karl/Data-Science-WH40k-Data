@@ -1,0 +1,105 @@
+robots.txt (2000 points)
+
+Necrons
+Strike Force (2000 points)
+Awakened Dynasty
+
+
+CHARACTERS
+
+Chronomancer (65 points)
+• 1x Chronomancer's stave
+
+Illuminor Szeras (175 points)
+• Warlord
+• 1x Eldritch Lance
+1x Impaling legs
+
+Lokhust Lord (100 points)
+• 1x Lord's blade
+1x Resurrection Orb
+• Enhancement: Veil of Darkness
+
+Skorpekh Lord (95 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+• Enhancement: Enaegic Dermal Bond
+
+Skorpekh Lord (80 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+
+Skorpekh Lord (80 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+
+Technomancer (105 points)
+• 1x Staff of light
+• Enhancement: Nether-realm Casket
+
+
+BATTLELINE
+
+Immortals (150 points)
+• 10x Immortal
+• 10x Close combat weapon
+10x Tesla carbine
+
+
+OTHER DATASHEETS
+
+Canoptek Reanimator (75 points)
+• 2x Atomiser beam
+1x Reanimator's claws
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Canoptek Wraiths (250 points)
+• 6x Canoptek Wraith
+• 6x Particle caster
+6x Vicious claws
+
+Lokhust Destroyers (35 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Heavy Destroyers (165 points)
+• 3x Lokhust Heavy Destroyer
+• 3x Close combat weapon
+3x Gauss destructor
+
+Lokhust Heavy Destroyers (165 points)
+• 3x Lokhust Heavy Destroyer
+• 3x Close combat weapon
+3x Enmitic exterminator
+
+Skorpekh Destroyers (90 points)
+• 3x Skorpekh Destroyer
+• 1x Plasmacyte
+3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers (90 points)
+• 3x Skorpekh Destroyer
+• 1x Plasmacyte
+3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers (90 points)
+• 3x Skorpekh Destroyer
+• 1x Plasmacyte
+3x Skorpekh hyperphase weapons
+
+Triarch Stalker (110 points)
+• 1x Heavy gauss cannon array
+1x Stalker's forelimbs
+
+Exported with App Version: v1.22.1 (57), Data Version: v488
+

@@ -1,0 +1,128 @@
+Modena GT astra (2000 points)
+
+Astra Militarum
+Strike Force (2000 points)
+Combined Regiment
+
+
+CHARACTERS
+
+Ministorum Priest (35 points)
+• 1x Holy pistol
+1x Power weapon
+
+Tank Commander (240 points)
+• Warlord
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Militarum plasma cannon
+• Enhancement: Grand Strategist
+
+Tank Commander (225 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Tank Commander (225 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+
+BATTLELINE
+
+Cadian Shock Troops (65 points)
+• 1x Shock Trooper Sergeant
+• 1x Close combat weapon
+1x Drum-fed autogun
+• 9x Shock Trooper
+• 9x Close combat weapon
+7x Lasgun
+1x Meltagun
+1x Plasma gun
+1x Vox-caster
+
+Catachan Jungle Fighters (65 points)
+• 1x Jungle Fighter Sergeant
+• 1x Close combat weapon
+1x Laspistol
+• 9x Jungle Fighter
+• 9x Close combat weapon
+2x Flamer
+7x Lasgun
+1x Vox-caster
+
+
+OTHER DATASHEETS
+
+Hellhound (125 points)
+• 1x Armoured tracks
+1x Hunter-killer missile
+1x Inferno cannon
+1x Multi-melta
+
+Leman Russ Demolisher (200 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Leman Russ Exterminator (170 points)
+• 1x Armoured tracks
+1x Exterminator autocannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Ratlings (60 points)
+• 5x Ratling Sniper
+• 5x Close combat weapon
+5x Sniper rifle
+
+Rogal Dorn Battle Tank (240 points)
+• 1x Armoured tracks
+1x Co-axial autocannon
+1x Heavy stubber
+2x Meltagun
+2x Multi-melta
+1x Oppressor cannon
+1x Pulveriser cannon
+
+Rogal Dorn Battle Tank (240 points)
+• 1x Armoured tracks
+1x Co-axial autocannon
+1x Heavy stubber
+2x Meltagun
+2x Multi-melta
+1x Oppressor cannon
+1x Pulveriser cannon
+
+Tempestus Aquilons (110 points)
+• 1x Tempestor Aquilon
+• 1x Close combat weapon
+1x Hot-shot laspistol
+1x Power weapon
+1x Sentry flamer
+• 8x Tempestus Aquilon
+• 8x Close combat weapon
+6x Hot-shot lascarbine
+1x Hot‐shot long‐las
+1x Melta carbine
+• 1x Gunfighter
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+
+Exported with App Version: v1.24.0 (64), Data Version: v525
+

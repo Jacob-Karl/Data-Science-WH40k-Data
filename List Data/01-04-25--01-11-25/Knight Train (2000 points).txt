@@ -1,0 +1,88 @@
+Knight Train (2000 points)
+
+Imperial Knights
+Strike Force (2000 points)
+Noble Lance
+
+
+CHARACTERS
+
+Canis Rex (450 points)
+• Warlord
+• 1x Chainbreaker las-impulsor
+1x Chainbreaker multi-laser
+1x Freedom's Hand
+
+
+BATTLELINE
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (130 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Warglaive (140 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (140 points)
+• 1x Meltagun
+1x Reaper chain-cleaver
+1x Thermal spear
+
+
+ALLIED UNITS
+
+Callidus Assassin (100 points)
+• 1x Neural shredder
+1x Phase sword and poison blades
+
+Subductor Squad (100 points)
+• 1x Proctor-Subductor
+• 1x Arbites shotpistol
+1x Nuncio-acquila
+1x Shock maul
+• 9x Subductor
+• 9x Arbites shotpistol
+9x Shock maul
+• 1x Cyber-mastiff
+• 1x Mechanical bite
+
+Exported with App Version: v1.24.0 (64), Data Version: v525
+

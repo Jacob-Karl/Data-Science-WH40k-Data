@@ -1,0 +1,131 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adepta Sororitas
++ DETACHMENT: Bringers of Flame
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Morvenn Vahl
++ ENHANCEMENT: Iron Surplice of Saint Istalela (on Char1: Canoness)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (9x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Morvenn Vahl (170 pts)
+• 1x Fidelis
+• 1x Lance of Illumination
+• 1x Paragon missile launcher
+• Warlord
+
+1x Canoness (60 pts)
+• 1x Blessed blade
+• 1x Inferno pistol
+• Iron Surplice of Saint Istalela (+10 pts)
+
+1x Canoness (50 pts)
+• 1x Brazier of Holy Fire
+• 1x Hallowed Chainsword
+• 1x Condemnor boltgun
+
+1x Canoness (50 pts)
+• 1x Brazier of Holy Fire
+• 1x Hallowed Chainsword
+• 1x Condemnor boltgun
+
+OTHER DATASHEETS
+
+10x Dominion Squad (125 pts)
+• 1x Dominion Superior
+• 1x Bolt pistol
+• 1x Close combat weapon
+• 1x Power weapon
+• 1x Ministorum hand flamer
+• 9x Dominion
+• 9x Bolt pistol
+• 5x Boltgun
+• 9x Close combat weapon
+• 4x Ministorum Flamer
+• Simulacrum Imperialis
+
+10x Dominion Squad (125 pts)
+• 1x Dominion Superior
+• 1x Bolt pistol
+• 1x Close combat weapon
+• 1x Power weapon
+• 1x Inferno pistol
+• 9x Dominion
+• 9x Bolt pistol
+• 5x Boltgun
+• 9x Close combat weapon
+• 4x Meltagun
+• Simulacrum Imperialis
+
+10x Dominion Squad (125 pts)
+• 1x Dominion Superior
+• 1x Bolt pistol
+• 1x Close combat weapon
+• 1x Power weapon
+• 1x Inferno pistol
+• 9x Dominion
+• 9x Bolt pistol
+• 5x Boltgun
+• 9x Close combat weapon
+• 4x Meltagun
+• Simulacrum Imperialis
+
+1x Castigator (160 pts)
+• 1x Armoured tracks
+• 3x Heavy bolter
+• 1x Castigator autocannons
+• 1x Hunter-Killer Missile
+• 1x Storm bolter
+
+1x Castigator (160 pts)
+• 1x Armoured tracks
+• 3x Heavy bolter
+• 1x Castigator autocannons
+• 1x Hunter-Killer Missile
+• 1x Storm bolter
+
+1x Exorcist (190 pts)
+• 1x Armoured tracks
+• 1x Heavy Bolter
+• 1x Hunter-Killer Missile
+• 1x Exorcist Missile Launcher
+
+1x Exorcist (190 pts)
+• 1x Armoured tracks
+• 1x Heavy Bolter
+• 1x Hunter-Killer Missile
+• 1x Exorcist Missile Launcher
+
+3x Paragon Warsuits (220 pts)
+• 1x Paragon Superior
+• 1x Bolt pistol
+• 1x Paragon Storm Bolters
+• 1x Paragon War Blade
+• 1x Multi-melta
+• 2x Paragon Warsuit
+• 2x Bolt pistol
+• 2x Paragon Storm Bolters
+• 2x Paragon War Blade
+• 2x Multi-melta
+
+1x Immolator (125 pts)
+• 1x Armoured tracks
+• 1x Heavy Bolter
+• 1x Hunter-Killer Missile
+• 1x Twin Multi-melta
+
+1x Immolator (125 pts)
+• 1x Armoured tracks
+• 1x Heavy Bolter
+• 1x Hunter-Killer Missile
+• 1x Twin Multi-melta
+
+1x Immolator (125 pts)
+• 1x Armoured tracks
+• 1x Heavy Bolter
+• 1x Hunter-Killer Missile
+• 1x Twin Multi-melta
+

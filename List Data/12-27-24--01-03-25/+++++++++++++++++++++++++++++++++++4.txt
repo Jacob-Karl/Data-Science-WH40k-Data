@@ -1,0 +1,185 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Auxiliary Cadre
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Commander Shadowsun
++ ENHANCEMENT: Admired Leader (on Char3: Firesight Team)
++ NUMBER OF UNITS: 21
++ SECONDARY: - Bring It Down: (6x2) + (1x4) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Commander Shadowsun (100 pts)
+• 1x Battlesuit fists
+• 1x Flechette launcher
+• 2x High-energy fusion blaster
+• 1x Light missile pod
+• 1x Pulse pistol
+• Warlord
+
+1x Commander in Coldstar Battlesuit (95 pts)
+• 1x Battlesuit fists
+• 1x Cyclic ion blaster
+• 1x High-output burst cannon
+• 2x Missile pod
+• 2x Twin pulse carbine
+
+1x Ethereal (50 pts)
+• 1x Honour stave
+
+1x Firesight Team (90 pts)
+• 1x Close combat weapons
+• 1x Longshot pulse rifles
+• 1x Pulse pistol
+• Admired Leader (+20 pts)
+
+OTHER DATASHEETS
+
+10x Kroot Carnivores (65 pts)
+• 1x Long-quill
+• 1x Close combat weapon
+• 1x Kroot pistol
+• 1x Kroot rifle
+• 1x Kroot Carnivore
+• 1x Close combat weapon
+• 1x Tanglebomb launcher
+• 8x Kroot Carnivores
+• 8x Close combat weapon
+• 8x Kroot rifle
+
+10x Kroot Carnivores (65 pts)
+• 1x Long-quill
+• 1x Close combat weapon
+• 1x Kroot pistol
+• 1x Kroot rifle
+• 1x Kroot Carnivore
+• 1x Close combat weapon
+• 1x Tanglebomb launcher
+• 8x Kroot Carnivores
+• 8x Close combat weapon
+• 8x Kroot rifle
+
+10x Pathfinder Team (90 pts)
+• 1x Pathfinder Shas'ui
+• 1x Close combat weapon
+• 1x Pulse carbine
+• 1x Pulse pistol
+• 1x Semi-automatic grenade launcher
+• 1x Twin pulse carbine
+• 1x Drone burst cannon
+• Shield Drone, Recon drone
+• 1x Drone burst cannon
+• 9x Pathfinders
+• 9x Close combat weapon
+• 6x Pulse carbine
+• 9x Pulse pistol
+• 3x Ion rifle
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+• 1x Battlesuit fists
+• 1x Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+• 2x Burst cannon
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+• 1x Battlesuit fists
+• 1x Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+• 2x Burst cannon
+
+5x Vespid Stingwings (65 pts)
+• 1x Vespid Strain Leader
+• 1x Neutron blaster
+• 1x Stingwing claws
+• 4x Vespid Stingwings
+• 4x Neutron blaster
+• 4x Stingwing claws
+
+5x Vespid Stingwings (65 pts)
+• 1x Vespid Strain Leader
+• 1x Neutron blaster
+• 1x Stingwing claws
+• 4x Vespid Stingwings
+• 4x Neutron blaster
+• 4x Stingwing claws
+
+5x Vespid Stingwings (65 pts)
+• 1x Vespid Strain Leader
+• 1x Neutron blaster
+• 1x Stingwing claws
+• 4x Vespid Stingwings
+• 4x Neutron blaster
+• 4x Stingwing claws
+
+3x Krootox Rampagers (95 pts)
+• 3x Krootox Rampagers
+• 3x Hunting blades
+• 3x Kroot pistol and hunting javelins
+• 3x Rampager fists
+
+3x Krootox Rampagers (95 pts)
+• 3x Krootox Rampagers
+• 3x Hunting blades
+• 3x Kroot pistol and hunting javelins
+• 3x Rampager fists
+
+5x Kroot Hounds (40 pts)
+• 5x Kroot Hounds
+• 5x Ripping fangs
+
+2x Broadside Battlesuits (180 pts)
+• 1x Broadside Shas'vre
+• 1x Crushing bulk
+• 2x Missile pod
+• 1x Heavy rail rifle
+• 1x Seeker missile
+• Weapon support system
+• 1x Broadside Shas'ui
+• 1x Crushing bulk
+• 2x Missile pod
+• 1x Heavy rail rifle
+• 1x Seeker missile
+• Weapon support system
+
+3x Crisis Fireknife Battlesuits (130 pts)
+• 1x Crisis Fireknife Shas'vre
+• 1x Battlesuit fists
+• 2x Missile pod
+• 1x Twin pulse carbine
+• Marker Drone
+• 2x Crisis Fireknife Shas'ui
+• 2x Battlesuit fists
+• 4x Missile pod
+• 2x Twin pulse carbine
+• 2x Shield Drone
+
+1x Ghostkeel Battlesuit (160 pts)
+• 1x Ghostkeel fists
+• 1x Cyclic ion raker
+• 1x Twin fusion blaster
+• Battlesuit support system
+
+1x Hammerhead Gunship (145 pts)
+• 1x Armoured hull
+• 1x Ion cannon
+• 2x Seeker missile
+• 2x Accelerator burst cannon
+
+1x Hammerhead Gunship (145 pts)
+• 1x Armoured hull
+• 1x Ion cannon
+• 2x Seeker missile
+• 2x Accelerator burst cannon
+
+1x Sky Ray Gunship (140 pts)
+• 1x Armoured hull
+• 1x Seeker missile rack
+• 2x Accelerator burst cannon

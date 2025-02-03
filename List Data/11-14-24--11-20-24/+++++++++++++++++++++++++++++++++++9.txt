@@ -1,0 +1,129 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Aeldari - Drukhari
++ DETACHMENT: Realspace Raiders
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char3: Archon
++ ENHANCEMENT:
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (5x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Lelith Hesperax (95 pts)
+1 with Lelith's blades
+
+Char2: 1x Urien Rakarth (80 pts)
+1 with Casket of Flensing, Haemonculus tools and scissorhands
+
+Char3: 1x Archon (85 pts)
+1 with Huskblade, Blast Pistol
+• Warlord
+
+Char4: 7x Beastmaster (120 pts)
+• 1x Beastmaster
+1 with Agoniser, Splinter pods
+• 1x Clawed Fiend
+1 with Clawed Fiend fists
+• 2x Khymerae
+2 with Khymerae talons
+• 3x Razorwing Flock
+3 with Razorwing feathers
+
+BATTLELINE
+
+10x Kabalite Warriors (110 pts)
+• 5x Kabalite Warrior
+5 with Close Combat Weapon, Splinter rifle
+• 1x Kabalite Warrior with Blaster
+1 with Blaster, Close Combat Weapon
+• 1x Kabalite Warrior with Dark Lance
+1 with Close Combat Weapon, Dark lance
+• 1x Kabalite Warrior with Shredder
+1 with Close Combat Weapon, Shredder
+• 1x Kabalite Warrior with Splinter Cannon
+1 with Close Combat Weapon, Splinter cannon
+• 1x Sybarite
+1 with Sybarite Weapon, Blast Pistol
+• Phantasm Grenade Launcher
+
+10x Wyches (90 pts)
+• 1x Hekatrix
+1 with Hekatarii Blade, Blast Pistol
+• Phantasm Grenade Launcher
+• 9x Wych
+9 with Hekatarii Blade, Splinter Pistol
+
+OTHER DATASHEETS
+
+4x Court of the Archon (95 pts)
+• 1x Lhamaean
+1 with Shaimeshi Blade
+• 1x Medusae
+1 with Close combat weapon, Eyeburst
+• 1x Sslyth
+1 with Shardcarbine, Splinter pistol, Sslyth battle-blade
+• 1x Ur-ghul
+1 with Ur-ghul Talons
+
+6x Grotesques (160 pts)
+• 6x Grotesque
+6 with Liquifier Gun, Monstrous weapons
+
+5x Mandrakes (70 pts)
+• 4x Mandrake
+4 with Baleblast, Glimmersteel Blade
+• 1x Nightfiend
+1 with Baleblast, Glimmersteel Blade
+
+5x Mandrakes (70 pts)
+• 4x Mandrake
+4 with Baleblast, Glimmersteel Blade
+• 1x Nightfiend
+1 with Baleblast, Glimmersteel Blade
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+4 with Close combat weapon, Drukhari Haywire Blaster
+• 1x Solarite
+1 with Close combat weapon, Solarite Weapon, Blast Pistol
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+4 with Close combat weapon, Dark Lance
+• 1x Solarite
+1 with Close combat weapon, Solarite Weapon, Blast Pistol
+
+5x Scourges (120 pts)
+• 4x Scourge with Heavy Weapon
+4 with Close combat weapon, Dark Lance
+• 1x Solarite
+1 with Close combat weapon, Solarite Weapon, Blast Pistol
+
+3x Reavers (65 pts)
+• 1x Arena Champion
+1 with Bladevanes, Splinter Pistol, Heat Lance
+• Grav Talon
+• 2x Reaver
+2 with Bladevanes, Splinter Pistol, Splinter Rifle
+
+1x Cronos (50 pts)
+• 1x Cronos
+1 with Spirit Syphon, Spirit Vortex, Spirit-leech Tentacles
+
+2x Talos (160 pts)
+• 2x Talos
+2 with Twin Liquifier Gun, Talos Gauntlet, Twin Haywire Blasters
+
+2x Talos (160 pts)
+• 2x Talos
+2 with Twin Liquifier Gun, Talos Gauntlet, Twin Haywire Blasters
+
+2x Talos (160 pts)
+• 2x Talos
+2 with Twin Liquifier Gun, Talos Gauntlet, Twin Haywire Blasters
+
+1x Venom (70 pts)
+1 with Bladevanes, Splinter Cannon, Splinter Cannon
+

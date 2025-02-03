@@ -1,0 +1,101 @@
+Player: Giorgio castelli
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: negron
++ DETACHMENT: Starshatter arsenal
++ TOTAL ARMY POINTS: 2000
++
++ WARLORD: the silent King
++ ENHANCEMENT:on catacombe command Barge (dread majesty), on skorpekh lord (Chrono impedance field), on technomancer (demanding leader)
++ NUMBER OF UNITS: 16
++ SECONDARY: assassination: 16 bring: 20+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTERS
+
+Catacomb Command Barge (150 points)
+• 1x Gauss cannon
+1x Overlord's blade
+1x Resurrection Orb
+Enanchement: dread majesty
+
+Skorpekh Lord (105 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+Enanchement: Chrono impedance field
+
+Technomancer (95 points)
+• 1x Staff of light
+Enanchement: demanding leader
+
+The Silent King (420 points)
+• 1x Szarekh
+• Warlord
+• 1x Sceptre of Eternal Glory
+1x Staff of Stars
+1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+• 2x Annihilator beam
+2x Armoured bulk
+
+
+OTHER DATASHEETS
+
+Canoptek Reanimator (75 points)
+• 2x Atomiser beam
+1x Reanimator's claws
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x fabricator claw array
+1x gloom prima
+2x particle beamer
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x fabricator claw array
+1x gloom prima
+2x particle beamer
+
+Canoptek Wraiths (230 points)
+• 6x Canoptek Wraith
+• 6x Particle caster
+6x Vicious claws
+
+Cryptothralls (60 points)
+• 2x Cryptothrall
+• 2x Scouring eye
+2x Scythed limbs
+
+Doomsday Ark (190 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Doomsday Ark (190 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Doomsday Ark (190 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Lokhust Destroyers (35 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Destroyers (35 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Destroyers (35 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Exported with App Version: v1.24.0 (64), Data Version: v525

@@ -1,0 +1,49 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Grey Knights
++ DETACHMENT: Warpbane Task Force
++ TOTAL ARMY POINTS: 1995pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char1: Castellan Crowe
++ ENHANCEMENT:
++ NUMBER OF UNITS: 13
++ SECONDARY: - Bring It Down: (1x2) + (2x4) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Castellan Crowe (90 pts): Warlord, Black Blade of Antwyr, Purifying Flame, Storm Bolter
+
+5x Strike Squad (120 pts)
+• 4x Grey Knight: 4 with Nemesis Force Weapon, Storm Bolter
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+
+5x Interceptor Squad (130 pts)
+• 4x Interceptor: 4 with Nemesis Force Weapon, Storm Bolter
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+5x Interceptor Squad (130 pts)
+• 4x Interceptor: 4 with Nemesis Force Weapon, Storm Bolter
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+5x Purgation Squad (120 pts)
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+• 4x Purgator: 4 with Close combat weapon, Psycannon
+5x Purgation Squad (120 pts)
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+• 4x Purgator: 4 with Close combat weapon, Psycannon
+10x Purifier Squad (250 pts)
+• 1x Knight of the Flame: Nemesis Force Weapon, Purifying Flame, Storm Bolter
+• 9x Purifier: 9 with Nemesis Force Weapon, Purifying Flame, Storm Bolter
+5x Purifier Squad (125 pts)
+• 4x Purifier
+2 with Nemesis Force Weapon, Purifying Flame, Storm Bolter
+2 with Close combat weapon, Incinerator, Purifying Flame
+• 1x Knight of the Flame: Nemesis Force Weapon, Purifying Flame, Storm Bolter
+10x Purifier Squad (250 pts)
+• 9x Purifier
+5 with Nemesis Force Weapon, Purifying Flame, Storm Bolter
+4 with Close combat weapon, Incinerator, Purifying Flame
+• 1x Knight of the Flame: Nemesis Force Weapon, Purifying Flame, Storm Bolter
+1x Grey Knights Land Raider (240 pts): Armoured tracks, 2x Godhammer Lascannon, Hunter-killer Missile, Multi-melta, Storm Bolter, Twin Heavy Bolter
+1x Grey Knights Land Raider (240 pts): Armoured tracks, 2x Godhammer Lascannon, Hunter-killer Missile, Multi-melta, Storm Bolter, Twin Heavy Bolter
+1x Grey Knights Razorback (85 pts): Armoured tracks, Twin Heavy Bolter
+
+Char2: 1x Inquisitor Coteaz (95 pts): Glovodan Psyber-eagle, Bolt pistol, Nemesis daemon hammer, Psychic Blast
+

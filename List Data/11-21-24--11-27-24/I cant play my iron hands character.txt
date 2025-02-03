@@ -1,0 +1,137 @@
+I cant play my iron hands character volcon so I settled for this.
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Dark Angels
++ DETACHMENT: Gladius Task Force
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Azrael
++ ENHANCEMENT: Fire Discipline (on Char1: Apothecary Biologis)
++ NUMBER OF UNITS: 14
++ SECONDARY: - Bring It Down: (1x4) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Azrael (115 pts)
+• 1x Lion's Wrath
+• 1x The Sword of Secrets
+• Warlord
+
+1x Apothecary Biologis (110 pts)
+• 1x Absolver Bolt Pistol
+• 1x Close Combat Weapon
+• Fire Discipline (+40 pts)
+
+1x Judiciar (70 pts)
+• 1x Absolver Bolt Pistol
+• 1x Executioner Relic Blade
+
+BATTLELINE
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant
+• 1x Hand Flamer
+• 1x Power Fist
+• 4x Assault Intercessors
+• 4x Astartes Chainsword
+• 4x Heavy Bolt Pistol
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Hand Flamer
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 4x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Deathwing Knights (250 pts)
+• 4x Deathwing Knight
+• 1x Knight Master
+• 1x Great Weapon of the Unforgiven
+• 1x Power Weapon
+• Watcher in the Dark
+
+5x Deathwing Knights (250 pts)
+• 4x Deathwing Knight
+• 1x Knight Master
+• 1x Great Weapon of the Unforgiven
+• 1x Mace of absolution
+• Watcher in the Dark
+
+5x Deathwing Knights (250 pts)
+• 4x Deathwing Knight
+• 1x Knight Master
+• 1x Great Weapon of the Unforgiven
+• 1x Mace of absolution
+• Watcher in the Dark
+
+6x Eradicator Squad (200 pts)
+• 3x Eradicator
+• 3x Bolt Pistol
+• 3x Close Combat Weapon
+• 3x Melta Rifle
+• 1x Eradicator Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Melta Rifle
+• 2x Eradicator with Multi-melta
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 2x Multi-melta
+
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+• 4x Bolt Pistol
+• 4x Close Combat Weapon
+• 4x Marksman Bolt Carbine
+• Infiltrator Comms Array, Helix Gauntlet
+• 1x Infiltrator Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Marksman Bolt Carbine
+
+6x Inner Circle Companions (180 pts)
+• 6x Inner Circle Companion
+• 6x Calibanite Greatsword
+• 6x Heavy Bolt Pistol
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Astartes Chainsword
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Heavy Bolter
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Astartes Chainsword
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Heavy Bolter
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+1x Repulsor (180 pts)
+• 1x Armoured Hull
+• 1x Hunter-slayer Missile
+• 1x Repulsor Defensive Array
+• 1x Twin Lascannon
+• 1x Las-talon

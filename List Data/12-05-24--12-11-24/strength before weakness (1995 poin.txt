@@ -1,0 +1,22 @@
+**strength before weakness (1995 points)**
+*T'au Empire*
+*Retaliation Cadre*
+- Commander Farsight 95
+- Commander in Coldstar Battlesuit [1x CIB, 1x HOBC, 2x MP, 2x SD] 95
+- Commander in Coldstar Battlesuit [Internal Grenade Racks] [4x FB, 2x SD] 115
+- Commander in Enforcer Battlesuit [Starflare Ignition System] [Warlord] [4x PR, 2x SD] 100
+- Broadside Battlesuits [2] [2x Rail, 4x Missle Drone, 2x Seeker, 2x WSS] 180
+- Broadside Battlesuits [2] [2x Rail, 4x Missle Drone, 2x Seeker, 2x WSS] 180
+- Crisis Fireknife Battlesuits [6x Plasma, 3x GD, 1x MD, 2x SD] 130
+- Crisis Fireknife Battlesuits [6x Missile pod, 3x GD, 1x MD, 2x SD] 130
+- Crisis Starscythe Battlesuits [3] [6x Flamer, 3x GD, 1x MD, 2x SD] 110
+- Crisis Sunforge Battlesuits [3] [3x GD, 1x MD, 2x SD] 150
+- Crisis Sunforge Battlesuits [3] [3x GD, 1x MD, 2x SD] 150
+- Ghostkeel Battlesuit [1x BSS, 1x Ion Raker, 1x Twin fusion] 160
+- Kroot Carnivores [10] [1x Carbine, 1x Tanglebomb] 65
+- Pathfinder Team [1x GD, 1x Recon Drone, 1x SD, 3x Ion Rifle] 90
+- Stealth Battlesuits [3] [1x BSS, 1x Fusion, 1x MD, 1x SD] 60
+- Stealth Battlesuits [3] [1x BSS, 1x Fusion, 1x MD, 1x SD] 60
+- Stealth Battlesuits [3] [1x BSS, 1x Fusion, 1x MD, 1x SD] 60
+- Vespid Stingwings 65
+

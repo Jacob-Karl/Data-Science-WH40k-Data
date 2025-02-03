@@ -1,0 +1,160 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Astra Militarum
++ DETACHMENT: Combined Regiment
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Lord Solar Leontus
++ ENHANCEMENT: Grand Strategist (on Char2: Tank Commander)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (7x2) + (2x4) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Lord Solar Leontus (125 pts)
+• 1x Conquest
+• 1x Konstantin's Hooves
+• 1x Sol's Righteous Gaze
+• Warlord
+
+5x Cadian Command Squad (65 pts)
+• 1x Cadian Commander
+• 1x Plasma Pistol
+• 1x Power Weapon
+• 4x Veteran Guardsman
+• 4x Close Combat Weapon
+• 1x Laspistol
+• 1x Grenade Launcher
+• 3x Lasgun
+• 1x Regimental Standard
+• Master Vox, Medi-pack
+
+1x Tank Commander (240 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Demolisher Battle Cannon
+• 1x Lascannon
+• 2x Multi-melta
+• 1x Heavy Stubber
+• Grand Strategist (+15 pts)
+
+1x Tank Commander (225 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Demolisher Battle Cannon
+• 1x Lascannon
+• 2x Multi-melta
+• 1x Heavy Stubber
+
+1x Tank Commander (225 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Demolisher Battle Cannon
+• 1x Lascannon
+• 2x Multi-melta
+• 1x Heavy Stubber
+
+BATTLELINE
+
+10x Cadian Shock Troops (60 pts)
+• 9x Shock Trooper
+• 9x Close Combat Weapon
+• 7x Lasgun
+• 1x Meltagun
+• 1x Plasma Gun
+• Vox-caster
+• 1x Shock Trooper Sergeant
+• 1x Close Combat Weapon
+• 1x Drum-fed Autogun
+
+10x Catachan Jungle Fighters (55 pts)
+• 1x Jungle Fighter Sergeant
+• 1x Close Combat Weapon
+• 1x Laspistol
+• 9x Jungle Fighter
+• 9x Close Combat Weapon
+• 7x Lasgun
+• 2x Flamer
+• Vox-caster
+
+10x Catachan Jungle Fighters (55 pts)
+• 1x Jungle Fighter Sergeant
+• 1x Close Combat Weapon
+• 1x Laspistol
+• 9x Jungle Fighter
+• 9x Close Combat Weapon
+• 7x Lasgun
+• 2x Flamer
+• Vox-caster
+
+10x Catachan Jungle Fighters (55 pts)
+• 1x Jungle Fighter Sergeant
+• 1x Close Combat Weapon
+• 1x Laspistol
+• 9x Jungle Fighter
+• 9x Close Combat Weapon
+• 7x Lasgun
+• 2x Flamer
+• Vox-caster
+
+OTHER DATASHEETS
+
+10x Tempestus Aquilons (90 pts)
+• 1x Tempestor Aquilon
+• 1x Close Combat Weapon
+• 1x Hot-shot Laspistol
+• 1x Hot-shot lascarbine
+• 1x Sentry flamer
+• 9x Tempestus Aquilon
+• 9x Close Combat Weapon
+• 7x Hot-shot lascarbine
+• 1x Hot-shot long las
+• 1x Plasma carbine
+
+1x Hellhound (115 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Heavy Flamer
+• 1x Inferno Cannon
+
+1x Rogal Dorn Battle Tank (240 pts)
+• 1x Armoured tracks
+• 1x Heavy Stubber
+• 2x Heavy Stubber
+• 2x Heavy Bolter
+• 1x Pulveriser Cannon
+• 1x Co-axial Autocannon
+• 1x Oppressor Cannon
+
+1x Rogal Dorn Battle Tank (240 pts)
+• 1x Armoured tracks
+• 1x Heavy Stubber
+• 2x Heavy Stubber
+• 2x Heavy Bolter
+• 1x Pulveriser Cannon
+• 1x Co-axial Autocannon
+• 1x Oppressor Cannon
+
+1x Chimera (70 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Lasgun Array
+• 1x Chimera Heavy Bolter
+• 1x Heavy Bolter
+• 1x Heavy Stubber
+
+1x Chimera (70 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Lasgun Array
+• 1x Chimera Heavy Bolter
+• 1x Heavy Bolter
+• 1x Heavy Stubber
+
+1x Chimera (70 pts)
+• 1x Armoured Tracks
+• 1x Hunter-killer Missile
+• 1x Lasgun Array
+• 1x Chimera Heavy Bolter
+• 1x Heavy Bolter
+• 1x Heavy Stubber

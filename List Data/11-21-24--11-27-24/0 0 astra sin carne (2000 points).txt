@@ -1,0 +1,203 @@
+0 0 astra sin carne (2000 points)
+
+Astra Militarum
+Strike Force (2000 points)
+Combined Regiment
+
+
+CHARACTERS
+
+Gaunt's Ghosts (100 points)
+• 1x Ibram Gaunt
+• 1x Bolt Pistol
+1x Gaunt's chainsword
+• 1x Colm Corbec
+• 1x Corbec's hot-shot lascarbine
+1x Straight silver knife
+• 1x Elim Rawne
+• 1x Rawne's lascarbine
+1x Straight silver knife
+• 1x Hlaine Larkin
+• 1x Larkin's long-las
+1x Straight silver knife
+• 1x 'Try Again' Bragg
+• 1x Bragg's autocannon
+1x Straight silver knife
+• 1x Oan Mkoll
+• 1x Lascarbine
+1x Mkoll's straight silver knife
+
+Lord Solar Leontus (125 points)
+• Warlord
+• 1x Conquest
+1x Konstantin's hooves
+1x Sol's Righteous Gaze
+
+Militarum Tempestus Command Squad (110 points)
+• 1x Tempestor Prime
+• 1x Plasma pistol
+1x Tempestus dagger
+• Enhancement: Kurov's Aquila
+• 4x Tempestus Scion
+• 4x Close combat weapon
+1x Hot-shot lasgun
+1x Hot-shot volley gun
+1x Meltagun
+1x Plasma gun
+1x Regimental Standard
+
+Platoon Command Squad (60 points)
+• 1x Platoon Commander
+• 1x Close combat weapon
+1x Plasma pistol
+1x Power fist
+• 2x Veteran Guardsman
+• 2x Close combat weapon
+2x Lasgun
+2x Laspistol
+1x Master Vox
+1x Regimental Standard
+• 1x Veteran Heavy Weapons Team
+• 1x Close combat weapon
+1x Laspistol
+1x Mortar
+
+Tank Commander (225 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Tank Commander (225 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+
+BATTLELINE
+
+Catachan Jungle Fighters (55 points)
+• 1x Jungle Fighter Sergeant
+• 1x Close combat weapon
+1x Laspistol
+• 9x Jungle Fighter
+• 9x Close combat weapon
+2x Flamer
+7x Lasgun
+1x Vox-caster
+
+Catachan Jungle Fighters (55 points)
+• 1x Jungle Fighter Sergeant
+• 1x Close combat weapon
+1x Laspistol
+• 9x Jungle Fighter
+• 9x Close combat weapon
+2x Flamer
+7x Lasgun
+1x Vox-caster
+
+Infantry Squad (60 points)
+• 1x Sergeant
+• 1x Chainsword
+1x Plasma pistol
+• 7x Guardsman
+• 7x Close combat weapon
+6x Lasgun
+1x Plasma gun
+1x Vox-caster
+• 1x Heavy Weapons Team
+• 1x Close combat weapon
+1x Laspistol
+1x Mortar
+
+
+OTHER DATASHEETS
+
+Bullgryn Squad (220 points)
+• 1x Bullgryn Bone 'ead
+• 1x Brute Shield
+1x Bullgryn maul
+1x Close combat weapon
+• 5x Bullgryn
+• 5x Brute Shield
+5x Bullgryn maul
+5x Close combat weapon
+
+Leman Russ Demolisher (200 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Leman Russ Demolisher (200 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Ogryn Bodyguard (40 points)
+• 1x Brute Shield
+1x Bullgryn maul
+1x Close combat weapon
+
+Scout Sentinels (55 points)
+• 1x Close combat weapon
+1x Hunter-killer missile
+1x Lascannon
+1x Sentinel chainsaw
+
+Tempestus Aquilons (90 points)
+• 1x Tempestor Aquilon
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+1x Hot-shot laspistol
+1x Sentry flamer
+• 8x Tempestus Aquilon
+• 8x Close combat weapon
+6x Hot-shot lascarbine
+1x Hot‐shot long‐las
+1x Plasma carbine
+• 1x Gunfighter
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 points)
+• 1x Tempestor Aquilon
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+1x Hot-shot laspistol
+1x Sentry flamer
+• 8x Tempestus Aquilon
+• 8x Close combat weapon
+6x Hot-shot lascarbine
+1x Hot‐shot long‐las
+1x Plasma carbine
+• 1x Gunfighter
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 points)
+• 1x Tempestor Aquilon
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+1x Hot-shot laspistol
+1x Sentry flamer
+• 8x Tempestus Aquilon
+• 8x Close combat weapon
+6x Hot-shot lascarbine
+1x Hot‐shot long‐las
+1x Melta carbine
+• 1x Gunfighter
+• 1x Close combat weapon
+1x Hot-shot lascarbine
+
+Exported with App Version: v1.22.0 (51), Data Version: v488

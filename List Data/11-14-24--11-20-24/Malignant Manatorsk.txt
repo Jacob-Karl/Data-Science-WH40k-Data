@@ -1,0 +1,48 @@
+Malignant Manatorsk
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Death Guard
++ DETACHMENT: Plague Company (Spread the Sickness)
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Legiones Daemonica & Chaos Knights
++
++ WARLORD: Char4: Lord of Virulence
++ ENHANCEMENT: Living Plague (on Char3: Lord of Virulence)
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Typhus (80 pts): Master-crafted manreaper
+Char2: 1x Biologus Putrifier (50 pts): Hyper blight grenades, Injector pistol, Plague knives
+Char3: 1x Foul Blightspawn (60 pts): Close combat weapon, Plague sprayer
+Char4: 1x Lord of Virulence (100 pts): Warlord, Heavy plague fist, Twin plague spewer
+Enhancement: Living Plague (+20 pts)
+Char5: 1x Malignant Plaguecaster (65 pts): Corrupted staff, Plague bolt pistol, Plague Wind
+Char6: 1x Malignant Plaguecaster (65 pts): Corrupted staff, Plague bolt pistol, Plague Wind
+
+10x Plague Marines (180 pts)
+• 9x Plague Marine
+1 with Blight launcher, Plague knives
+4 with Heavy plague weapon, Plague knives
+2 with Plague knives, Plague spewer
+2 with Plague knives, Meltagun
+• 1x Plague Champion: Plasma gun, Heavy plague weapon
+
+10x Death Guard Cultists (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+• 9x Cultist: 9 with Brutal assault weapon, Cultist firearm
+10x Death Guard Cultists (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+• 9x Cultist: 9 with Brutal assault weapon, Cultist firearm
+6x Deathshroud Terminators (220 pts)
+• 1x Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator: 5 with Manreaper, Plaguespurt gauntlet
+20x Poxwalkers (100 pts): 20 with Improvised weapons
+1x Foetid Bloat-drone (90 pts): Plague probe, Fleshmower
+1x Death Guard Rhino (75 pts): Armoured tracks, Havoc launcher, Plague combi-bolter, Plague combi-bolter
+1x Death Guard Rhino (75 pts): Armoured tracks, Havoc launcher, Plague combi-bolter, Plague combi-bolter
+
+3x Nurglings (40 pts): 3 with Diseased claws and teeth
+Char7: 1x Rotigus (230 pts): Gnarlrod, Streams of brackish filth
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+

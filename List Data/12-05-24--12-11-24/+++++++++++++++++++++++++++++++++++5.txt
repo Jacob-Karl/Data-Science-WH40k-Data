@@ -1,0 +1,36 @@
++++++++++++++++++++++++++++++++++++++++++++++++
+
++ PLAYER 63: Alexander “Принцесса Цирка” Zhelonkin
++ HIN: 83
++ ARMY NAME: 
++ FACTION KEYWORD: Inquisition (Imperialis Fleet)
++ TOTAL ARMY POINTS: 2000pts
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CH1: Inquisitor [55pts]: (Force weapon, Combi-weapon, Psychic gifts)
+CH2: Inquisitor Draxus [75pts]
+CH3: Inquisitor Greyfax [65pts]
+CH4: Rogue Trader Entourage [95pts] Enchantment: Fleetmaster - Warlord
+CH5: Rogue Trader Entourage [85pts] Enchantment: Combat Landers
+СH6: Watch Master [115pts] - Enchantment: Digital Weapon
+CH7: Culexus Assassin [100pts]
+CH8: Eversor Assassin [110pts]
+CH9: Vindicare Assassin [110pts]
+CH10: Callidus Assassin [100pts]
+
+
+BL1: 10x Deathwatch Kill Team [200pts] (Infernus Heavy Bolter, 2x Frag Cannon, 4x Deathwatch Thunder Hammer, 2x Shield&Vigil Melee Weapon, Sgt w/ Shield&Xenophase Blade)
+BL2: Imperial Navy Breachers [90pts] (Plasma Gun, Demolition Charge)
+BL3: Imperial Navy Breachers [90pts] (Plasma Gun, Demolition Charge)
+
+
+OD1: 12x Inquisitorial Agents [100pts] (2x Multi-Melta, 2x Eviscerator, 2x Mystic Staff, 2x Plasma Pistol, 2x Tome Skull)
+OD2: 12x Inquisitorial Agents [100pts] (2x Multi-Melta, 2x Eviscerator, 2x Mystic Staff, 2x Plasma Pistol, 2x Tome Skull)
+OD3: Grey Knights Terminator Squad [190pts] (Incenerator&Ancient's Banner, Narthecium)
+OD4: Corvus Blackstar [180pts] (Twin-Linked Lascannon, Hurricane Bolter, 2x Stormstrike Missile, Auspex Scanner)
+
+
+DT1: Inquisitorial Chimera [70pts] (2x Heavy Flamer, Heavy Stubber, Hunter-Killer Missile)
+DT2: Inquisitorial Chimera [70pts] (2x Heavy Flamer, Heavy Stubber, Hunter-Killer Missile)
+

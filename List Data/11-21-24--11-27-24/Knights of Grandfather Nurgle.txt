@@ -1,0 +1,48 @@
+Knights of Grandfather Nurgle
+++ Army Roster (Chaos - Chaos Knights) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Traitoris Lance
+
++ Character +
+
+
+Chaos Cerastus Knight Lancer [445pts]: Aura of Terror, Warlord
+
++ Battleline +
+
+
+War Dog Brigand [165pts]: Havoc multi-launcher
+
+War Dog Brigand [165pts]: Havoc multi-launcher
+
+War Dog Brigand [165pts]: Havoc multi-launcher
+
+War Dog Brigand [165pts]: Havoc multi-launcher
+
+War Dog Brigand [165pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
+War Dog Karnivore [140pts]: Havoc multi-launcher
+
++ Allied Units +
+Great Unclean One [230pts]: Bileblade, Bilesword
+
+Nurglings [40pts]
+
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+Nurglings [40pts]
+
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

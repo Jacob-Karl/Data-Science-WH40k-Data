@@ -1,0 +1,34 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Starshatter arsenal
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char2: The Silent King
++ ENHANCEMENT: Chrono-impedance Fields (on Char1: Hexmark Destroyer)
+& Dread Majesty (on Char2: Overlord)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (3x2) + (1x6) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Imotekh the Stormlord (100 pts): Gauntlet of Fire, Staff of the Destroyer
+Char2: 3x The Silent King (420 pts): Warlord
+• 1x Szarekh: Sceptre of Eternal Glory, Staff of Stars, Weapons of the Final Triarch
+• 2x Triarchal Menhir: 2 with Annihilator beam, Armoured bulk
+Char3: 1x Hexmark Destroyer (100 pts): Close combat weapon, Enmitic disintegrator pistols
+Enhancement: Chrono-impedance Fields (+25 pts)
+Char4: 1x Overlord (115 pts): Overlord's blade, Tachyon arrow
+Enhancement: Dread Majesty (+30 pts)
+
+5x Flayed Ones (60 pts): 5 with Flayer claws
+5x Flayed Ones (60 pts): 5 with Flayer claws
+3x Ophydian Destroyers (80 pts): 3 with Ophydian hyperphase weapons
+3x Ophydian Destroyers (80 pts): 3 with Ophydian hyperphase weapons
+3x Skorpekh Destroyers (90 pts): 3 with Skorpekh hyperphase weapons
+3x Skorpekh Destroyers (90 pts): 3 with Skorpekh hyperphase weapons
+3x Skorpekh Destroyers (90 pts): 3 with Skorpekh hyperphase weapons
+2x Lokhust Heavy Destroyers (110 pts): 2 with Close combat weapon, Enmitic exterminator
+2x Lokhust Heavy Destroyers (110 pts): 2 with Close combat weapon, Enmitic exterminator
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Doomsday Ark (190 pts): Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+1x Triarch Stalker (110 pts): Stalker's forelimbs, Heavy gauss cannon array
+

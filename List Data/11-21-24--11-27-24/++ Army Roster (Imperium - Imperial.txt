@@ -1,0 +1,48 @@
+++ Army Roster (Imperium - Imperial Knights) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Noble Lance
+
+Show/Hide Options: Agents of the Imperium are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Canis Rex [450pts]: Warlord
+
++ Character +
+
+
+Knight Warden [465pts]: Meltagun, Reaper chainsword, Revered Knight (Aura), Stormspear rocket pod
+
++ Battleline +
+
+
+Armiger Helverin [140pts]: Questoris heavy stubber
+
+Armiger Helverin [140pts]: Questoris heavy stubber
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
++ Allied Units +
+
+
+Callidus Assassin [100pts]
+
+Subductor Squad [100pts]
+
+. 9x Subductor: 9x Arbites shotpistol, 9x Shock maul
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()

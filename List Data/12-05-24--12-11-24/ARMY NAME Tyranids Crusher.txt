@@ -1,0 +1,38 @@
+ARMY NAME: Tyranids Crusher
+KEYWORD: TYRANIDS
+TOTAL POINTS: 2000
+------------------------
+DETACHMENT: Crusher Stampede
+
+The Swarmlord [240pts]
+- WARLORD
+
+Biovores [50pts]
+
+Lictor [60pts]
+
+Lictor [60pts]
+
+Exocrine [135pts]
+
+Exocrine [135pts]
+
+Exocrine [135pts]
+
+Maleceptor [170pts]
+
+Norn Emissary [275pts]
+
+Trygon [170pts]
+
+Tyrannofex [190pts]
+- Rupture Cannon
+
+Tyrannofex [190pts]
+- Rupture Cannon
+
+Tyrannofex [190pts]
+- Rupture Cannon
+
+app.armyreactor.com [v0.7.3]
+

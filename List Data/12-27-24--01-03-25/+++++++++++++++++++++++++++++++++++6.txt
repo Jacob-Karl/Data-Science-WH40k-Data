@@ -1,0 +1,48 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Joel Larsson
++ FACTION KEYWORD: Imperium - Adeptus Custodes
++ DETACHMENT: Shield Host
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char1: Valerian
++ ENHANCEMENT:
++ NUMBER OF UNITS: 15
++ SECONDARY: - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Valerian (110 pts): Warlord, Gnosis
+Char2: 1x Blade Champion (110 pts): Vaultswords
+Char3: 1x Blade Champion (110 pts): Vaultswords
+Char4: 1x Shield-Captain on Dawneagle Jetbike (160 pts): Interceptor lance, Salvo launcher
+
+4x Custodian Guard (180 pts)
+• 3x Custodian Guard (Guardian Spear): 3 with Guardian Spear
+• 1x Custodian Guard (Vexilla, Praesidium Shield & Misericordia): Vexilla, Misericordia
+
+5x Custodian Wardens (250 pts)
+• 4x Custodian Warden (Guardian Spear): 4 with Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+5x Custodian Wardens (250 pts)
+• 4x Custodian Warden (Guardian Spear): 4 with Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+5x Custodian Wardens (250 pts)
+• 4x Custodian Warden (Guardian Spear): 4 with Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: 3 with Boltgun, Close combat weapon
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: 3 with Boltgun, Close combat weapon
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: 3 with Boltgun, Close combat weapon
+3x Venatari Custodians (165 pts): 3 with Venatari lance
+4x Witchseekers (50 pts)
+• 1x Witchseeker Sister Superior: Close combat weapon, Witchseeker flamer
+• 3x Witchseeker: 3 with Close combat weapon, Witchseeker flamer
+2x Vertus Praetors (150 pts): 2 with Interceptor lance, Salvo launcher
+
+Char5: 1x Inquisitor Draxus (95 pts): Dirgesinger, Power fist, Psychic Tempest
+

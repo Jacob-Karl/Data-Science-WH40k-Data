@@ -1,0 +1,47 @@
++ FACTION KEYWORD: Imperium - Grey Knights
++ DETACHMENT: Warpbane Task Force
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: Kaldor Draigo
++ ENHANCEMENT: Paragon of Sanctity (on Char1: Grand Master in Nemesis Dreadknight)
++ NUMBER OF UNITS: 11
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Castellan Crowe (90 pts): Black Blade of Antwyr, Purifying Flame, Storm Bolter
+Char2: 1x Kaldor Draigo (125 pts): Warlord, Scourging, Storm Bolter, The Titansword
+Char3: 1x Grand Master in Nemesis Dreadknight (220 pts): Nemesis Daemon Greathammer, Heavy Incinerator, Heavy Psycannon
+Enhancement: Paragon of Sanctity (+10 pts)
+Char4: 1x Grand Master in Nemesis Dreadknight (210 pts): Nemesis Daemon Greathammer, Heavy Incinerator, Heavy Psycannon
+Char5: 1x Grand Master in Nemesis Dreadknight (210 pts): Nemesis Daemon Greathammer, Heavy Incinerator, Heavy Psycannon
+
+10x Brotherhood Terminator Squad (420 pts)
+• 2x Terminator with Heavy Weapon
+1 with Nemesis Force Weapon, Incinerator
+1 with Nemesis Force Weapon, Incinerator
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+• 5x Terminator: 5 with Nemesis Force Weapon, Storm Bolter
+• 1x Terminator with Ancient's Banner: Ancient's Banner, Nemesis Force Weapon, Storm Bolter
+• 1x Terminator with Narthecium: Narthecium, Nemesis Force Weapon
+
+5x Strike Squad (120 pts)
+• 3x Grey Knight: 3 with Nemesis Force Weapon, Storm Bolter
+• 1x Grey Knight with Heavy Weapon: Close combat weapon, Incinerator
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+
+5x Interceptor Squad (130 pts)
+• 3x Interceptor: 4 with Nemesis Force Weapon, Storm Bolter
+• 1x Grey Knight with Heavy Weapon: Close combat weapon, Incinerator
+• 1x Justicar: Nemesis Force Weapon, Storm Bolter
+
+5x Purifier Squad (125 pts)
+• 4x Purifier
+3 with Nemesis Force Weapon, Purifying Flame, Storm Bolter
+1 with Close combat weapon, Psilencer, Purifying Flame
+• 1x Knight of the Flame: Nemesis Force Weapon, Purifying Flame, Storm Bolter
+
+10x Purifier Squad (250 pts)
+• 1x Knight of the Flame: Nemesis Force Weapon, Purifying Flame, Storm Bolter
+• 9x Purifier: 9 with Nemesis Force Weapon, Purifying Flame, Storm Bolter
+
+Char6: 1x Callidus Assassin (100 pts): Neural shredder, Phase sword and poison 

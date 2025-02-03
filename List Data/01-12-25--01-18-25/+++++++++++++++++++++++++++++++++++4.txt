@@ -1,0 +1,270 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Player Name: John Winter Russell
+Factions Used: Astra Militarum
+Army Points: 2000
+Army Enhancements: Bombast-Class Vox-array
+Detachment Rule: Bridgehead Strike
+
+Number of units: 23
+Bring it down: 4
+Assassination: (7) 28
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Les hommes avec des pelles (2000 Points)
+
+Astra Militarum
+Bridgehead Strike
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Death Korps Marshal (60 Points)
+• 1x Plasma pistol
+• 1x Power weapon
+
+Gaunt's Ghosts (110 Points)
+• 1x Ibram Gaunt
+◦ 1x Bolt Pistol
+◦ 1x Gaunt's chainsword
+• 1x Colm Corbec
+◦ 1x Corbec's hot-shot lascarbine
+◦ 1x Straight silver knife
+• 1x Elim Rawne
+◦ 1x Rawne's lascarbine
+◦ 1x Straight silver knife
+• 1x Hlaine Larkin
+◦ 1x Larkin's long-las
+◦ 1x Straight silver knife
+• 1x 'Try Again' Bragg
+◦ 1x Bragg's autocannon
+◦ 1x Straight silver knife
+• 1x Oan Mkoll
+◦ 1x Lascarbine
+◦ 1x Mkoll's straight silver knife
+
+Militarum Tempestus Command Squad (95 Points)
+• 1x Tempestor Prime
+• Warlord
+◦ 1x Plasma pistol
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 2x Hot-shot lasgun
+◦ 2x Hot-shot laspistol
+◦ 1x Master Vox
+◦ 1x Medi-pack
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+Bombast-Class Vox-array (+25 pts)
+
+Militarum Tempestus Command Squad (70 Points)
+• 1x Tempestor Prime
+◦ 1x Plasma pistol
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 2x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Medi-pack
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+
+Militarum Tempestus Command Squad (70 Points)
+• 1x Tempestor Prime
+◦ 1x Plasma pistol
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 2x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Medi-pack
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+
+Platoon Command Squad (60 Points)
+• 1x Platoon Commander
+◦ 1x Close combat weapon
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 4x Veteran Guardsman
+◦ 4x Close combat weapon
+◦ 2x Lasgun
+◦ 4x Laspistol
+◦ 1x Master Vox
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+
+Ursula Creed (55 Points)
+• 1x Duty and Vengeance
+• 1x Power weapon
+
+BATTLELINE
+
+Death Korps of Krieg (130 Points)
+• 2x Death Korps Watchmaster
+◦ 2x Plasma pistol
+◦ 2x Power weapon
+• 18x Death Korps Trooper
+◦ 18x Close combat weapon
+◦ 1x Death Korps Medi-pack
+◦ 2x Grenade launcher
+◦ 12x Lasgun
+◦ 2x Meltagun
+◦ 2x Plasma gun
+
+Tempestus Scions (60 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 1x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Vox-caster
+
+Tempestus Scions (120 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 4x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 2x Meltagun
+◦ 2x Plasma gun
+◦ 1x Vox-caster
+
+Tempestus Scions (120 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 4x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 2x Meltagun
+◦ 2x Plasma gun
+◦ 1x Vox-caster
+
+Tempestus Scions (120 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 4x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 2x Hot-shot volley gun
+◦ 2x Plasma gun
+◦ 1x Vox-caster
+
+DEDICATED TRANSPORTS
+
+Taurox Prime (90 Points)
+• 1x Armoured tracks
+• 1x Storm bolter
+• 1x Taurox gatling cannon
+• 1x Twin Taurox hot-shot volley gun
+
+Taurox Prime (90 Points)
+• 1x Armoured tracks
+• 1x Storm bolter
+• 1x Taurox gatling cannon
+• 1x Twin Taurox hot-shot volley gun
+
+OTHER DATASHEETS
+
+Attilan Rough Riders (120 Points)
+• 1x Rough Rider Sergeant
+◦ 1x Hunting lance
+◦ 1x Lasgun
+◦ 1x Laspistol
+◦ 1x Steed's hooves
+• 9x Rough Rider
+◦ 9x Hunting lance
+◦ 9x Lasgun
+◦ 9x Laspistol
+◦ 9x Steed's hooves
+
+Heavy Weapons Squad (50 Points)
+• 3x Heavy Weapon Team
+◦ 3x Las small arms
+◦ 3x Mortar
+◦ 3x Weapons team close combat weapons
+
+Heavy Weapons Squad (50 Points)
+• 3x Heavy Weapon Team
+◦ 3x Las small arms
+◦ 3x Mortar
+◦ 3x Weapons team close combat weapons
+
+Heavy Weapons Squad (50 Points)
+• 3x Heavy Weapon Team
+◦ 3x Las small arms
+◦ 3x Mortar
+◦ 3x Weapons team close combat weapons
+
+Kasrkin (110 Points)
+• 1x Kasrkin Sergeant
+◦ 1x Plasma pistol
+◦ 1x Power weapon
+• 9x Kasrkin
+◦ 9x Close combat weapon
+◦ 3x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Hot-shot marksman rifle
+◦ 1x Melta Mine
+◦ 2x Meltagun
+◦ 2x Plasma gun
+◦ 1x Vox-caster
+
+Kasrkin (110 Points)
+• 1x Kasrkin Sergeant
+◦ 1x Plasma pistol
+◦ 1x Power weapon
+• 9x Kasrkin
+◦ 9x Close combat weapon
+◦ 3x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Hot-shot marksman rifle
+◦ 1x Melta Mine
+◦ 2x Meltagun
+◦ 2x Plasma gun
+◦ 1x Vox-caster
+
+Ogryn Bodyguard (40 Points)
+• 1x Brute Shield
+• 1x Bullgryn maul
+• 1x Close combat weapon
+
+Tempestus Aquilons (110 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry hot‐shot volley gun
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Aquilons (110 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry hot‐shot volley gun
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine

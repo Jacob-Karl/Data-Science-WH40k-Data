@@ -1,0 +1,25 @@
+Player: Vladimir "Colonel Fin" Dudkevich
+Army name: Why change what works?
+Army Faction used: Astra Millitarum
+Total Army cost: 2000
+
+Char1: Tank Commander [225] Demolisher Siege canon, 2 multi-melta, lascannon, Hunter-Killer missale, heavy stubber
+Enchantment [15] Grand Strategist
+Char2: Tank Commander [225] Demolisher Siege canon, 2 multi-melta, lascannon, Hunter-Killer missale,heavy stubber
+Char3: Tank Commander [225] Demolisher Siege canon, 2 multi-melta, lascannon, Hunter-Killer missale,heavy stubber
+Char4: Gaunt Ghosts [100]
+Char5: Militarum Tempestus command squad [70] Meltagun, Plasmagun, Grenade Launcher, Medipack&Regimental Standart,plasmapistol
+Char6: Militarum Tempestus command squad [70] Meltagun, Plasmagun, Hot-Shot Volley Gun, Medipack&Regimental Standart, plasmapistol - Warlord
+
+Bl1: 10 Cadia Shock Troops [60] Meltagun, Plasmagun, Vox-Caster, drum-fed autogun
+BL2: 10 Tempestus Scions [100] 2 Plasmagun, 2 Meltagun, Vox-caster, Plasmapistol&Power Fist
+BL3: 10 Tempestus Scions [100] 2 Plasmagun, 2 Hot-Shot Volley Gun,Vox-caster, Plasmapistol&Power Fist
+BL4: 5 Tempestus Scions [50] Plasmagun, Meltagun, Plasmapistol&Power Fist
+BL5: 5 Tempestus Scions [50] Plasmagun, Meltagun, Plasmapistol&Power Fist
+
+OD1: 10 Tempestus Aquilons [90] Sentry Flamer, Melta carbine, Hot‑shot long‑las
+OD2: 10 Tempestus Aquilons [90] Sentry Flamer, Plasma carbine, Hot‑shot long‑las
+OD3: Rogal Dorn Battle Tank [240] Opressor canon & co-axial autocannon, Heavy stubber, pulveriser cannon, 2 meltagun, 4 multi-melta
+OD4: Hellhound [115] Inferno cannon, Multi-melta, Hunter-Killer missale
+OD5: Hellhound [115] Inferno cannon, Multi-melta, Hunter-Killer missale
+OD6: 5 Atillan Rough Riders [60] Power Sabre

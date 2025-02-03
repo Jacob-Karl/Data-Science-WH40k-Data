@@ -1,0 +1,31 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Tyranids
++ DETACHMENT: Invasion Fleet
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: The Swarmlord
++ ENHANCEMENT: Adaptive Biology (on Char1: Hive Tyrant)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (8x2) + (1x4) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x The Swarmlord (240 pts): Warlord, Bone Sabres, Synaptic Pulse
+Char2: 1x Hive Tyrant (260 pts): Monstrous Bonesword and Lash Whip, Monstrous Scything Talons
+Enhancement: Adaptive Biology (+25 pts)
+Char3: 1x Neurotyrant (105 pts): Neurotyrant claws and lashes, Psychic scream
+
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+10x Hormagaunts (65 pts): 10 with Hormagaunt talons
+
+1x Biovores (50 pts): Chitin-barbed Limbs, Spore Mine Launcher
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Lictor (60 pts): Lictor Claws and Talons
+1x Pyrovores (40 pts): Chitin-barbed limbs, Flamespurt
+1x Exocrine (135 pts): Bio-plasmic Cannon, Powerful Limbs
+1x Exocrine (135 pts): Bio-plasmic Cannon, Powerful Limbs
+1x Haruspex (125 pts): Grasping Tongue, Ravenous Maw, Shovelling Claws
+1x Maleceptor (170 pts): Massive Scything Talons, Psychic Overload
+1x Maleceptor (170 pts): Massive Scything Talons, Psychic Overload
+1x Tyrannofex (190 pts): Powerful Limbs, Stinger Salvoes, Rupture Cannon

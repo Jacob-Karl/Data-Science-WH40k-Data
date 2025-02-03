@@ -1,0 +1,47 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Dark Angels
++ DETACHMENT: Gladius Task Force
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Azrael
++ ENHANCEMENT: The Honour Vehement (on Char1: Judiciar)
++ NUMBER OF UNITS: 13
++ SECONDARY: - Bring It Down: (2x2) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Azrael (115 pts): Warlord, Lion's Wrath, The Sword of Secrets
+Char2: 1x Judiciar (85 pts): Absolver Bolt Pistol, Executioner Relic Blade
+Enhancement: The Honour Vehement (+15 pts)
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack: Heavy Bolt Pistol, Astartes Chainsword
+• 4x Assault Intercessors with Jump Pack: 4 with Astartes Chainsword, Heavy Bolt Pistol
+5x Deathwing Knights (250 pts): Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+5x Deathwing Knights (250 pts): Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+5x Deathwing Knights (250 pts): Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+5x Incursor Squad (80 pts)
+• 4x Incursor: 4 with Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
+• 1x Incursor Sergeant: Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
+6x Inner Circle Companions (180 pts): 6 with Calibanite Greatsword, Heavy Bolt Pistol
+6x Inner Circle Companions (180 pts): 6 with Calibanite Greatsword, Heavy Bolt Pistol
+5x Scout Squad (65 pts)
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scouts: 2 with Bolt Pistol, Boltgun, Close Combat Weapon
+5x Scout Squad (65 pts)
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scouts: 2 with Bolt Pistol, Boltgun, Close Combat Weapon
+1x Redemptor Dreadnought (210 pts): Icarus Rocket Pod, Redemptor Fist, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Storm Bolter
+1x Vindicator (175 pts): Armoured Tracks, Demolisher Cannon, Hunter Killer Missile, Storm Bolter
+

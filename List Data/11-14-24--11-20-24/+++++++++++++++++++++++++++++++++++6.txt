@@ -1,0 +1,158 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Ultramarines
++ DETACHMENT: Vanguard Spearhead
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char1: Marneus Calgar
++ ENHANCEMENT: The Blade Driven Deep (on Char1: Apothecary Biologis)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (3x2) + (1x4) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+3x Marneus Calgar (185 pts)
+• 1x Marneus Calgar
+• 1x Gauntlets of Ultramar
+• 2x Victrix Honour Guard
+• 2x Victrix Power Sword
+• Warlord
+
+1x Apothecary Biologis (95 pts)
+• 1x Absolver Bolt Pistol
+• 1x Close Combat Weapon
+• The Blade Driven Deep (+25 pts)
+
+1x Judiciar (70 pts)
+• 1x Absolver Bolt Pistol
+• 1x Executioner Relic Blade
+
+1x Lieutenant with Combi-weapon (70 pts)
+• 1x Combi-weapon
+• 1x Paired Combat Blades
+
+BATTLELINE
+
+5x Intercessor Squad (80 pts)
+• 1x Intercessor Sergeant
+• 1x Bolt Pistol
+• 1x Bolt Rifle
+• 1x Close Combat Weapon
+• 4x Intercessors
+• 4x Bolt Pistol
+• 4x Bolt Rifle
+• 4x Close Combat Weapon
+• Astartes Grenade Launcher
+
+OTHER DATASHEETS
+
+6x Aggressor Squad (240 pts)
+• 1x Aggressor Sergeant
+• 1x Twin Power Fist
+• 1x Auto Boltstorm Gauntlets
+• 1x Fragstorm Grenade Launcher
+• 5x Aggressors
+• 5x Twin Power Fist
+• 5x Auto Boltstorm Gauntlets
+• 5x Fragstorm Grenade Launcher
+
+6x Bladeguard Veteran Squad (180 pts)
+• 1x Bladeguard Veteran Sergeant
+• 1x Master-crafted Power Weapon
+• 1x Heavy Bolt Pistol
+• 5x Bladeguard Veterans
+• 5x Heavy Bolt Pistol
+• 5x Master-crafted Power Weapon
+
+5x Devastator Squad (120 pts)
+• 4x Devastator Marine
+• 4x Bolt Pistol
+• 4x Close Combat Weapon
+• 4x Grav-cannon
+• 1x Devastator Sergeant
+• 1x Close Combat Weapon
+• 1x Thunder Hammer
+• 1x Combi-weapon
+
+3x Eradicator Squad (100 pts)
+• 1x Eradicator
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Melta Rifle
+• 1x Eradicator Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Melta Rifle
+• 1x Eradicator with Multi-melta
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Multi-melta
+
+5x Incursor Squad (80 pts)
+• 4x Incursor
+• 4x Bolt Pistol
+• 4x Occulus Bolt Carbine
+• 4x Paired Combat Blades
+• 1x Incursor Sergeant
+• 1x Bolt Pistol
+• 1x Occulus Bolt Carbine
+• 1x Paired Combat Blades
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Boltgun
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Missile Launcher
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Boltgun
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Missile Launcher
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+1x Ballistus Dreadnought (130 pts)
+• 1x Armoured Feet
+• 1x Ballistus Lascannon
+• 1x Ballistus Missile Launcher
+• 1x Twin Storm Bolter
+
+1x Redemptor Dreadnought (210 pts)
+• 1x Redemptor Fist
+• 1x Macro Plasma Incinerator
+• 1x Onslaught Gatling Cannon
+• 1x Twin Storm Bolter
+
+1x Repulsor Executioner (220 pts)
+• 1x Armoured Hull
+• 1x Heavy Onslaught Gatling Cannon
+• 1x Icarus Rocket Pod
+• 1x Ironhail Heavy Stubber
+• 1x Repulsor Executioner Defensive Array
+• 1x Twin Heavy Bolter
+• 1x Twin Icarus Ironhail Heavy Stubber
+• 1x Heavy Laser Destroyer
+
+1x Impulsor (80 pts)
+• 1x Armoured Hull
+• 1x Ironhail Heavy Stubber
+• 1x Ironhail Skytalon Array
+• 2x Storm Bolter
+

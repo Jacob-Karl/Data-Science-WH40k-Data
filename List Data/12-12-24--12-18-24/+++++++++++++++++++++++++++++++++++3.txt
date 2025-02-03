@@ -1,0 +1,67 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Deathwatch
++ DETACHMENT: Black Spear Task Force
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char1: Captain in Gravis Armour
++ ENHANCEMENT: The Tome of Ectoclades (on Char1: Captain in Gravis Armour)
++ NUMBER OF UNITS: 12
++ SECONDARY: - Bring It Down: (1x2) - Assassination: 3 Characters - Cull The Horde: 3x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Captain in Gravis Armour (110 pts): Warlord, Boltstorm Gauntlet, Power Fist, Relic Fist
+Enhancement: The Tome of Ectoclades (+30 pts)
+Char2: 1x Lieutenant with Combi-weapon (70 pts): Combi-weapon, Paired Combat Blades
+
+5x Deathwatch Terminator Squad (180 pts)
+• 4x Deathwatch Terminator
+1 with Storm Shield, Thunder Hammer
+3 with Cyclone Missile Launcher, Storm Bolter & Power Fist, Cyclone Missile Launcher
+• 1x Deathwatch Terminator Sergeant: Storm Shield, Thunder Hammer
+5x Deathwatch Terminator Squad (180 pts)
+• 4x Deathwatch Terminator
+1 with Storm Shield, Thunder Hammer
+3 with Cyclone Missile Launcher, Storm Bolter & Power Fist, Cyclone Missile Launcher
+• 1x Deathwatch Terminator Sergeant: Storm Shield, Thunder Hammer
+5x Deathwatch Terminator Squad (180 pts)
+• 4x Deathwatch Terminator
+1 with Storm Shield, Thunder Hammer
+3 with Cyclone Missile Launcher, Storm Bolter & Power Fist, Cyclone Missile Launcher
+• 1x Deathwatch Terminator Sergeant: Storm Shield, Thunder Hammer
+10x Indomitor Kill Team (270 pts)
+2 with Bolt pistol, Close combat weapon, Deathwatch heavy bolt rifle
+2 with Bolt pistol, Close combat weapon, Deathwatch heavy bolter
+2 with Bolt pistol, Close combat weapon, Melta rifle
+1 with Bolt pistol, Close combat weapon, Multi-melta
+3 with Flamestorm gauntlets, Twin power fists
+10x Indomitor Kill Team (270 pts)
+2 with Bolt pistol, Close combat weapon, Deathwatch heavy bolt rifle
+2 with Bolt pistol, Close combat weapon, Deathwatch heavy bolter
+2 with Bolt pistol, Close combat weapon, Melta rifle
+1 with Bolt pistol, Close combat weapon, Multi-melta
+1 with Flamestorm gauntlets, Twin power fists
+1 with Flamestorm gauntlets, Twin power fists
+1 with Flamestorm gauntlets, Twin power fists
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+2 with Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Helix Gauntlet, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Infiltrator Comms Array, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+• 1x Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+2 with Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Infiltrator Comms Array, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+1 with Helix Gauntlet, Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+• 1x Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+10x Talonstrike Kill Team (290 pts)
+• 4x Intercessor
+2 with Astartes Chainsword, Heavy Bolt Pistol
+2 with Astartes Chainsword, Plasma pistol
+• 1x Kill Team Sergeant: Power Fist, Plasma pistol
+• 5x Heavy Intercessor: 5 with Close Combat Weapon, Plasma exterminators
+1x Storm Speeder Thunderstrike (150 pts): Close Combat Weapon, Stormfury Missiles, Thunderstrike Las-talon, Twin Icarus Rocket Pod
+
+Char3: 1x Callidus Assassin (100 pts): Neural shredder, Phase sword and poison blades
+
