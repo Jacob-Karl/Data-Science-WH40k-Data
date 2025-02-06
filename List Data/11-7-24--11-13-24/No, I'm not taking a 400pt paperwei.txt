@@ -1,0 +1,28 @@
+No, I'm not taking a 400pt paperweight!
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Knights
++ DETACHMENT: Traitoris Lance (Harbingers of Dread)
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: War Dog Stalker
++ ENHANCEMENT: Aura of Terror (on Char1: War Dog Stalker)
++ NUMBER OF UNITS: 13
++ SECONDARY: - Bring It Down: (13x2) - Assassination: 1 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x War Dog Stalker (170 pts): Warlord, Havoc multi-launcher, Avenger chaincannon, Slaughterclaw
+Enhancement: Aura of Terror (+25 pts)
+
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (165 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+1x War Dog Karnivore (140 pts): Reaper chaintalon, Slaughterclaw, Havoc multi-launcher
+

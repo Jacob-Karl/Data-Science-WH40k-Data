@@ -1,0 +1,128 @@
+Competitive Morty (2000 Points)
+
+Death Guard
+Plague Company
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Biologus Putrifier (50 Points)
+• 1x Hyper blight grenades
+• 1x Injector pistol
+• 1x Plague knives
+
+Lord of Virulence (80 Points)
+• 1x Heavy plague fist
+• 1x Twin plague spewer
+
+Malignant Plaguecaster (65 Points)
+• 1x Corrupted staff
+• 1x Plague Wind
+• 1x Plague bolt pistol
+
+Malignant Plaguecaster (65 Points)
+• 1x Corrupted staff
+• 1x Plague Wind
+• 1x Plague bolt pistol
+
+Mortarion (300 Points)
+• Warlord
+• 1x Rotwind
+• 1x Silence
+• 1x The Lantern
+
+Typhus (80 Points)
+• 1x Master-crafted manreaper
+
+BATTLELINE
+
+Plague Marines (180 Points)
+• 1x Plague Champion
+◦ 1x Heavy plague weapon
+◦ 1x Plasma gun
+• 9x Plague Marine
+◦ 1x Blight launcher
+◦ 4x Heavy plague weapon
+◦ 2x Meltagun
+◦ 9x Plague knives
+◦ 2x Plague spewer
+
+DEDICATED TRANSPORTS
+
+Death Guard Rhino (75 Points)
+• 1x Armoured tracks
+• 1x Havoc launcher
+• 1x Plague combi-bolter
+• 1x Plague combi-bolter
+
+Death Guard Rhino (75 Points)
+• 1x Armoured tracks
+• 1x Havoc launcher
+• 1x Plague combi-bolter
+• 1x Plague combi-bolter
+
+OTHER DATASHEETS
+
+Death Guard Cultists (50 Points)
+• 1x Death Guard Cultist Champion
+◦ 1x Brutal assault weapon
+◦ 1x Cultist firearm
+• 9x Death Guard Cultist
+◦ 9x Brutal assault weapon
+◦ 9x Cultist firearm
+
+Death Guard Cultists (50 Points)
+• 1x Death Guard Cultist Champion
+◦ 1x Brutal assault weapon
+◦ 1x Cultist firearm
+• 9x Death Guard Cultist
+◦ 9x Brutal assault weapon
+◦ 9x Cultist firearm
+
+Death Guard Predator Destructor (130 Points)
+• 1x Armoured tracks
+• 1x Havoc launcher
+• 2x Lascannon
+• 1x Plague combi-bolter
+• 1x Predator autocannon
+
+Death Guard Predator Destructor (130 Points)
+• 1x Armoured tracks
+• 1x Havoc launcher
+• 2x Lascannon
+• 1x Plague combi-bolter
+• 1x Predator autocannon
+
+Deathshroud Terminators (220 Points)
+• 1x Deathshroud Champion
+◦ 1x Manreaper
+◦ 2x Plaguespurt gauntlet
+• 5x Deathshroud Terminator
+◦ 5x Manreaper
+◦ 5x Plaguespurt gauntlet
+
+Foetid Bloat-Drone (90 Points)
+• 1x Fleshmower
+• 1x Plague probe
+
+Foetid Bloat-Drone (90 Points)
+• 1x Fleshmower
+• 1x Plague probe
+
+Foetid Bloat-Drone (90 Points)
+• 1x Fleshmower
+• 1x Plague probe
+
+ALLIED UNITS
+
+Nurglings (40 Points)
+• 3x Nurgling Swarm
+◦ 3x Diseased claws and teeth
+
+War Dog Karnivore (140 Points)
+• 1x Havoc multi-launcher
+• 1x Reaper chaintalon
+• 1x Slaughterclaw
+
+Exported with App Version: v1.22.0 (48), Data Version: v488
+

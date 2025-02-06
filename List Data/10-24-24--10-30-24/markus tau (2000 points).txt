@@ -1,0 +1,160 @@
+markus tau (2000 points)
+
+T'au Empire
+Strike Force (2000 points)
+Mont'ka
+
+
+CHARACTERS
+
+Cadre Fireblade (50 points)
+• 1x Close combat weapon
+1x Fireblade pulse rifle
+1x Gun Drone
+1x Shield Drone
+
+Commander Shadowsun (100 points)
+• Warlord
+• 1x Advanced Guardian Drone
+1x Battlesuit fists
+1x Command-link Drone (Aura)
+1x Flechette launcher
+2x High-energy fusion blaster
+1x Light missile pod
+1x Pulse pistol
+
+Commander in Coldstar Battlesuit (95 points)
+• 1x Battlesuit fists
+1x Burst cannon
+1x Cyclic ion blaster
+1x High-output burst cannon
+2x Shield Drone
+1x Shield Generator
+
+Darkstrider (60 points)
+• 1x Close combat weapon
+1x Shade
+
+
+BATTLELINE
+
+Breacher Team (100 points)
+• 1x Support turret
+• 1x Breacher Fire Warrior Shas'ui
+• 1x Close combat weapon
+1x Guardian Drone
+1x Marker Drone
+1x Pulse blaster
+1x Pulse pistol
+• 9x Breacher Fire Warrior
+• 9x Close combat weapon
+9x Pulse blaster
+9x Pulse pistol
+
+
+DEDICATED TRANSPORTS
+
+Devilfish (85 points)
+• 1x Accelerator burst cannon
+1x Armoured hull
+2x Seeker missile
+2x Twin pulse carbine
+
+
+OTHER DATASHEETS
+
+Crisis Starscythe Battlesuits (110 points)
+• 1x Crisis Starscythe Shas'vre
+• 1x Battlesuit fists
+2x Burst cannon
+• 2x Crisis Starscythe Shas'ui
+• 2x Battlesuit fists
+4x Burst cannon
+2x Gun Drone
+2x Shield Drone
+
+Ghostkeel Battlesuit (160 points)
+• 1x Battlesuit Support System
+1x Fusion collider
+1x Ghostkeel fists
+1x Twin fusion blaster
+
+Hammerhead Gunship (145 points)
+• 1x Armoured hull
+1x Railgun
+2x Seeker missile
+2x Twin smart missile system
+
+Hammerhead Gunship (145 points)
+• 1x Armoured hull
+1x Railgun
+2x Seeker missile
+2x Twin smart missile system
+
+Hammerhead Gunship (145 points)
+• 1x Armoured hull
+1x Railgun
+2x Seeker missile
+2x Twin smart missile system
+
+Krootox Riders (35 points)
+• 1x Close combat weapon
+1x Krootox fists
+1x Repeater cannon
+
+Piranhas (55 points)
+• 1x Armoured hull
+1x Piranha fusion blaster
+2x Seeker missile
+2x Twin pulse carbine
+
+Piranhas (55 points)
+• 1x Armoured hull
+1x Piranha fusion blaster
+2x Seeker missile
+2x Twin pulse carbine
+
+Riptide Battlesuit (180 points)
+• 1x Ion accelerator
+2x Missile Drone
+1x Riptide fists
+1x Twin smart missile system
+
+Riptide Battlesuit (180 points)
+• 1x Ion accelerator
+2x Missile Drone
+1x Riptide fists
+1x Twin smart missile system
+
+Riptide Battlesuit (180 points)
+• 1x Heavy burst cannon
+2x Missile Drone
+1x Riptide fists
+1x Twin smart missile system
+
+Stealth Battlesuits (60 points)
+• 1x Stealth Shas'vre
+• 1x Battlesuit Support System
+1x Battlesuit fists
+1x Fusion blaster
+1x Homing Beacon
+1x Marker Drone
+1x Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+2x Burst cannon
+
+Stealth Battlesuits (60 points)
+• 1x Stealth Shas'vre
+• 1x Battlesuit Support System
+1x Battlesuit fists
+1x Fusion blaster
+1x Homing Beacon
+1x Marker Drone
+1x Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+2x Burst cannon
+
+Exported with App Version: v1.21.0 (49), Data Version: v469
+

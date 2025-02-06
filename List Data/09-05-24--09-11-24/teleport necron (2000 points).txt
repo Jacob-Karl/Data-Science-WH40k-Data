@@ -1,0 +1,76 @@
+teleport necron (2000 points)
+
+Necrons
+Strike Force (2000 points)
+Hypercrypt Legion
+
+
+CHARACTERS
+
+C'tan Shard of the Nightbringer (295 points)
+• 1x Gaze of death
+1x Scythe of the Nightbringer
+
+Hexmark Destroyer (70 points)
+• 1x Close combat weapon
+1x Enmitic disintegrator pistols
+
+The Silent King (420 points)
+• 1x Szarekh
+• Warlord
+• 1x Sceptre of Eternal Glory
+1x Staff of Stars
+1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+• 2x Annihilator beam
+2x Armoured bulk
+
+
+OTHER DATASHEETS
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x Fabricator Claw Array (Aura)
+1x Gloom Prism (Aura)
+2x Particle beamer
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x Fabricator Claw Array (Aura)
+1x Gloom Prism (Aura)
+2x Particle beamer
+
+Doomsday Ark (200 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Doomsday Ark (200 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Doomsday Ark (200 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Monolith (375 points)
+• 4x Death ray
+1x Particle whip
+1x Portal of exile
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

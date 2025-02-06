@@ -1,0 +1,147 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Liberator Assault Group
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char1: Chief Librarian Mephiston
++ ENHANCEMENT:
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (6x2) - Assassination: 1 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Chief Librarian Mephiston (125 pts)
+• 1x Fury of the Ancients
+• 1x Plasma Pistol
+• 1x Vitarus
+• Warlord
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 6x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 6x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (90 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 6x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Incursor Squad (80 pts)
+• 4x Incursor
+• 4x Bolt Pistol
+• 4x Occulus Bolt Carbine
+• 4x Paired Combat Blades
+• 1x Incursor Sergeant
+• 1x Bolt Pistol
+• 1x Occulus Bolt Carbine
+• 1x Paired Combat Blades
+• Haywire Mine
+
+3x Sanguinary Guard (135 pts)
+• 3x Sanguinary Guard
+• 2x Encarmine Blade
+• 1x Inferno Pistol
+• 2x Angelus Boltgun
+• Sanguinary Banner
+
+3x Sanguinary Guard (135 pts)
+• 3x Sanguinary Guard
+• 2x Encarmine Blade
+• 1x Inferno Pistol
+• 2x Angelus Boltgun
+• Sanguinary Banner
+
+3x Sanguinary Guard (135 pts)
+• 3x Sanguinary Guard
+• 2x Encarmine Blade
+• 1x Inferno Pistol
+• 2x Angelus Boltgun
+• Sanguinary Banner
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Astartes Chainsword
+• 4x Scouts
+• 4x Bolt Pistol
+• 4x Close Combat Weapon
+• 4x Combat Knife
+
+5x Vanguard Veteran Squad with Jump Packs (110 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack
+• 1x Vanguard Veteran Weapon
+• 1x Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs
+• 4x Vanguard Veteran Weapon
+• 4x Inferno Pistol
+
+5x Vanguard Veteran Squad with Jump Packs (110 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack
+• 1x Vanguard Veteran Weapon
+• 1x Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs
+• 4x Vanguard Veteran Weapon
+• 4x Inferno Pistol
+
+1x Predator Annihilator (130 pts)
+• 1x Armoured Tracks
+• 1x Hunter Killer Missile
+• 1x Predator Twin Lascannon
+• 1x Storm Bolter
+• 2x Lascannon
+
+1x Predator Annihilator (130 pts)
+• 1x Armoured Tracks
+• 1x Hunter Killer Missile
+• 1x Predator Twin Lascannon
+• 1x Storm Bolter
+• 2x Lascannon
+
+1x Predator Destructor (130 pts)
+• 1x Armoured Tracks
+• 1x Hunter Killer Missile
+• 1x Predator Autocannon
+• 1x Storm Bolter
+• 2x Lascannon
+
+1x Predator Destructor (130 pts)
+• 1x Armoured Tracks
+• 1x Hunter Killer Missile
+• 1x Predator Autocannon
+• 1x Storm Bolter
+• 2x Lascannon
+
+1x Predator Destructor (130 pts)
+• 1x Armoured Tracks
+• 1x Hunter Killer Missile
+• 1x Predator Autocannon
+• 1x Storm Bolter
+• 2x Lascannon
+
+1x Vindicator (175 pts)
+• 1x Armoured Tracks
+• 1x Demolisher Cannon
+• 1x Hunter Killer Missile
+• 1x Storm Bolter
+

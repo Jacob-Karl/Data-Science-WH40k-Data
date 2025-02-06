@@ -1,0 +1,100 @@
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible
+
++ Epic Hero +
+
+
+Azrael [105pts]: Warlord
+
++ Character +
+
+
+Apothecary Biologis [85pts]: Fire Discipline
+
+Judiciar [85pts]: The Honour Vehement
+
++ Battleline +
+
+
+Assault Intercessor Squad [75pts]
+
+. Assault Intercessor Sergeant: Plasma Pistol, Power Fist
+. 4x Assault Intercessors: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
++ Infantry +
+
+
+Assault Intercessors with Jump Packs [80pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol
+
+Assault Intercessors with Jump Packs [80pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Eradicator Squad [190pts]
+
+. 3x Eradicator: 3x Bolt Pistol, 3x Close Combat Weapon, 3x Melta Rifle
+. Eradicator Sergeant
+. Eradicator with Multi-melta
+. Eradicator with Multi-melta
+
+Inner Circle Companions [180pts]
+
+. 6x Inner Circle Companion: 6x Calibanite Greatsword, 6x Heavy Bolt Pistol
+
+Scout Squad [65pts]
+
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Heavy Bolter
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Combat Knife: 2x Bolt Pistol, 2x Close Combat Weapon, 2x Combat Knife
+
+Scout Squad [65pts]
+
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Heavy Bolter
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Combat Knife: 2x Bolt Pistol, 2x Close Combat Weapon, 2x Combat Knife
+
++ Vehicle +
+
+
+Repulsor [180pts]: Las-talon, Twin Heavy Bolter
+
++ Allied Units +
+
+
+Callidus Assassin [100pts]
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()
+

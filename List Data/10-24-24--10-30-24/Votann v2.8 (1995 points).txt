@@ -1,0 +1,154 @@
+Votann v2.8 (1995 points)
+
+Leagues of Votann
+Strike Force (2000 points)
+Oathband
+
+
+CHARACTERS
+
+Einhyr Champion (80 points)
+• Warlord
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+• Enhancement: Appraising Glare
+
+Einhyr Champion (60 points)
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+
+Einhyr Champion (60 points)
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+
+Ûthar the Destined (80 points)
+• 1x Blade of the Ancestors
+1x Rampart Crest
+1x Volkanite disintegrator
+
+
+BATTLELINE
+
+Hearthkyn Warriors (100 points)
+• 1x Theyn
+• 1x Autoch-pattern bolter
+1x Close combat weapon
+1x EtaCarn plasma pistol
+1x Weavefield Crest
+• 9x Hearthkyn Warrior
+• 9x Autoch-pattern bolt pistol
+7x Autoch-pattern bolter
+9x Close combat weapon
+1x Comms Array
+1x HYLas auto rifle
+1x L7 missile launcher
+1x Medipack
+1x Pan Spectral Scanner
+
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+
+OTHER DATASHEETS
+
+Cthonian Beserks (100 points)
+• 5x Cthonian Beserk
+• 5x Concussion maul
+1x Mole grenade launcher
+
+Cthonian Beserks (100 points)
+• 5x Cthonian Beserk
+• 5x Concussion maul
+1x Mole grenade launcher
+
+Cthonian Beserks (100 points)
+• 5x Cthonian Beserk
+• 5x Heavy plasma axe
+1x Mole grenade launcher
+
+Einhyr Hearthguard (150 points)
+• 1x Hesyr
+• 1x Concussion hammer
+1x Exo-armour grenade launcher
+1x Teleport Crest
+1x Volkanite disintegrator
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Einhyr Hearthguard (150 points)
+• 1x Hesyr
+• 1x Concussion hammer
+1x Exo-armour grenade launcher
+1x Teleport Crest
+1x Volkanite disintegrator
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Einhyr Hearthguard (150 points)
+• 1x Hesyr
+• 1x Concussion gauntlet
+1x Exo-armour grenade launcher
+1x Volkanite disintegrator
+1x Weavefield Crest
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Hernkyn Pioneers (90 points)
+• 3x Hernkyn Pioneer
+• 3x Bolt revolver
+3x Bolt shotgun
+1x HYLas rotary cannon
+3x Magna-coil autocannon
+1x Pan Spectral Scanner
+3x Plasma knife
+1x Rollbar Searchlight
+
+Hernkyn Yaegirs (90 points)
+• 1x Yaegir Theyn
+• 1x Bolt revolver
+1x Close combat weapon
+1x Plasma knife
+• 9x Hernkyn Yaegir
+• 1x APM launcher
+8x Bolt revolver
+9x Close combat weapon
+8x Plasma knife
+
+Exported with App Version: v1.22.0 (51), Data Version: v488
+

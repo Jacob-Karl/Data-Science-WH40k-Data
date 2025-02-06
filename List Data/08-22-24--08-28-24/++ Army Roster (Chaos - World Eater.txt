@@ -1,0 +1,90 @@
+++ Army Roster (Chaos - World Eaters) [1,995pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Berzerker Warband
+
+Show/Hide Options: Khorne Daemons are visible
+
++ Epic Hero [655pts] +
+
+Angron [415pts]: Samni'arius and Spinegrinder, Warlord
+
+Khârn the Betrayer [100pts]: Gorechild, Khârn's plasma pistol
+
+Lord Invocatus [140pts]: Bolt pistol, Coward's Bane, Juggernaught's bladed horn
+
++ Character [125pts] +
+
+World Eaters Master of Executions [125pts]: Axe of dismemberment, Berzerker Glaive [25pts], Bolt pistol
+
++ Battleline [595pts] +
+
+Jakhals [130pts]: Icon of Khorne
+. 2x Dishonoured w/ skullsmasher: 2x Skullsmasher
+. E: 2 mauler chainblades, 15 chainblades
+. . 2x Jakhal w/ mauler chainblade: 2x Autopistol, 2x Mauler chainblade
+. . 15x Jakhals: 15x Autopistol, 15x Jakhal chainblades
+. Jakhal Pack Leader: Autopistol, Jakhal chainblades
+
+Jakhals [65pts]: Icon of Khorne
+. B: 1 mauler chainblade, 7 chainblades
+. . Jakhal w/ mauler chainblade: Autopistol, Mauler chainblade
+. . 7x Jakhals: 7x Autopistol, 7x Jakhal chainblades
+. Dishonoured w/ skullsmasher: Skullsmasher
+. Jakhal Pack Leader: Autopistol, Jakhal chainblades
+
+Jakhals [130pts]: Icon of Khorne
+. 2x Dishonoured w/ skullsmasher: 2x Skullsmasher
+. E: 2 mauler chainblades, 15 chainblades
+. . 2x Jakhal w/ mauler chainblade: 2x Autopistol, 2x Mauler chainblade
+. . 15x Jakhals: 15x Autopistol, 15x Jakhal chainblades
+. Jakhal Pack Leader: Autopistol, Jakhal chainblades
+
+Khorne Berserkers [90pts]: Icon of Khorne
+. 2x Khorne Berserker: 2x Berserker chainblade, 2x Bolt pistol
+. Khorne Berserker Champion: Berserker chainblade, Plasma pistol
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+. Khorne Berserker w/ alternate weapons: Berserker chainblade, Plasma pistol
+
+Khorne Berserkers [180pts]: Icon of Khorne
+. 5x Khorne Berserker: 5x Berserker chainblade, 5x Bolt pistol
+. Khorne Berserker Champion: Berserker chainblade, Plasma pistol
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+. Khorne Berserker w/ alternate weapons: Berserker chainblade, Plasma pistol
+. Khorne Berserker w/ alternate weapons: Berserker chainblade, Plasma pistol
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+
++ Infantry [140pts] +
+
+Eightbound [140pts]
+. 2x Eightbound: 2x Eightbound eviscerators
+. Eightbound Champion: Lacerators
+
++ Beast [130pts] +
+
+World Eaters Chaos Spawn [65pts]
+. 2x Chaos Spawn: 2x Hideous Mutations
+
+World Eaters Chaos Spawn [65pts]
+. 2x Chaos Spawn: 2x Hideous Mutations
+
++ Vehicle [275pts] +
+
+World Eaters Forgefiend [145pts]
+. 2 ectoplasma cannons: 2x Ectoplasma cannon
+. Ectoplasma cannon and claws: Ectoplasma cannon, Forgefiend claws
+
+World Eaters Predator Destructor [130pts]: Armoured tracks, Combi-bolter, Havoc launcher, Predator autocannon
+. 2 lascannons: 2x Lascannon
+
++ Dedicated Transport [75pts] +
+
+World Eaters Rhino [75pts]: Armoured tracks, Combi-bolter, Combi-bolter, Havoc launcher
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()
+

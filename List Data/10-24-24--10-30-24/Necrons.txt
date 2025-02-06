@@ -1,0 +1,77 @@
+Necrons
+Hypercrypt Legion
+Strike Force (2000 Points)
+
+CHARACTERS
+
+C'tan Shard of the Nightbringer (295 Points)
+• 1x Gaze of death
+• 1x Scythe of the Nightbringer
+
+C'tan Shard of the Void Dragon (290 Points)
+• 1x Canoptek tail blades
+• 1x Spear of the Void Dragon
+• 1x Voltaic storm
+
+The Silent King (420 Points)
+• 1x Szarekh
+• Warlord
+◦ 1x Sceptre of Eternal Glory
+◦ 1x Staff of Stars
+◦ 1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+◦ 2x Annihilator beam
+◦ 2x Armoured bulk
+
+BATTLELINE
+
+Immortals (75 Points)
+• 5x Immortal
+◦ 5x Close combat weapon
+◦ 5x Tesla carbine
+
+OTHER DATASHEETS
+
+Deathmarks (65 Points)
+• 5x Deathmark
+◦ 5x Close combat weapon
+◦ 5x Synaptic disintegrator
+
+Deathmarks (65 Points)
+• 5x Deathmark
+◦ 5x Close combat weapon
+◦ 5x Synaptic disintegrator
+
+Doomsday Ark (190 Points)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+Doomsday Ark (190 Points)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+Doomsday Ark (190 Points)
+• 1x Armoured bulk
+• 1x Doomsday cannon
+• 2x Gauss flayer array
+
+Lokhust Destroyers (35 Points)
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+Lokhust Destroyers (35 Points)
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+Lokhust Destroyers (35 Points)
+• 1x Close combat weapon
+• 1x Gauss cannon
+
+Triarch Stalker (110 Points)
+• 1x Heavy gauss cannon array
+• 1x Stalker's forelimbs
+
+Exported with App Version: v1.22.0 (48), Data Version: v488
+

@@ -1,0 +1,165 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Mechanicus
++ DETACHMENT: Skitarii Hunter Cohort
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Imperial Knights
++
++ WARLORD: Char1: Skitarii Marshal
++ ENHANCEMENT: Cantic Thrallnet (on Char1: Skitarii Marshal)
+& Clandestine Infiltrator (on Char2: Skitarii Marshal)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (1x2) + (1x6) - Assassination: 4 Characters - Cull The Horde: 1x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Theme song: 
+
+CHARACTER
+
+Char1: 1x Skitarii Marshal (60 pts)
+1 with Control stave, Mechanicus pistol
+• Warlord
+Enhancement: Cantic Thrallnet (+25 pts)
+
+Char2: 1x Skitarii Marshal (55 pts)
+1 with Control stave, Mechanicus pistol
+Enhancement: Clandestine Infiltrator (+20 pts)
+
+Char3: 1x Skitarii Marshal (35 pts)
+1 with Control stave, Mechanicus pistol
+
+BATTLELINE
+
+10x Skitarii Rangers (85 pts)
+• 1x Skitarii Ranger Alpha
+1 with Alpha combat weapon, Close combat weapon, Galvanic rifle
+• 9x Skitarii Ranger
+1 with Arc rifle, Close combat weapon
+5 with Close combat weapon, Galvanic rifle
+1 with Close combat weapon, Galvanic rifle
+• Omnispex
+1 with Close combat weapon, Plasma caliver
+1 with Close combat weapon, Transuranic arquebus
+
+10x Skitarii Rangers (85 pts)
+• 1x Skitarii Ranger Alpha
+1 with Alpha combat weapon, Close combat weapon, Galvanic rifle
+• 9x Skitarii Ranger
+1 with Arc rifle, Close combat weapon
+5 with Close combat weapon, Galvanic rifle
+1 with Close combat weapon, Galvanic rifle
+• Omnispex
+1 with Close combat weapon, Plasma caliver
+1 with Close combat weapon, Transuranic arquebus
+
+10x Skitarii Vanguard (90 pts)
+• 1x Skitarii Vanguard Alpha
+1 with Alpha combat weapon, Close combat weapon, Radium carbine
+• 9x Skitarii Vanguard
+1 with Arc rifle, Close combat weapon
+1 with Close combat weapon, Radium carbine
+• Omnispex
+1 with Close combat weapon, Plasma caliver
+5 with Close combat weapon, Radium carbine
+1 with Close combat weapon, Transuranic arquebus
+
+10x Skitarii Vanguard (90 pts)
+• 1x Skitarii Vanguard Alpha
+1 with Alpha combat weapon, Close combat weapon, Radium carbine
+• 9x Skitarii Vanguard
+1 with Arc rifle, Close combat weapon
+1 with Close combat weapon, Radium carbine
+• Omnispex
+1 with Close combat weapon, Plasma caliver
+5 with Close combat weapon, Radium carbine
+1 with Close combat weapon, Transuranic arquebus
+
+10x Skitarii Vanguard (90 pts)
+• 1x Skitarii Vanguard Alpha
+1 with Alpha combat weapon, Close combat weapon, Radium carbine
+• 9x Skitarii Vanguard
+1 with Arc rifle, Close combat weapon
+1 with Close combat weapon, Radium carbine
+• Omnispex
+1 with Close combat weapon, Plasma caliver
+5 with Close combat weapon, Radium carbine
+1 with Close combat weapon, Transuranic arquebus
+
+OTHER DATASHEETS
+
+5x Pteraxii Skystalkers (65 pts)
+• 1x Pteraxii Skystalker Alpha
+1 with Flechette blaster, Taser goad
+• 4x Pteraxii Skystalkers
+4 with Close combat weapon, Flechette carbine
+
+5x Pteraxii Skystalkers (65 pts)
+• 1x Pteraxii Skystalker Alpha
+1 with Flechette blaster, Taser goad
+• 4x Pteraxii Skystalkers
+4 with Close combat weapon, Flechette carbine
+
+10x Pteraxii Sterylizors (150 pts)
+• 1x Pteraxii Sterylizor Alpha
+1 with Flechette blaster, Pteraxii talons, Taser goad
+• 9x Pteraxii Sterylizors
+9 with Phosphor torch, Pteraxii talons
+
+5x Sicarian Infiltrators (70 pts)
+• 4x Sicarian Infiltrator (Taser goad & flechette blaster)
+4 with Flechette blaster, Taser goad
+• 1x Sicarian Infiltrator Princeps (Taser goad & flechette blaster)
+1 with Flechette blaster, Taser goad
+
+10x Sicarian Ruststalkers (150 pts)
+• 9x Sicarian Ruststalker (Transonic blades)
+9 with Transonic blades
+• 1x Sicarian Ruststalker Princeps (Transonic blades & chordclaw)
+1 with Transonic blades & chordclaw
+
+10x Sicarian Ruststalkers (150 pts)
+• 9x Sicarian Ruststalker (Transonic blades)
+9 with Transonic blades
+• 1x Sicarian Ruststalker Princeps (Transonic blades & chordclaw)
+1 with Transonic blades & chordclaw
+
+10x Sicarian Ruststalkers (150 pts)
+• 9x Sicarian Ruststalker (Transonic blades)
+9 with Transonic blades
+• 1x Sicarian Ruststalker Princeps (Transonic blades & chordclaw)
+1 with Transonic blades & chordclaw
+
+1x Skorpius Disintegrator (175 pts)
+1 with Armoured hull, 3x Cognis heavy stubber, Disruptor missile launcher, Ferumite cannon
+
+ALLIED UNITS
+
+1x Canis Rex (435 pts)
+• 1x Canis Rex
+1 with Chainbreaker las-impulsor, Chainbreaker multi-laser, Freedom's Hand
+• 1x Sir Hekhtur
+1 with Close combat weapon, Hekhtur's pistol
+
+
+------------------
+Important rules:
+Armywide Stealth on everything except Canis and the Disintegrator (vehicles)
+
+1cp advance and charge
+1cp uppy downy on Infantry
+1cp Lone Op 18" on Infantry
+1cp +1 to wound, if you are 6" away from friendly models
+2cp +1 AP from two units
+1cp FNP 5+ on Sicarians and Pteraxii units
+
+Start of battleround decide if Protector or Conqueror.
+Protector = All weapons Heavy, All weapons +1 BS, If within 6" of battleline you are -1 to hit in melee
+Conqueror = All weapons Assault, All weapons +1 WS, If within 6" of battleline I get +1 AP
+
+Start of battleround, I can put one unit within 12" of the marshal with the Thrallnet into both doctrines
+
+Sterylizors reroll wounds on objectives if within 6" of battleline
+Vanguard give -1 OC within 3" to enemies
+Skystalkers shoot&move 6" base, 12" if they can end wholly within 6" of battleline
+
+Ruststalkers are +1 advance and +1 charge, +2 on both if within 6" of battleline
+---------------------------------------

@@ -1,0 +1,145 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Sons of Sanguinius
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Gabriel Seth
++ ENHANCEMENT:
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (1x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Gabriel Seth (90 pts)
+1 with Blood Reaver, Bolt Pistol
+• Warlord
+
+Char2: 1x Captain with Jump Pack (85 pts)
+1 with Relic Shield, Thunder Hammer
+
+Char3: 1x Lieutenant (65 pts)
+1 with Power Fist, Heavy Bolt Pistol, Master-crafted Bolt Rifle
+
+Char4: 1x Techmarine (55 pts)
+1 with Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+4x Company Heroes (95 pts)
+• 1x Ancient
+1 with Bolt Pistol, Bolt Rifle, Close Combat Weapon
+• 1x Company Champion
+1 with Bolt Pistol, Master-crafted Power Weapon
+• 2x Company Veteran
+1 with Bolt Pistol, Close Combat Weapon, Master-crafted Bolt Rifle
+1 with Bolt Pistol, Close Combat Weapon, Master-crafted Heavy Bolter, Close Combat Weapon
+
+5x Death Company Marines with Jump Packs (140 pts)
+• 5x Death Company Marine
+1 with Power Fist, Inferno Pistol
+1 with Power Fist, Inferno Pistol
+1 with Power Fist, Inferno Pistol
+1 with Power Fist, Inferno Pistol
+1 with Power Fist, Inferno Pistol
+
+5x Death Company Marines with Jump Packs (140 pts)
+• 5x Death Company Marine
+5 with Power Fist, Inferno Pistol
+
+5x Death Company Marines with Jump Packs (140 pts)
+• 5x Death Company Marine
+5 with Power Fist, Inferno Pistol
+
+5x Sanguinary Guard (155 pts)
+• 4x Sanguinary Guard
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+• 1x Sanguinary Guard with Power Fist
+1 with Power Fist, Inferno Pistol
+• Sanguinary Banner
+
+10x Sanguinary Guard (310 pts)
+• 8x Sanguinary Guard
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+1 with Encarmine Blade, Inferno Pistol
+• 2x Sanguinary Guard with Power Fist
+1 with Power Fist, Inferno Pistol
+1 with Power Fist, Inferno Pistol
+• Sanguinary Banner
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Boltgun, Close Combat Weapon
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Boltgun, Close Combat Weapon
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Boltgun, Close Combat Weapon
+
+5x Vanguard Veteran Squad with Jump Packs (105 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack
+1 with Vanguard Veteran Weapon, Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs
+1 with Vanguard Veteran Weapon, Inferno Pistol
+1 with Vanguard Veteran Weapon, Inferno Pistol
+1 with Vanguard Veteran Weapon, Inferno Pistol
+1 with Vanguard Veteran Weapon, Inferno Pistol
+
+5x Vanguard Veteran Squad with Jump Packs (105 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack
+1 with Vanguard Veteran Weapon, Inferno Pistol
+• 4x Vanguard Veterans with Jump Packs
+4 with Vanguard Veteran Weapon, Inferno Pistol
+
+1x Impulsor (80 pts)
+1 with Armoured Hull, Ironhail Heavy Stubber, 2 Fragstorm Grenade Launchers
+• Orbital Comms Array
+

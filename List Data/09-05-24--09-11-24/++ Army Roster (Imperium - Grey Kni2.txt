@@ -1,0 +1,65 @@
+++ Army Roster (Imperium - Grey Knights) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Teleport Strike Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+
+Grand Master in Nemesis Dreadknight [240pts]: Heavy Incinerator, Heavy Psycannon, Nemesis Daemon Greathammer, Sigil of Exigence, Warlord
+
+Grand Master in Nemesis Dreadknight [210pts]: Heavy Incinerator, Heavy Psycannon, Nemesis Daemon Greathammer
+
++ Battleline +
+
+
+Strike Squad [120pts]
+
+. 3x Grey Knight: 3x Nemesis Force Weapon, 3x Storm Bolter
+. Grey Knight with Heavy Weapon: Incinerator
+. Justicar
+
+Strike Squad [120pts]
+
+. 3x Grey Knight: 3x Nemesis Force Weapon, 3x Storm Bolter
+. Grey Knight with Heavy Weapon: Incinerator
+. Justicar
+
++ Infantry +
+
+
+Interceptor Squad [130pts]
+
+. 3x Interceptor: 3x Nemesis Force Weapon, 3x Storm Bolter
+. Interceptor w/ incinerator
+. Justicar
+
+Purgation Squad [130pts]
+
+. Justicar
+. 4x Purgator w/ incinerator: 4x Close combat weapon, 4x Incinerator
+
++ Vehicle +
+
+
+Nemesis Dreadknight [205pts]: Heavy Incinerator, Heavy Psycannon, Nemesis Greatsword
+
+Nemesis Dreadknight [205pts]: Heavy Incinerator, Heavy Psycannon, Nemesis Daemon Greathammer
+
+Nemesis Dreadknight [205pts]: Heavy Incinerator, Heavy Psycannon, Nemesis Daemon Greathammer
+
++ Allied Units +
+
+
+Canis Rex [435pts]
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

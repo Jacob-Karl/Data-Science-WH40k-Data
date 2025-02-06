@@ -1,0 +1,54 @@
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Dark Angels
++ DETACHMENT: Gladius Task Force
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Azrael
++ ENHANCEMENT: Fire Discipline (on Char1: Apothecary Biologis)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (1x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+Char1: 1x Azrael (105 pts): Warlord, Lion's Wrath, The Sword of Secrets
+Char2: 1x Apothecary Biologis (85 pts): Absolver Bolt Pistol, Close Combat Weapon
+Enhancement: Fire Discipline (+30 pts)
+Char3: 1x Librarian (65 pts): Bolt Pistol, Force Weapon, Smite
+Char4: 1x Lieutenant (65 pts): Master-crafted Power Weapon, Neo-volkite Pistol, Storm Shield
+5x Assault Intercessors with Jump Packs (80 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Assault Intercessors with Jump Packs (80 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Deathwing Knights (235 pts): Watcher in the Dark, Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+5x Deathwing Knights (235 pts): Watcher in the Dark, Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+5x Deathwing Knights (235 pts): Watcher in the Dark, Mace of absolution
+• 4x Deathwing Knight: 4 with
+• 1x Knight Master: Great Weapon of the Unforgiven
+6x Eradicator Squad (190 pts)
+• 3x Eradicator: 3 with Bolt Pistol, Close Combat Weapon, Melta Rifle
+• 1x Eradicator Sergeant: Bolt Pistol, Close Combat Weapon, Melta Rifle
+• 2x Eradicator with Multi-melta: 2 with Bolt Pistol, Close Combat Weapon, Multi-melta
+10x Hellblaster Squad (230 pts)
+• 9x Hellblaster: 9 with Bolt Pistol, Close Combat Weapon, Plasma Incinerator
+• 1x Hellblaster Sergeant: Close Combat Weapon, Plasma Incinerator, Bolt Pistol
+6x Inner Circle Companions (180 pts): 6 with Calibanite Greatsword, Heavy Bolt Pistol
+5x Scout Squad (65 pts)
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Boltgun
+• 2x Scouts: 2 with Bolt Pistol, Boltgun, Close Combat Weapon
+5x Scout Squad (65 pts)
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Boltgun
+• 2x Scouts: 2 with Bolt Pistol, Boltgun, Close Combat Weapon
+1x Impulsor (80 pts): Shield Dome, Armoured Hull, Ironhail Heavy Stubber, 2 Storm Bolters

@@ -1,0 +1,86 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Kay "Ironlors" Kleinvogel
++ TEAM NAME: Vanguard Tactics
++ FACTION KEYWORD: Imperium - Astra Militarum
++ DETACHMENT: Combined Regiment
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Lord Solar Leontus
++ ENHANCEMENT: Grand Strategist (on Char3: Tank Commander)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (7x2) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Lord Solar Leontus (125 pts): Warlord, Conquest, Konstantin's Hooves, Sol's Righteous Gaze
+Char2: 5x Cadian Command Squad (65 pts)
+• 4x Veteran Guardsman
+1 with Close Combat Weapon, Plasma Pistol, Meltagun
+1 with Master Vox, Close Combat Weapon, Lasgun
+1 with Medi-pack, Close Combat Weapon, Lasgun
+1 with Close Combat Weapon, Laspistol, Lasgun, Regimental Standard
+• 1x Cadian Commander: Plasma Pistol, Power Weapon
+Char3: 5x Militarum Tempestus Command Squad (70 pts)
+• 4x Tempestus Scion
+1 with Close Combat Weapon, Hot-shot Lasgun, Hot-shot Laspistol, Medi-pack
+1 with Close Combat Weapon, Plasma Gun
+1 with Close Combat Weapon, Meltagun
+1 with Close Combat Weapon, Grenade Launcher
+• 1x Tempestor Prime: Command Rod, Tempestus Dagger
+
+Char4: 1x Tank Commander (220 pts): Armoured Tracks, Hunter-killer Missile, Demolisher Battle Cannon, Lascannon, 2x Militarum Plasma Cannon, Heavy Stubber
+Enhancement: Grand Strategist (+15 pts)
+
+10x Cadian Shock Troops (60 pts)
+• 9x Shock Trooper
+6 with Close Combat Weapon, Lasgun
+1 with Vox-caster, Close Combat Weapon, Lasgun
+1 with Close Combat Weapon, Meltagun
+1 with Close Combat Weapon, Plasma Gun
+• 1x Shock Trooper Sergeant: Close Combat Weapon, Drum-fed Autogun
+
+10x Catachan Jungle Fighters (55 pts)
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Vox-caster, Close Combat Weapon, Lasgun
+• 1x Jungle Fighter Sergeant: Close Combat Weapon, Laspistol
+
+10x Catachan Jungle Fighters (55 pts)
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Vox-caster, Close Combat Weapon, Lasgun
+• 1x Jungle Fighter Sergeant: Close Combat Weapon, Laspistol
+
+6x Bullgryn Squad (180 pts): Close Combat Weapon
+• 1x Bullgryn Bone 'ead: Brute Shield, Bullgryn Maul
+• 5x Bullgryn: 5 with Brute Shield, Close Combat Weapon, Bullgryn Maul
+
+6x Bullgryn Squad (180 pts): Close Combat Weapon
+• 1x Bullgryn Bone 'ead: Brute Shield, Bullgryn Maul
+• 5x Bullgryn: 5 with Brute Shield, Close Combat Weapon, Bullgryn Maul
+
+6x Bullgryn Squad (180 pts): Close Combat Weapon
+• 1x Bullgryn Bone 'ead: Brute Shield, Bullgryn Maul
+• 5x Bullgryn: 5 with Brute Shield, Close Combat Weapon, Bullgryn Maul
+
+10x Tempestus Scions (100 pts)
+• 9x Tempestus Scion
+4 with Close Combat Weapon, Hot-shot Lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+1 with Vox-caster, Close Combat Weapon, Hot-shot Laspistol
+• 1x Tempestor: Power Fist, Plasma Pistol
+
+1x Hellhound (115 pts): Armoured Tracks, Hunter-killer Missile, Multi-melta, Inferno Cannon
+
+1x Hellhound (115 pts): Armoured Tracks, Hunter-killer Missile, Multi-melta, Inferno Cannon
+
+1x Leman Russ Battle Tank (170 pts): Leman Russ Battle Cannon, Armoured Tracks, Hunter-killer Missile, Lascannon, Heavy Stubber, 2x Multi-melta
+
+1x Leman Russ Battle Tank (170 pts): Leman Russ Battle Cannon, Armoured Tracks, Hunter-killer Missile, Lascannon, Heavy Stubber, 2x Multi-melta
+
+1x Chimera (70 pts): Armoured Tracks, Hunter-killer Missile, Lasgun Array, Chimera Heavy Bolter, Heavy Bolter, Heavy Stubber
+
+1x Chimera (70 pts): Armoured Tracks, Hunter-killer Missile, Lasgun Array, Chimera Heavy Bolter, Heavy Bolter, Heavy Stubber
+

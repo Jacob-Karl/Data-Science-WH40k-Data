@@ -1,0 +1,53 @@
+++ Army Roster (Xenos - Necrons) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
+Show/Hide Options: Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+C'tan Shard of the Deceiver [265pts]
+
+C'tan Shard of the Nightbringer [295pts]
+
+The Silent King [420pts]
+. 2x Triarchal Menhir: 2x Annihilator beam, 2x Armoured bulk
+
++ Character +
+
+Catacomb Command Barge [145pts]: Enaegic Dermal Bond, Gauss cannon, Overlord's blade, Resurrection orb
+
+Technomancer [105pts]: Nether-realm Casket
+
+Technomancer [85pts]
+
++ Infantry +
+
+Deathmarks [60pts]
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
++ Mounted +
+
+Lokhust Heavy Destroyers [50pts]
+. Destroyer w/ enmitic exterminator
+
++ Beast +
+
+Canoptek Wraiths [250pts]
+. 6x Wraith w/ claws and particle caster: 6x Particle caster, 6x Vicious claws
+
+Canoptek Wraiths [250pts]
+. 6x Wraith w/ claws and particle caster: 6x Particle caster, 6x Vicious claws
+
++ Vehicle +
+
+Canoptek Reanimator [75pts]
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

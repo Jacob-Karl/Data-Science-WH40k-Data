@@ -1,0 +1,58 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Thousand Sons
++ DETACHMENT: Cult of Magic (Kindred Sorcery)
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char6: Magnus the Red
++ ENHANCEMENT: Arcane Vortex (on Char1: Infernal Master)
+& Umbralefic Crystal (on Char2: Infernal Master)
+& Lord of Forbidden Lore (on Char4: Thousand Sons Sorcerer)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (3x2) + (1x4) - Assassination: 6 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+Inside you there are two wolves, one has a chainsword, the other has a bolter, Prospero is burning. (And you smoke crack).
+
+Char1: 1x Infernal Master (115 pts, 2 Cabal Points): Force weapon, Inferno bolt pistol, Screamer Invocation
+Enhancement: Arcane Vortex (+25 pts, +0 Cabal Points)
+Char2: 1x Infernal Master (110 pts, 2 Cabal Points): Force weapon, Inferno bolt pistol, Screamer Invocation
+Enhancement: Umbralefic Crystal (+20 pts)
+Char3: 1x Infernal Master (90 pts, 2 Cabal Points): Force weapon, Inferno bolt pistol, Screamer Invocation
+Char4: 1x Thousand Sons Sorcerer (130 pts, 1 Cabal Points): Fires of the Abyss, Force weapon, Warpflame pistol
+Enhancement: Lord of Forbidden Lore (+35 pts, +0 Cabal Points)
+Char5: 1x Ahriman (130 pts, 3 Cabal Points): Black Staff of Ahriman, Inferno bolt pistol, Psychic Stalk
+Char6: 1x Magnus the Red (440 pts, 4 Cabal Points): Warlord, Blade of Magnus, Gaze of Magnus, Tzeentch's Firestorm
+
+5x Rubric Marines (105 pts, 1 Cabal Points)
+• 4x Rubric Marine
+1 with Icon of Flame, Close combat weapon, Soulreaper cannon
+3 with Close combat weapon, Warpflamer
+• 1x Aspiring Sorcerer: Force weapon, Warpsmite, Warpflame pistol
+5x Rubric Marines (105 pts, 1 Cabal Points)
+• 4x Rubric Marine
+1 with Icon of Flame, Close combat weapon, Soulreaper cannon
+3 with Close combat weapon, Warpflamer
+• 1x Aspiring Sorcerer: Force weapon, Warpsmite, Warpflame pistol
+5x Rubric Marines (105 pts, 1 Cabal Points)
+• 4x Rubric Marine
+1 with Icon of Flame, Close combat weapon, Soulreaper cannon
+3 with Close combat weapon, Warpflamer
+• 1x Aspiring Sorcerer: Force weapon, Warpsmite, Warpflame pistol
+5x Rubric Marines (105 pts, 1 Cabal Points)
+• 4x Rubric Marine
+1 with Icon of Flame, Close combat weapon, Soulreaper cannon
+3 with Close combat weapon, Warpflamer
+• 1x Aspiring Sorcerer: Force weapon, Warpsmite, Warpflame pistol
+5x Rubric Marines (105 pts, 1 Cabal Points)
+• 4x Rubric Marine
+1 with Icon of Flame, Close combat weapon, Soulreaper cannon
+3 with Close combat weapon, Warpflamer
+• 1x Aspiring Sorcerer: Force weapon, Warpsmite, Warpflame pistol
+
+10x Thousand Sons Cultists (55 pts, 0 Cabal Points)
+• 1x Thousand Sons Cultist Champion: Brutal assault weapon, Cultist firearm
+• 9x Cultist: 9 with Brutal assault weapon, Cultist firearm
+3x Tzaangor Enlightened (45 pts): 3 with Divining spear
+1x Mutalith Vortex Beast (150 pts, 0 Cabal Points): Betentacled maw, Mutalith claws, Warp vortex
+1x Thousand Sons Forgefiend (135 pts): 2x Ectoplasma cannon, Ectoplasma cannon, Forgefiend claws
+1x Thousand Sons Rhino (75 pts): Armoured tracks, Inferno combi-bolter
+

@@ -1,0 +1,196 @@
+Kroot (1990 points)
+
+T'au Empire
+Strike Force (2000 points)
+Kroot Hunting Pack
+
+
+CHARACTERS
+
+Commander Shadowsun (100 points)
+• Warlord
+• 1x Advanced Guardian Drone
+1x Battlesuit fists
+1x Command-link Drone (Aura)
+1x Flechette launcher
+2x High-energy fusion blaster
+1x Light missile pod
+1x Pulse pistol
+
+Darkstrider (60 points)
+• 1x Close combat weapon
+1x Shade
+
+Kroot Flesh Shaper (45 points)
+• 1x Kroot scattergun
+1x Twin ritualistic blades
+
+Kroot Flesh Shaper (45 points)
+• 1x Kroot scattergun
+1x Twin ritualistic blades
+
+Kroot Flesh Shaper (45 points)
+• 1x Kroot scattergun
+1x Twin ritualistic blades
+
+Kroot Lone-spear (90 points)
+• 1x Blast javelin
+1x Close combat weapon
+1x Hunting javelin
+1x Kalamandra's bite
+
+Kroot Lone-spear (100 points)
+• 1x Blast javelin
+1x Close combat weapon
+1x Hunting javelin
+1x Kalamandra's bite
+• Enhancement: Kroothawk Flock
+
+Kroot Trail Shaper (75 points)
+• 1x Kroot rifle
+1x Shaper's blade
+• Enhancement: Nomadic Hunter
+
+
+BATTLELINE
+
+Kroot Carnivores (130 points)
+• 1x Long-quill
+• 1x Close combat weapon
+1x Kroot carbine
+1x Kroot pistol
+• 19x Kroot Carnivore
+• 19x Close combat weapon
+17x Kroot rifle
+2x Tanglebomb launcher
+
+Kroot Carnivores (130 points)
+• 1x Long-quill
+• 1x Close combat weapon
+1x Kroot carbine
+1x Kroot pistol
+• 19x Kroot Carnivore
+• 19x Close combat weapon
+17x Kroot rifle
+2x Tanglebomb launcher
+
+Kroot Carnivores (130 points)
+• 1x Long-quill
+• 1x Close combat weapon
+1x Kroot carbine
+1x Kroot pistol
+• 19x Kroot Carnivore
+• 19x Close combat weapon
+17x Kroot rifle
+2x Tanglebomb launcher
+
+Kroot Carnivores (65 points)
+• 1x Long-quill
+• 1x Close combat weapon
+1x Kroot pistol
+1x Kroot rifle
+• 9x Kroot Carnivore
+• 9x Close combat weapon
+8x Kroot rifle
+1x Tanglebomb launcher
+
+Kroot Carnivores (65 points)
+• 1x Long-quill
+• 1x Close combat weapon
+1x Kroot pistol
+1x Kroot rifle
+• 9x Kroot Carnivore
+• 9x Close combat weapon
+8x Kroot rifle
+1x Tanglebomb launcher
+
+
+OTHER DATASHEETS
+
+Hammerhead Gunship (145 points)
+• 1x Armoured hull
+1x Railgun
+2x Seeker missile
+2x Twin pulse carbine
+
+Kroot Farstalkers (85 points)
+• 1x Kroot Kill-broker
+• 1x Kroot pistol
+1x Ritual blade
+1x T'au-tech rifle
+• 9x Kroot Farstalker
+• 9x Close combat weapon
+1x Dvorgite skinner
+8x Farstalker firearm
+9x Kroot pistol
+1x Pech'ra
+• 2x Kroot Hound
+• 2x Ripping fangs
+
+Kroot Farstalkers (85 points)
+• 1x Kroot Kill-broker
+• 1x Kroot pistol
+1x Ritual blade
+1x T'au-tech rifle
+• 9x Kroot Farstalker
+• 9x Close combat weapon
+1x Dvorgite skinner
+8x Farstalker firearm
+9x Kroot pistol
+1x Pech'ra
+• 2x Kroot Hound
+• 2x Ripping fangs
+
+Kroot Hounds (40 points)
+• 5x Kroot Hound
+• 5x Ripping fangs
+
+Kroot Hounds (40 points)
+• 5x Kroot Hound
+• 5x Ripping fangs
+
+Krootox Riders (90 points)
+• 3x Krootox Rider
+• 3x Close combat weapon
+3x Krootox fists
+3x Repeater cannon
+
+Krootox Riders (90 points)
+• 3x Krootox Rider
+• 3x Close combat weapon
+3x Krootox fists
+3x Repeater cannon
+
+Krootox Riders (90 points)
+• 3x Krootox Rider
+• 3x Close combat weapon
+3x Krootox fists
+3x Repeater cannon
+
+Piranhas (60 points)
+• 1x Armoured hull
+1x Piranha fusion blaster
+2x Seeker missile
+2x Twin pulse carbine
+
+Piranhas (60 points)
+• 1x Armoured hull
+1x Piranha fusion blaster
+2x Seeker missile
+2x Twin pulse carbine
+
+Piranhas (60 points)
+• 1x Armoured hull
+1x Piranha fusion blaster
+2x Seeker missile
+2x Twin pulse carbine
+
+Vespid Stingwings (65 points)
+• 1x Vespid Strain Leader
+• 1x Neutron blaster
+1x Stingwing claws
+• 4x Vespid Stingwing
+• 4x Neutron blaster
+4x Stingwing claws
+
+Exported with App Version: v1.22.0 (51), Data Version: v488

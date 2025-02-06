@@ -1,0 +1,115 @@
+++ Army Roster (Chaos - Chaos Space Marines) [1,990pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Renegade Raiders
+
+Show/Hide Options
+
++ Epic Hero +
+
+
+Cypher [90pts]
+
++ Character +
+
+
+Dark Commune [65pts]: Warlord
+
+. 2x Blessed Blades: 2x Commune blade
+
+Dark Commune [65pts]
+
+. 2x Blessed Blades: 2x Commune blade
+
+Dark Commune [65pts]
+
+. 2x Blessed Blades: 2x Commune blade
+
++ Battleline +
+
+
+Cultist Mob [50pts]
+
+. Cultist Champion: Autopistol
+. 9x Cultist w/ autopistol and brutal assault weapon: 9x Autopistol, 9x Brutal assault weapon
+
+Cultist Mob [50pts]
+
+. Cultist Champion: Autopistol
+. 9x Cultist w/ autopistol and brutal assault weapon: 9x Autopistol, 9x Brutal assault weapon
+
+Legionaries [90pts]: Chaos icon
+
+. Aspiring Champion: Heavy melee weapon, Plasma pistol
+. 2x Legionary w/ chainsword: 2x Astartes chainsword, 2x Bolt pistol, 2x Close combat weapon
+. Legionary w/ heavy melee weapon
+. Legionary w/ other weapon: Lascannon
+
+Legionaries [90pts]: Chaos icon
+
+. Aspiring Champion: Heavy melee weapon, Plasma pistol
+. 2x Legionary w/ chainsword: 2x Astartes chainsword, 2x Bolt pistol, 2x Close combat weapon
+. Legionary w/ heavy melee weapon
+. Legionary w/ other weapon: Lascannon
+
++ Infantry +
+
+
+Accursed Cultists [180pts]
+
+. 10x Mutant: 10x Blasphemous appendages
+. 6x Torment: 6x Hideous mutations
+
+Accursed Cultists [180pts]
+
+. 10x Mutant: 10x Blasphemous appendages
+. 6x Torment: 6x Hideous mutations
+
+Accursed Cultists [180pts]
+
+. 10x Mutant: 10x Blasphemous appendages
+. 6x Torment: 6x Hideous mutations
+
+Raptors [90pts]
+
+. 2x Raptor: 2x Astartes chainsword, 2x Bolt pistol
+. Raptor Champion: Plasma pistol, Power fist
+. 2x Raptor w/ meltagun: 2x Close combat weapon, 2x Meltagun
+
++ Mounted +
+
+
+Chaos Bikers [70pts]: Chaos icon
+
+. Biker Champion: Power fist
+. Biker w/ meltagun: Astartes chainsword
+. Biker w/ meltagun: Astartes chainsword
+
++ Vehicle +
+
+
+Chaos Predator Destructor [140pts]: Combi-weapon, Havoc launcher
+
+. 2 lascannons
+
+Chaos Predator Destructor [140pts]: Combi-weapon, Havoc launcher
+
+. 2 lascannons
+
+Chaos Vindicator [185pts]: Combi-weapon, Havoc launcher
+
+Chaos Vindicator [185pts]: Combi-weapon, Havoc launcher
+
++ Dedicated Transport +
+
+
+Chaos Rhino [75pts]: Combi-weapon, Havoc launcher
+
+++ Total: [1,990pts] ++
+
+Created with BattleScribe ()
+

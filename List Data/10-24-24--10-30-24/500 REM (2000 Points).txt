@@ -1,0 +1,134 @@
+500 REM (2000 Points)
+
+Adeptus Mechanicus
+Rad-Zone Corps
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Belisarius Cawl (150 Points)
+• Warlord
+• 1x Arc scourge
+• 1x Cawl's Omnissian axe
+• 1x Mechadendrite hive
+• 1x Solar atomiser
+
+Skitarii Marshal (35 Points)
+• 1x Control stave
+• 1x Mechanicus pistol
+
+Tech-Priest Dominus (95 Points)
+• 1x Omnissian axe
+• 1x Phosphor serpenta
+• 1x Volkite blaster
+• Enhancements: Malphonic Susurrus
+
+Tech-Priest Manipulus (85 Points)
+• 1x Magnarail lance
+• 1x Omnissian staff
+• Enhancements: Peerless Eradicator
+
+Technoarcheologist (70 Points)
+• 1x Mechanicus pistol
+• 1x Servo-arc claw
+• Enhancements: Radial Suffusion
+
+BATTLELINE
+
+Skitarii Rangers (85 Points)
+• 1x Skitarii Ranger Alpha
+◦ 1x Close combat weapon
+◦ 1x Galvanic rifle
+• 9x Skitarii Ranger
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 6x Galvanic rifle
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Mechanicus pistol
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Close combat weapon
+◦ 1x Radium carbine
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+OTHER DATASHEETS
+
+Kataphron Breachers (320 Points)
+• 6x Kataphron Breacher
+◦ 6x Heavy arc rifle
+◦ 6x Hydraulic claw
+
+Kataphron Breachers (320 Points)
+• 6x Kataphron Breacher
+◦ 6x Heavy arc rifle
+◦ 6x Hydraulic claw
+
+Onager Dunecrawler (160 Points)
+• 1x Broad spectrum data-tether
+• 1x Cognis heavy stubber
+• 1x Cognis heavy stubber
+• 1x Dunecrawler legs
+• 1x Neutron laser
+
+Sicarian Infiltrators (70 Points)
+• 1x Sicarian Infiltrator Princeps
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Sicarian Infiltrator
+◦ 4x Flechette blaster
+◦ 4x Taser goad
+
+Sicarian Infiltrators (70 Points)
+• 1x Sicarian Infiltrator Princeps
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Sicarian Infiltrator
+◦ 4x Flechette blaster
+◦ 4x Taser goad
+
+Sicarian Ruststalkers (75 Points)
+• 1x Sicarian Ruststalker Princeps
+◦ 1x Transonic blades and chordclaw
+• 4x Sicarian Ruststalker
+◦ 4x Transonic razor and chordclaw
+
+Sicarian Ruststalkers (75 Points)
+• 1x Sicarian Ruststalker Princeps
+◦ 1x Transonic blades and chordclaw
+• 4x Sicarian Ruststalker
+◦ 4x Transonic razor and chordclaw
+
+Sydonian Dragoons with Taser Lances (70 Points)
+• 1x Phosphor serpenta
+• 1x Taser lance
+
+Sydonian Dragoons with Taser Lances (70 Points)
+• 1x Phosphor serpenta
+• 1x Taser lance
+
+Sydonian Dragoons with Taser Lances (70 Points)
+• 1x Phosphor serpenta
+• 1x Taser lance
+
+Exported with App Version: v1.21.1 (45), Data Version: v469

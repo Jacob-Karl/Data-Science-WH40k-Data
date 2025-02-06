@@ -1,0 +1,194 @@
+Imperial Guard Only 20 Aquilons (2000 Points)
+
+Astra Militarum
+Combined Regiment
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Cadian Command Squad (65 Points)
+• 1x Cadian Commander
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 1x Cadian Veteran Guardsman
+◦ 1x Plasma gun
+◦ 1x Plasma pistol
+• 1x Cadian Veteran Guardsman with Master Vox
+◦ 1x Close combat weapon
+◦ 1x Lasgun
+◦ 1x Master Vox
+• 1x Cadian Veteran Guardsman with Medi-pack
+◦ 1x Close combat weapon
+◦ 1x Lasgun
+◦ 1x Medi-pack
+• 1x Cadian Veteran Guardsman with Regimental Standard
+◦ 1x Close combat weapon
+◦ 1x Plasma gun
+
+Lord Solar Leontus (125 Points)
+• Warlord
+• 1x Conquest
+• 1x Konstantin's hooves
+• 1x Sol's Righteous Gaze
+
+Militarum Tempestus Command Squad (70 Points)
+• 1x Tempestor Prime
+◦ 1x Plasma pistol
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 1x Grenade launcher
+◦ 1x Hot-shot volley gun
+◦ 1x Meltagun
+◦ 1x Plasma gun
+
+Tank Commander (240 Points)
+• 1x Armoured tracks
+• 1x Demolisher battle cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Militarum plasma cannon
+• Enhancements: Grand Strategist
+
+BATTLELINE
+
+Cadian Shock Troops (60 Points)
+• 1x Shock Trooper Sergeant
+◦ 1x Close combat weapon
+◦ 1x Drum-fed autogun
+• 9x Shock Trooper
+◦ 9x Close combat weapon
+◦ 7x Lasgun
+◦ 1x Meltagun
+◦ 1x Plasma gun
+◦ 1x Vox-caster
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+DEDICATED TRANSPORTS
+
+Chimera (70 Points)
+• 1x Armoured tracks
+• 1x Chimera heavy flamer
+• 1x Heavy flamer
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lasgun array
+
+Chimera (70 Points)
+• 1x Armoured tracks
+• 1x Chimera heavy flamer
+• 1x Heavy flamer
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lasgun array
+
+OTHER DATASHEETS
+
+Hellhound (115 Points)
+• 1x Armoured tracks
+• 1x Hunter-killer missile
+• 1x Inferno cannon
+• 1x Multi-melta
+
+Hellhound (115 Points)
+• 1x Armoured tracks
+• 1x Hunter-killer missile
+• 1x Inferno cannon
+• 1x Multi-melta
+
+Hydra (85 Points)
+• 1x Armoured tracks
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+• 1x Hydra autocannon
+
+Hydra (85 Points)
+• 1x Armoured tracks
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+• 1x Hydra autocannon
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Multi-melta
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Multi-melta
+
+Leman Russ Exterminator (170 Points)
+• 1x Armoured tracks
+• 1x Exterminator autocannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Scions (100 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 5x Hot-shot lasgun
+◦ 2x Meltagun
+◦ 2x Plasma gun
+
+Exported with App Version: v1.22.0 (48), Data Version: v488
+

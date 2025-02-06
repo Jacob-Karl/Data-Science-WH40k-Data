@@ -1,0 +1,94 @@
+01010100 01100101 01101100 01100101 00101101 01110011 01101011 01100101 01101100 01101100 01101001 01100101 01110011 (1995 points)
+
+Necrons
+Strike Force (2000 points)
+Hypercrypt Legion
+
+
+CHARACTERS
+
+Chronomancer (90 points)
+• Warlord
+• 1x Chronomancer's stave
+• Enhancement: Dimensional Overseer
+
+C'tan Shard of the Nightbringer (295 points)
+• 1x Gaze of death
+1x Scythe of the Nightbringer
+
+C'tan Shard of the Void Dragon (290 points)
+• 1x Canoptek tail blades
+1x Spear of the Void Dragon
+1x Voltaic storm
+
+Hexmark Destroyer (70 points)
+• 1x Close combat weapon
+1x Enmitic disintegrator pistols
+
+Lokhust Lord (105 points)
+• 1x Lord's blade
+1x Resurrection Orb
+• Enhancement: Arisen Tyrant
+
+Transcendent C'tan (285 points)
+• 1x Crackling tendrils
+1x Seismic assault
+
+
+BATTLELINE
+
+Immortals (150 points)
+• 10x Immortal
+• 10x Close combat weapon
+10x Tesla carbine
+
+
+OTHER DATASHEETS
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarm
+• 3x Feeder mandibles
+
+Deathmarks (60 points)
+• 5x Deathmark
+• 5x Close combat weapon
+5x Synaptic disintegrator
+
+Deathmarks (60 points)
+• 5x Deathmark
+• 5x Close combat weapon
+5x Synaptic disintegrator
+
+Flayed Ones (60 points)
+• 5x Flayed One
+• 5x Flayer claws
+
+Flayed Ones (60 points)
+• 5x Flayed One
+• 5x Flayer claws
+
+Lokhust Heavy Destroyers (100 points)
+• 2x Lokhust Heavy Destroyer
+• 2x Close combat weapon
+2x Gauss destructor
+
+Lokhust Heavy Destroyers (100 points)
+• 2x Lokhust Heavy Destroyer
+• 2x Close combat weapon
+2x Gauss destructor
+
+Lokhust Heavy Destroyers (150 points)
+• 3x Lokhust Heavy Destroyer
+• 3x Close combat weapon
+3x Enmitic exterminator
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

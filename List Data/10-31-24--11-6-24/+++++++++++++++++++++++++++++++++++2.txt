@@ -1,0 +1,40 @@
++++++++++++++++++++++++++++++++++++++++++++++++
+Player Name : Chouwbak
+Team Name : Monkey's Skull
+Factions used : Death Guard, Chaos Daemons, Chaos Knights
+Army points : 2000
+Army Enhancements :
+Detachment Rule :
++++++++++++++++++++++++++++++++++++++++++++++++
+
+== Primary detachment : Death Guard, Chaos Daemons, Chaos Knights [2000pts] ==
+
+HQ 1 : Mortarion [300pts] [Warlord] The Lantern (0), Rotwind (0), Silence (0)
+
+EL 1 : Biologus Putrifer [50pts] Hyper blight grenade (0), Injector pistol (0), Plague knives (0)
+EL 2 : Biologus Putrifer [50pts] Hyper blight grenade (0), Injector pistol (0), Plague knives (0)
+EL 3 : Foul Blightspawn [60pts] Plague sprayer (0), Close combat weapon (0)
+EL 4 : Foul Blightspawn [60pts] Plague sprayer (0), Close combat weapon (0)
+EL 5 : Lord of Virulence [80pts] Twin plague spewer (0), Heavy Plague fist (0)
+
+TR 1 : 3 Nurglings [40pts] 3 Diseased claws and teeth (0)
+TR 2 : 3 Nurglings [40pts] 3 Diseased claws and teeth (0)
+TR 3 : War Dog Brigand [165pts] Avenger chaincannon (0), Demonbreath spear (0), Diabolus heavy stubber (0), Armoured feet (0)
+TR 4 : War Dog Brigand [165pts] Avenger chaincannon (0), Demonbreath spear (0), Diabolus heavy stubber (0), Armoured feet (0)
+TR 5 : 10 Plague Marines [180pts] Plague spewer (0), Plague knife (0), 4 Heavy plague weapon (0), 4 Bubotic weapons (0)
+--- Champion de la Peste (0),Plasma gun (0), Heavy plague weapon (0)
+TR 6 : 10 Plague Marines [180pts] Plague spewer (0), Plague knife (0), 4 Heavy plague weapon (0), 4 Bubotic weapons (0)
+--- Champion de la Peste (0),Plasma gun (0), Heavy plague weapon (0)
+
+FA 1 : Death Guard Rhino [75pts] Plague combi-bolter (0), Additional Plague combi-bolter (0), Havoc launcher (0), Armoured Tracks (0)
+FA 2 : Death Guard Rhino [75pts] Plague combi-bolter (0), Additional Plague combi-bolter (0), Havoc launcher (0), Armoured Tracks (0)
+
+HS 1 : 3 Deathshroud Terminators [110pts] 3 Plaguespurt gauntlet (0), 3 Manreaper (0)
+--- Deathshroud Champion,Plaguespurt gauntlet (0), Gantelet Gicle-peste supplémentaire (0), Manreaper (0)
+HS 2 : 10 Poxwalkers [50pts] 10 Improvised weapon (0)
+HS 3 : 10 Poxwalkers [50pts] 10 Improvised weapon (0)
+
+FL 1 : Foetid Bloat-Drone [90pts] Fleshmower (0), Plague probe (0)
+FL 2 : Foetid Bloat-Drone [90pts] Fleshmower (0), Plague probe (0)
+FL 3 : Foetid Bloat-Drone [90pts] 2 Plaguespitter (0), Plague probe (0)
+

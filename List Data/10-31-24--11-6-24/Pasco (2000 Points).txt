@@ -1,0 +1,113 @@
+Pasco (2000 Points)
+
+Space Marines
+Black Templars
+Righteous Crusaders
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Castellan (60 Points)
+• 1x Combi-weapon
+• 1x Master-crafted power weapon
+
+Chaplain in Terminator Armour (110 Points)
+• 1x Crozius arcanum
+• 1x Storm bolter
+• Enhancements: Tännhauser's Bones
+
+High Marshal Helbrecht (130 Points)
+• Warlord
+• 1x Ferocity
+• 1x Sword of the High Marshals
+
+Lieutenant with Combi-weapon (70 Points)
+• 1x Combi-weapon
+• 1x Paired combat blades
+
+Techmarine (55 Points)
+• 1x Forge bolter
+• 1x Grav-pistol
+• 1x Omnissian power axe
+• 1x Servo-arm
+
+The Emperor's Champion (75 Points)
+• 1x Black Sword
+• 1x Bolt Pistol
+
+OTHER DATASHEETS
+
+Assault Intercessors with Jump Packs (90 Points)
+• 1x Assault Intercessor Sergeant with Jump Pack
+◦ 1x Hand flamer
+◦ 1x Power fist
+• 4x Assault Intercessors with Jump Packs
+◦ 4x Astartes chainsword
+◦ 3x Heavy bolt pistol
+◦ 1x Plasma pistol
+
+Land Raider Redeemer (285 Points)
+• 1x Armoured tracks
+• 2x Flamestorm cannon
+• 1x Hunter-killer missile
+• 1x Multi-melta
+• 1x Storm bolter
+• 1x Twin assault cannon
+
+Primaris Sword Brethren (150 Points)
+• 1x Sword Brother Castellan
+◦ 1x Combi-weapon
+◦ 1x Master-crafted power weapon
+• 4x Primaris Sword Brother
+◦ 1x Plasma pistol
+◦ 2x Power weapon
+◦ 2x Pyre pistol
+◦ 1x Thunder hammer
+◦ 1x Twin lightning claws
+
+Primaris Sword Brethren (150 Points)
+• 1x Sword Brother Castellan
+◦ 1x Combi-weapon
+◦ 1x Master-crafted power weapon
+• 4x Primaris Sword Brother
+◦ 1x Plasma pistol
+◦ 2x Power weapon
+◦ 2x Pyre pistol
+◦ 1x Thunder hammer
+◦ 1x Twin lightning claws
+
+Redemptor Dreadnought (210 Points)
+• 1x Icarus rocket pod
+• 1x Macro plasma incinerator
+• 1x Onslaught gatling cannon
+• 1x Redemptor fist
+• 1x Twin fragstorm grenade launcher
+
+Redemptor Dreadnought (210 Points)
+• 1x Icarus rocket pod
+• 1x Macro plasma incinerator
+• 1x Onslaught gatling cannon
+• 1x Redemptor fist
+• 1x Twin fragstorm grenade launcher
+
+Scout Squad (65 Points)
+• 1x Scout Sergeant
+◦ 1x Bolt pistol
+◦ 1x Boltgun
+◦ 1x Close combat weapon
+• 4x Scout
+◦ 4x Bolt pistol
+◦ 4x Boltgun
+◦ 4x Close combat weapon
+
+Terminator Squad (340 Points)
+• 1x Terminator Sergeant
+◦ 1x Power fist
+◦ 1x Storm bolter
+• 9x Terminator
+◦ 2x Assault cannon
+◦ 2x Chainfist
+◦ 7x Power fist
+◦ 7x Storm bolter
+
+Exported with App Version: v1.22.0 (48), Data Version: v488

@@ -1,0 +1,85 @@
+++ Army Roster (Xenos - Leagues of Votann) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Ûthar the Destined [80pts]: Warlord
+
++ Character +
+
+Einhyr Champion [80pts]: Grim Demeanour, Mass hammer, Weavefield crest
+
++ Battleline +
+
+Hearthkyn Warriors [100pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
+. Hearthkyn Warrior w/ heavy weapon: Kin melee weapon
+. Hearthkyn Warrior w/ heavy weapon: Kin melee weapon
+. Theyn: Etacarn plasma pistol, Kin melee weapon
+
++ Infantry +
+
+Brôkhyr Thunderkyn [85pts]
+. 3x Brôkhyr Thunderkyn: 3x Close combat weapon, 3x Graviton blast cannon
+
+Cthonian Beserks [100pts]
+. 4x Beserk: 4x Concussion maul
+. Beserk w/ mole grenade launcher: Concussion maul
+
+Cthonian Beserks [100pts]
+. 4x Beserk: 4x Concussion maul
+. Beserk w/ mole grenade launcher: Concussion maul
+
+Einhyr Hearthguard [150pts]
+. 4x Einhyr Hearthguard: 4x Concussion gauntlet, 4x Exo-armour grenade launcher, 4x Volkanite disintegrator
+. Hesyr: Concussion hammer, Volkanite disintegrator, Weavefield crest
+
+Einhyr Hearthguard [150pts]
+. 4x Einhyr Hearthguard: 4x Concussion gauntlet, 4x Exo-armour grenade launcher, 4x Volkanite disintegrator
+. Hesyr: Concussion hammer, Volkanite disintegrator, Weavefield crest
+
+Hernkyn Yaegirs [90pts]: Hernkyn Yaegir w/ APM launcher
+. 9x Hernkyn Yaegir: 9x Bolt revolver and plasma knife, 9x Close combat weapon
+
++ Mounted +
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon
+. Hernkyn Pioneer w/ pan-spectral scanner
+. Hernkyn Pioneer w/ searchlight
+
++ Vehicle +
+
+Hekaton Land Fortress [225pts]: Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
+Hekaton Land Fortress [225pts]: Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
++ Dedicated Transport +
+
+Sagitaur [115pts]: HYLas beam cannon
+
+Sagitaur [115pts]: HYLas beam cannon
+
+Sagitaur [115pts]: HYLas beam cannon
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

@@ -1,0 +1,93 @@
+Tournament2 (2000 points)
+
+Necrons
+Strike Force (2000 points)
+Hypercrypt Legion
+
+
+CHARACTERS
+
+Chronomancer (90 points)
+• 1x Chronomancer's stave
+• Enhancement: Arisen Tyrant
+
+Chronomancer (65 points)
+• 1x Chronomancer's stave
+
+Hexmark Destroyer (70 points)
+• 1x Close combat weapon
+1x Enmitic disintegrator pistols
+
+Imotekh the Stormlord (100 points)
+• 1x Gauntlet of Fire
+1x Staff of the Destroyer
+
+Overlord (110 points)
+• 1x Resurrection Orb
+1x Voidscythe
+• Enhancement: Dimensional Overseer
+
+The Silent King (420 points)
+• 1x Szarekh
+• Warlord
+• 1x Sceptre of Eternal Glory
+1x Staff of Stars
+1x Weapons of the Final Triarch
+• 2x Triarchal Menhir
+• 2x Annihilator beam
+2x Armoured bulk
+
+
+BATTLELINE
+
+Immortals (150 points)
+• 10x Immortal
+• 10x Close combat weapon
+10x Tesla carbine
+
+Immortals (150 points)
+• 10x Immortal
+• 10x Close combat weapon
+10x Gauss blaster
+
+
+OTHER DATASHEETS
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x Fabricator Claw Array (Aura)
+1x Gloom Prism (Aura)
+2x Particle beamer
+
+Doomsday Ark (200 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Flayed Ones (60 points)
+• 5x Flayed One
+• 5x Flayer claws
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Monolith (375 points)
+• 4x Gauss flux arc
+1x Particle whip
+1x Portal of exile
+
+Tomb Blades (75 points)
+• 3x Tomb Blade
+• 3x Close combat weapon
+2x Particle beamer
+3x Shadowloom
+3x Shieldvanes
+1x Twin tesla carbine
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

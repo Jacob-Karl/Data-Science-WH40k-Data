@@ -1,0 +1,64 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Leagues of Votann
++ DETACHMENT: Oathband (Ruthless Efficiency)
++ TOTAL ARMY POINTS: 2000pts
++
++ ENHANCEMENT: Appraising Glare (on Char1: Brôkhyr Iron-master)
+& Wayfarer's Grace (on Char2: Einhyr Champion)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (4x2) + (2x4) - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 5x Brôkhyr Iron-master (85 pts)
+• 3x E-COG
+1 with Autoch-pattern bolt pistol, Close combat weapon
+1 with Plasma torch
+1 with Manipulator arms
+Enhancement: Appraising Glare (+20 pts)
+• 1x Brôkhyr Iron-master: Graviton hammer, Graviton rifle
+• 1x Ironkyn Assistant: Close combat weapon, Las-beam cutter
+Char2: 1x Einhyr Champion (85 pts): Weavefield crest, Autoch-pattern combi-bolter, Darkstar axe
+Enhancement: Wayfarer's Grace (+25 pts)
+Char3: 1x Einhyr Champion (60 pts): Weavefield crest, Autoch-pattern combi-bolter, Darkstar axe
+
+10x Hearthkyn Warriors (100 pts)
+• 9x Hearthkyn Warrior
+4 with Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Pan spectral scanner, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Medipack, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Comms array, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Autoch-pattern bolt pistol, Close combat weapon, HYLas auto rifle*
+1 with Autoch-pattern bolt pistol, Close combat weapon, HYLas rotary cannon*
+• 1x Theyn: Weavefield crest, Close combat weapon, Etacarn plasma pistol, Kin melee weapon
+10x Hearthkyn Warriors (100 pts)
+• 9x Hearthkyn Warrior
+4 with Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Pan spectral scanner, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Medipack, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Comms array, Autoch-pattern bolt pistol, Close combat weapon, Autoch-pattern bolter
+1 with Autoch-pattern bolt pistol, Close combat weapon, HYLas auto rifle*
+1 with Autoch-pattern bolt pistol, Close combat weapon, HYLas rotary cannon*
+• 1x Theyn: Weavefield crest, Close combat weapon, Etacarn plasma pistol, Kin melee weapon
+
+10x Cthonian Beserks (200 pts)
+8 with Concussion maul
+2 with Mole grenade launcher, Concussion maul
+10x Cthonian Beserks (200 pts)
+8 with Concussion maul
+2 with Mole grenade launcher, Concussion maul
+10x Hernkyn Yaegirs (80 pts)
+8 with Close combat weapon, Bolt revolver and plasma knife
+1 with APM launcher, Close combat weapon
+1 with Close combat weapon, Magna-coil rifle
+6x Hernkyn Pioneers (180 pts)
+1 with Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife
+1 with Comms array, Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife
+2 with Bolt revolver, Bolt shotgun, HYLas rotary cannon, Magna-coil autocannon, Plasma knife
+1 with Pan-spectral scanner, Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife
+1 with Rollbar searchlight, Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife
+1x Hekaton Land Fortress (225 pts): Pan spectral scanner, Armoured wheels, MATR autocannon, Cyclic ion cannon, 2x Twin bolt cannon
+1x Hekaton Land Fortress (225 pts): Pan spectral scanner, Armoured wheels, MATR autocannon, Cyclic ion cannon, 2x Twin bolt cannon
+1x Sagitaur (115 pts): Armoured wheels, Twin bolt cannon, HYLas beam cannon
+1x Sagitaur (115 pts): Armoured wheels, Twin bolt cannon, HYLas beam cannon
+1x Sagitaur (115 pts): Armoured wheels, Twin bolt cannon, HYLas beam cannon
+1x Sagitaur (115 pts): Armoured wheels, Twin bolt cannon, HYLas beam cannon

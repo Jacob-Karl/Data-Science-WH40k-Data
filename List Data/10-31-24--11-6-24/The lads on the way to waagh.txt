@@ -1,0 +1,138 @@
+ The lads on the way to waagh
+
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Orks
++ DETACHMENT: War Horde
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Ghazghkull Thraka
++ ENHANCEMENT:
++ NUMBER OF UNITS: 25
++ SECONDARY: - Bring It Down: (5x2) - Assassination: 6 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 2x Ghazghkull Thraka (235 pts)
+• 1x Ghazghkull Thraka
+1 with Gork's Klaw, Mork's Roar
+• 1x Makari
+1 with Makari's stabba
+• Warlord
+
+Char2: 1x Beastboss (80 pts)
+1 with Beast Snagga klaw, Beastchoppa, Shoota
+
+Char3: 1x Beastboss (80 pts)
+1 with Beast Snagga klaw, Beastchoppa, Shoota
+
+Char4: 1x Warboss (65 pts)
+1 with Kombi-weapon, Twin slugga, Attack squig, Power klaw
+
+Char5: 1x Warboss (65 pts)
+1 with Kombi-weapon, Twin slugga, Attack squig, Power klaw
+
+Char6: 1x Warboss (65 pts)
+1 with Kombi-weapon, Twin slugga, Attack squig, Power klaw
+
+BATTLELINE
+
+10x Beast Snagga Boyz (95 pts)
+• 1x Beast Snagga Nob
+1 with Power snappa, Slugga
+• 9x Beast Snagga Boy
+9 with Choppa, Slugga
+
+10x Beast Snagga Boyz (95 pts)
+• 1x Beast Snagga Nob
+1 with Power snappa, Slugga
+• 9x Beast Snagga Boy
+9 with Choppa, Slugga
+
+10x Boyz (80 pts)
+• 1x Boss Nob
+1 with Big choppa, Slugga
+• 9x Boy
+9 with Choppa, Slugga
+
+OTHER DATASHEETS
+
+5x Flash Gitz (80 pts)
+• 1x Kaptin
+1 with Choppa, Snazzgun
+• 4x Flash Gitz
+4 with Choppa, Snazzgun
+
+5x Flash Gitz (80 pts)
+• 1x Kaptin
+1 with Choppa, Snazzgun
+• 4x Flash Gitz
+4 with Choppa, Snazzgun
+
+5x Flash Gitz (80 pts)
+• 1x Kaptin
+1 with Choppa, Snazzgun
+• 4x Flash Gitz
+4 with Choppa, Snazzgun
+
+11x Gretchin (40 pts)
+• 10x Gretchin
+10 with Close combat weapon, Grot blasta
+• 1x Runtherd
+1 with Grot-smacka, Slugga
+
+11x Gretchin (40 pts)
+• 10x Gretchin
+10 with Close combat weapon, Grot blasta
+• 1x Runtherd
+1 with Grot-smacka, Slugga
+
+11x Gretchin (40 pts)
+• 10x Gretchin
+10 with Close combat weapon, Grot blasta
+• 1x Runtherd
+1 with Grot-smacka, Slugga
+
+2x Meganobz (70 pts)
+• 2x Meganob
+2 with Kustom shoota, Power klaw
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+1 with Power klaw, Slugga
+• 4x Nob
+4 with Power klaw, Slugga
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+1 with Power klaw, Slugga
+• 4x Nob
+4 with Power klaw, Slugga
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+1 with Power klaw, Slugga
+• 4x Nob
+4 with Power klaw, Slugga
+
+5x Stormboyz (65 pts)
+• 1x Boss Nob
+1 with Slugga, Power klaw
+• 4x Stormboy
+4 with Choppa, Slugga
+
+1x Trukk (65 pts)
+1 with Big shoota, Spiked wheels
+
+1x Trukk (65 pts)
+1 with Big shoota, Spiked wheels
+
+1x Trukk (65 pts)
+1 with Big shoota, Spiked wheels
+
+1x Trukk (65 pts)
+1 with Big shoota, Spiked wheels
+
+1x Trukk (65 pts)
+1 with Big shoota, Spiked wheels
+

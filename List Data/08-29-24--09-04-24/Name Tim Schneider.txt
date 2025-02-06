@@ -1,0 +1,73 @@
+Name: Tim Schneider
+Team: Zugzwang
+Factions used: Votann
+Detachments used: Oathband
+Enhancements:
+Brôkhyr Iron-master - Appraising Glare
+Einhyr Champion - Wayfarer's Grace
+
+
+++ Army Roster (Xenos - Leagues of Votann) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
++ Character +
+
+Brôkhyr Iron-master [85pts]: Appraising Glare, Warlord
+
+Einhyr Champion [85pts]: Darkstar axe, Wayfarer's Grace, Weavefield crest
+
+Einhyr Champion [60pts]: Darkstar axe, Weavefield crest
+
++ Battleline +
+
+Hearthkyn Warriors [100pts]: Comms array, Medipack, Pan spectral scanner
+7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Autoch-pattern bolter, 7x Close combat weapon
+Hearthkyn Warrior w/ heavy weapon: HYLas auto rifle*
+Hearthkyn Warrior w/ heavy weapon: HYLas rotary cannon*
+Theyn: Etacarn plasma pistol, Kin melee weapon
+
++ Infantry +
+
+Cthonian Beserks [100pts]
+4x Beserk: 4x Concussion maul
+Beserk w/ mole grenade launcher: Concussion maul
+
+Cthonian Beserks [200pts]
+8x Beserk: 8x Concussion maul
+2x Beserk w/ mole grenade launcher: 2x Concussion maul, 2x Mole grenade launcher
+
+Cthonian Beserks [200pts]
+8x Beserk: 8x Concussion maul
+2x Beserk w/ mole grenade launcher: 2x Concussion maul, 2x Mole grenade launcher
+
+Hernkyn Yaegirs [80pts]: Hernkyn Yaegir w/ APM launcher, Hernkyn Yaegir w/ magna-coil rifle
+8x Hernkyn Yaegir: 8x Bolt revolver and plasma knife, 8x Close combat weapon
+
++ Mounted +
+
+Hernkyn Pioneers [180pts]
+Hernkyn Pioneer
+Hernkyn Pioneer w/ comms array
+2x Hernkyn Pioneer w/ HYLas rotary cannon: 2x Bolt revolver, 2x Bolt shotgun, 2x HYLas rotary cannon, 2x Magna-coil autocannon, 2x Plasma knife
+Hernkyn Pioneer w/ pan-spectral scanner
+Hernkyn Pioneer w/ searchlight
+
++ Vehicle +
+
+Hekaton Land Fortress [225pts]: Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
+Hekaton Land Fortress [225pts]: Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
++ Dedicated Transport +
+
+Sagitaur [115pts]: HYLas beam cannon
+
+Sagitaur [115pts]: HYLas beam cannon
+
+Sagitaur [115pts]: HYLas beam cannon
+
+Sagitaur [115pts]: HYLas beam cannon
+

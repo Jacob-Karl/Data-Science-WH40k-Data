@@ -1,0 +1,178 @@
+No Guard uniform sadly
+
++++++++++++++++++++++++++++++++++++++++++++++++
+UNSC 42nd Infantry Regiment
+FACTION KEYWORD: Imperium - Astra Militarum
+DETACHMENT: Combined Regiment
+TOTAL ARMY POINTS: 2000pts
+
+WARLORD: Char7: Militarum Tempestus Command Squad
+ENHANCEMENT:
+NUMBER OF UNITS: 24
+SECONDARY: - Bring It Down: (1x2) - Assassination: 9 Characters - Cull The Horde: 2x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+“Noble Team”: Cadian Command Squad (65 pts)
+“Jorge-052” with Close Combat Weapon, Plasma Pistol, Grenade Launcher
+“Jun-A266” with Master Vox, Close Combat Weapon, Lasgun
+“Kat-B320” with Medi-pack, Close Combat Weapon, Lasgun
+“Cater-A259” with Close Combat Weapon, Laspistol, Lasgun, Regimental Standard
+“Emile-A239” Cadian Commander: Plasma Pistol, Power Fist
+
+“Captain Jacob Keyes”: Death Korps Marshal (60 pts): Power Weapon, Plasma Pistol
+
+“Commander Miranda Keyes”: Death Korps Marshal (60 pts): Power Weapon, Plasma Pistol
+
+“Command Team Alpha”: Militarum Tempestus Command Squad (70 pts)
+• 4x Tempestus Scion
+1 with Close Combat Weapon, Grenade Launcher
+1 with Close Combat Weapon, Hot-shot Volley Gun
+1 with Close Combat Weapon, Meltagun
+1 with Close Combat Weapon, Plasma Gun
+• 1x Tempestor Prime: Command Rod, Tempestus Dagger, Warlord
+
+“Command Team Bravo”: Militarum Tempestus Command Squad (70 pts)
+• 4x Tempestus Scion
+1 with Close Combat Weapon, Grenade Launcher
+1 with Close Combat Weapon, Hot-shot Volley Gun
+1 with Close Combat Weapon, Meltagun
+1 with Close Combat Weapon, Plasma Gun
+• 1x Tempestor Prime: Command Rod, Tempestus Dagger
+
+“Command Team Eagle”: Militarum Tempestus Command Squad (70 pts)
+• 4x Tempestus Scion
+1 with Close Combat Weapon, Grenade Launcher
+1 with Close Combat Weapon, Hot-shot Volley Gun
+1 with Close Combat Weapon, Meltagun
+1 with Close Combat Weapon, Plasma Gun
+• 1x Tempestor Prime: Command Rod, Tempestus Dagger
+
+“Alpha Nine”: Gaunt's Ghosts (100 pts)
+“Spartan Taylor “Dutch” Miles” with Bragg's autocannon, Straight Silver Knife
+“Spartan Michael “Mickey” Crespo” with Corbec's Hot-shot Lascarbine, Straight Silver Knife
+“Spartan Kojo “Romeo” Agu” with Larkin's Long-las, Straight Silver Knife
+“Lance Corporal Jonathan “Rookie” Doherty” with Lascarbine, Mkoll's Straight Silver Knife
+“Spartan Edward Buck” with Rawne's Lascarbine, Straight Silver Knife
+“Captain Veronica Dare” Ibram Gaunt: Bolt Pistol, Gaunt's Chainsword
+
+“Valkyrie One”: Ursula Creed (55 pts): Duty and Vengeance, Power Weapon
+
+“Lone Wolf” Sly Marbo (65 pts): Envenomed Blade, Ripper Pistol
+
+“Zulu Company” 10x Cadian Shock Troops (60 pts)
+• 9x Shock Trooper
+6 with Close Combat Weapon, Lasgun
+1 with Vox-caster, Close Combat Weapon, Lasgun
+1 with Close Combat Weapon, Grenade Launcher
+1 with Close Combat Weapon, Plasma Gun
+• 1x Shock Trooper Sergeant: Close Combat Weapon, Drum-fed Autogun
+
+“Recon Bravo” 10x Catachan Jungle Fighters (55 pts)
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Vox-caster, Close Combat Weapon, Lasgun
+• 1x Jungle Fighter Sergeant: Close Combat Weapon, Laspistol
+
+“Sierra Patrol” 10x Catachan Jungle Fighters (55 pts)
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Vox-caster, Close Combat Weapon, Lasgun
+• 1x Jungle Fighter Sergeant: Close Combat Weapon, Laspistol
+
+“Autumn Guard” 20x Death Korps of Krieg (130 pts)
+• 18x Death Korps Trooper
+11 with Close Combat Weapon, Lasgun
+1 with Death Korps of Krieg Medi-pack, Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Grenade Launcher
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+• 2x Death Korps Watchmaster: 2 with Power Weapon, Plasma Pistol
+
+“Foxtrot Battalion” 20x Death Korps of Krieg (130 pts)
+• 18x Death Korps Trooper
+11 with Close Combat Weapon, Lasgun
+1 with Death Korps of Krieg Medi-pack, Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Grenade Launcher
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+• 2x Death Korps Watchmaster: 2 with Power Weapon, Plasma Pistol
+
+“Fireteam Alpha” 10x Tempestus Scions (100 pts)
+• 9x Tempestus Scion
+4 with Close Combat Weapon, Hot-shot Lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+1 with Vox-caster, Close Combat Weapon, Hot-shot Laspistol
+• 1x Tempestor: Power Fist, Plasma Pistol
+
+“Fireteam Bravo” 10x Tempestus Scions (100 pts)
+• 9x Tempestus Scion
+4 with Close Combat Weapon, Hot-shot Lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+1 with Vox-caster, Close Combat Weapon, Hot-shot Laspistol
+• 1x Tempestor: Power Fist, Plasma Pistol
+
+“Fireteam Eagle” 10x Tempestus Scions (100 pts)
+• 9x Tempestus Scion
+4 with Close Combat Weapon, Hot-shot Lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+1 with Vox-caster, Close Combat Weapon, Hot-shot Laspistol
+• 1x Tempestor: Power Fist, Plasma Pistol
+
+“The Grim Dawn” 10x Kasrkin (110 pts)
+• 9x Kasrkin Trooper
+2 with Close Combat Weapon, Hot-shot Lasgun
+1 with Melta mine, Close Combat Weapon, Hot-shot Laspistol
+1 with Close Combat Weapon, Hot-shot Marksman Rifle
+1 with Vox-caster, Close Combat Weapon, Hot-shot lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+• 1x Kasrkin Sergeant: Power Weapon, Plasma Pistol
+
+“The Crimson Rain” 10x Kasrkin (110 pts)
+• 9x Kasrkin Trooper
+2 with Close Combat Weapon, Hot-shot Lasgun
+1 with Melta mine, Close Combat Weapon, Hot-shot Laspistol
+1 with Close Combat Weapon, Hot-shot Marksman Rifle
+1 with Vox-caster, Close Combat Weapon, Hot-shot lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+• 1x Kasrkin Sergeant: Power Weapon, Plasma Pistol
+
+“The Silent Thunder” 10x Kasrkin (110 pts)
+• 9x Kasrkin Trooper
+2 with Close Combat Weapon, Hot-shot Lasgun
+1 with Melta mine, Close Combat Weapon, Hot-shot Laspistol
+1 with Close Combat Weapon, Hot-shot Marksman Rifle
+1 with Vox-caster, Close Combat Weapon, Hot-shot lasgun
+2 with Close Combat Weapon, Meltagun
+2 with Close Combat Weapon, Plasma Gun
+• 1x Kasrkin Sergeant: Power Weapon, Plasma Pistol
+
+“Falcon's Wing” 10x Tempestus Aquilons (90 pts)
+• 9x Tempestus Aquilon
+7 with Close Combat Weapon, Hot-shot lascarbine
+1 with Close Combat Weapon, Hot-shot long las
+1 with Close Combat Weapon, Melta carbine
+• 1x Tempestor Aquilon: Close Combat Weapon, Hot-shot Laspistol, Power Weapon, Sentry flamer
+
+“Skyfall Brigade” 10x Tempestus Aquilons (90 pts)
+• 9x Tempestus Aquilon
+7 with Close Combat Weapon, Hot-shot lascarbine
+1 with Close Combat Weapon, Hot-shot long las
+1 with Close Combat Weapon, Melta carbine
+• 1x Tempestor Aquilon: Close Combat Weapon, Hot-shot Laspistol, Power Weapon, Sentry flamer
+
+“Helljumpers Prime” 10x Tempestus Aquilons (90 pts)
+• 9x Tempestus Aquilon
+7 with Close Combat Weapon, Hot-shot lascarbine
+1 with Close Combat Weapon, Hot-shot long las
+1 with Close Combat Weapon, Melta carbine
+• 1x Tempestor Aquilon: Close Combat Weapon, Hot-shot Laspistol, Power Weapon, Sentry flamer
+
+“Makgoro Mgalekgolo” Scout Sentinels (55 pts): Close Combat Weapon, Hunter-killer Missile, Sentinel Chainsaw, Lascannon
+

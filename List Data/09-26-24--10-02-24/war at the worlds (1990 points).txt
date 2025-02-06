@@ -1,0 +1,190 @@
+war at the worlds (1990 points)
+
+T'au Empire
+Strike Force (2000 points)
+Retaliation Cadre
+
+
+CHARACTERS
+
+Commander Farsight (105 points)
+• 1x Dawn Blade
+1x High-intensity plasma rifle
+
+Commander in Coldstar Battlesuit (115 points)
+• Warlord
+• 1x Battlesuit fists
+1x Cyclic ion blaster
+1x High-output burst cannon
+2x Missile pod
+2x Shield Drone
+• Enhancement: Starflare Ignition System
+
+Commander in Coldstar Battlesuit (95 points)
+• 1x Battlesuit fists
+1x Cyclic ion blaster
+1x High-output burst cannon
+2x Missile pod
+2x Shield Drone
+
+Commander in Enforcer Battlesuit (80 points)
+• 1x Battlesuit fists
+1x Cyclic ion blaster
+3x Fusion blaster
+2x Shield Drone
+
+Commander in Enforcer Battlesuit (95 points)
+• 1x Battlesuit fists
+1x Cyclic ion blaster
+3x Missile pod
+2x Shield Drone
+• Enhancement: Prototype Weapon System
+
+
+BATTLELINE
+
+Strike Team (75 points)
+• 1x Support turret
+• 1x Fire Warrior Shas'ui
+• 1x Close combat weapon
+1x Guardian Drone
+1x Gun Drone
+1x Pulse pistol
+1x Pulse rifle
+• 9x Fire Warrior
+• 9x Close combat weapon
+9x Pulse pistol
+9x Pulse rifle
+
+Strike Team (75 points)
+• 1x Support turret
+• 1x Fire Warrior Shas'ui
+• 1x Close combat weapon
+1x Guardian Drone
+1x Gun Drone
+1x Pulse pistol
+1x Pulse rifle
+• 9x Fire Warrior
+• 9x Close combat weapon
+9x Pulse pistol
+9x Pulse rifle
+
+
+OTHER DATASHEETS
+
+Crisis Fireknife Battlesuits (130 points)
+• 1x Crisis Fireknife Shas'vre
+• 1x Battlesuit fists
+1x Gun Drone
+1x Marker Drone
+2x Missile pod
+• 2x Crisis Fireknife Shas'ui
+• 2x Battlesuit fists
+2x Gun Drone
+4x Missile pod
+2x Shield Drone
+
+Crisis Starscythe Battlesuits (110 points)
+• 1x Crisis Starscythe Shas'vre
+• 1x Battlesuit fists
+2x Burst cannon
+1x Gun Drone
+1x Marker Drone
+• 2x Crisis Starscythe Shas'ui
+• 2x Battlesuit fists
+4x Burst cannon
+2x Gun Drone
+2x Shield Drone
+
+Crisis Starscythe Battlesuits (110 points)
+• 1x Crisis Starscythe Shas'vre
+• 1x Battlesuit fists
+2x Burst cannon
+1x Gun Drone
+1x Marker Drone
+• 2x Crisis Starscythe Shas'ui
+• 2x Battlesuit fists
+4x Burst cannon
+2x Gun Drone
+2x Shield Drone
+
+Crisis Sunforge Battlesuits (150 points)
+• 1x Crisis Sunforge Shas'vre
+• 1x Battlesuit fists
+2x Fusion blaster
+1x Gun Drone
+1x Marker Drone
+• 2x Crisis Sunforge Shas'ui
+• 2x Battlesuit fists
+4x Fusion blaster
+2x Gun Drone
+2x Shield Drone
+
+Crisis Sunforge Battlesuits (150 points)
+• 1x Crisis Sunforge Shas'vre
+• 1x Battlesuit fists
+2x Fusion blaster
+1x Gun Drone
+1x Marker Drone
+• 2x Crisis Sunforge Shas'ui
+• 2x Battlesuit fists
+4x Fusion blaster
+2x Gun Drone
+2x Shield Drone
+
+Ghostkeel Battlesuit (160 points)
+• 1x Battlesuit Support System
+1x Cyclic ion raker
+1x Ghostkeel fists
+1x Twin fusion blaster
+
+Riptide Battlesuit (180 points)
+• 1x Ion accelerator
+2x Missile Drone
+1x Riptide fists
+1x Twin fusion blaster
+
+Riptide Battlesuit (180 points)
+• 1x Ion accelerator
+2x Missile Drone
+1x Riptide fists
+1x Twin fusion blaster
+
+Stealth Battlesuits (60 points)
+• 1x Stealth Shas'vre
+• 1x Battlesuit Support System
+1x Battlesuit fists
+1x Fusion blaster
+1x Homing Beacon
+1x Marker Drone
+1x Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+2x Burst cannon
+
+Stealth Battlesuits (60 points)
+• 1x Stealth Shas'vre
+• 1x Battlesuit Support System
+1x Battlesuit fists
+1x Fusion blaster
+1x Homing Beacon
+1x Marker Drone
+1x Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+2x Burst cannon
+
+Stealth Battlesuits (60 points)
+• 1x Stealth Shas'vre
+• 1x Battlesuit Support System
+1x Battlesuit fists
+1x Fusion blaster
+1x Homing Beacon
+1x Marker Drone
+1x Shield Drone
+• 2x Stealth Shas'ui
+• 2x Battlesuit fists
+2x Burst cannon
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

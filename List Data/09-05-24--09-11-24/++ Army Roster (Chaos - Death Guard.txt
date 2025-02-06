@@ -1,0 +1,86 @@
+++ Army Roster (Chaos - Death Guard) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Plague Company
+
+Show/Hide Options: Chaos Knights are visible, Nurgle Daemons are visible
+
++ Epic Hero +
+
+Typhus [80pts]
+
++ Character +
+
+Biologus Putrifier [60pts]
+
+Biologus Putrifier [60pts]
+
+Death Guard Sorcerer in Terminator Armour [70pts]: Combi-weapon, Plague fist, Warlord
+
+Foul Blightspawn [60pts]
+
++ Battleline +
+
+Plague Marines [180pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. Plague Marine w/ bubotic weapons
+. 4x Plague Marine w/ heavy plague weapon: 4x Heavy plague weapon, 4x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+. Plague Marine w/ special weapon: Meltagun
+. Plague Marine w/ special weapon: Meltagun
+
+Plague Marines [180pts]
+. Plague Champion: Heavy plague weapon, Plasma gun
+. Plague Marine w/ bubotic weapons
+. 4x Plague Marine w/ heavy plague weapon: 4x Heavy plague weapon, 4x Plague knives
+. 2x Plague Marine w/ plague spewer: 2x Plague knives, 2x Plague spewer
+. Plague Marine w/ special weapon: Meltagun
+. Plague Marine w/ special weapon: Meltagun
+
++ Infantry +
+
+Death Guard Cultists [50pts]
+. 6x Cultist: 6x Brutal assault weapon, 6x Cultist firearm
+. Cultist w/ flamer
+. Cultist w/ grenade launcher
+. Cultist w/ heavy stubber
+
+Deathshroud Terminators [240pts]
+. 5x Deathshroud Terminator: 5x Manreaper, 5x Plaguespurt gauntlet
+. Deathshroud Terminator Champion: 2x Plaguespurt gauntlet
+
+Poxwalkers [50pts]
+. 10x Poxwalker: 10x Improvised weapons
+
++ Vehicle +
+
+Foetid Bloat-drone [90pts]: Fleshmower
+
+Foetid Bloat-drone [90pts]: Fleshmower
+
+Foetid Bloat-drone [90pts]: Heavy blight launcher
+
++ Dedicated Transport +
+
+Death Guard Rhino [75pts]: Combi-weapon, Havoc launcher
+
+Death Guard Rhino [75pts]: Combi-weapon, Havoc launcher
+
++ Allied Units +
+
+Nurglings [40pts]
+. 3x Nurgling Swarm: 3x Diseased claws and teeth
+
+Rotigus [230pts]
+
+War Dog Karnivore [140pts]: Diabolus heavy stubber
+
+War Dog Karnivore [140pts]: Diabolus heavy stubber
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

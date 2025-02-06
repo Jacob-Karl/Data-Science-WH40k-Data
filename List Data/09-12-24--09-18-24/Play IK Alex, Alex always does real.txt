@@ -1,0 +1,88 @@
+"Play IK Alex, Alex always does really well with IK" ~ Violence (2000 points)
+
+Imperial Knights
+Strike Force (2000 points)
+Noble Lance
+
+
+CHARACTERS
+
+Canis Rex (435 points)
+• Warlord
+• 1x Chainbreaker las-impulsor
+1x Chainbreaker multi-laser
+1x Freedom's Hand
+
+Knight Crusader (470 points)
+• 1x Avenger gatling cannon
+1x Heavy flamer
+1x Questoris heavy stubber
+1x Stormspear rocket pod
+1x Thermal cannon
+1x Titanic feet
+• Enhancement: Mysterious Guardian
+
+
+BATTLELINE
+
+Armiger Helverin (140 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Helverin (140 points)
+• 2x Armiger autocannon
+1x Armoured feet
+1x Questoris heavy stubber
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+
+ALLIED UNITS
+
+Callidus Assassin (100 points)
+• 1x Neural shredder
+1x Phase sword and poison blades
+
+Eversor Assassin (120 points)
+• 1x Executioner pistol
+1x Power sword and neuro gauntlet
+
+Inquisitorial Agents (60 points)
+• 1x Tome‐skull
+• 5x Inquisitorial Agent
+• 5x Agent firearm
+5x Agent melee weapon
+1x Eviscerator
+1x Mystic stave
+1x Plasma pistol
+• 1x Gun Servitor
+• 1x Agent melee weapon
+1x Multi-melta
+
+Subductor Squad (85 points)
+• 1x Proctor-Subductor
+• 1x Arbites shotpistol
+1x Nuncio-acquila
+1x Shock maul
+• 9x Subductor
+• 9x Arbites shotpistol
+9x Shock maul
+• 1x Cyber-mastiff
+• 1x Mechanical bite
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

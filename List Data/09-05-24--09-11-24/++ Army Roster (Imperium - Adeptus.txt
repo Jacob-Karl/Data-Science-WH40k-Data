@@ -1,0 +1,63 @@
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,995pts] ++
+
+[Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Gladius Task Force
+
++ Epic Hero +
+
+Azrael [105pts]: Warlord
+
++ Character +
+
+Apothecary Biologis [85pts]: Fire Discipline
+
+Judiciar [85pts]: The Honour Vehement
+
++ Battleline +
+
+Intercessor Squad [80pts]: Astartes Grenade Launcher
+. Intercessor Sergeant: Bolt Rifle, Power Fist
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry +
+
+Assault Intercessors with Jump Packs [80pts]
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 4x Assault Intercessors with Jump Pack: 4x Astartes Chainsword, 3x Heavy Bolt Pistol, 1 Plasma Pistol
+
+Deathwing Knights [235pts]: Power Weapon, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Eradicator Squad [190pts]
+. 3x Eradicator: 3x Bolt Pistol, 3x Close Combat Weapon, 3x Melta Rifle
+. Eradicator Sergeant
+. Eradicator with Multi-melta
+. Eradicator with Multi-melta
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Inner Circle Companions [180pts]
+. 6x Inner Circle Companion: 6x Calibanite Greatsword, 6x Heavy Bolt Pistol
+
++ Vehicle +
+
+Land Raider Redeemer [285pts]: Hunter Killer Missile, Multi-melta, Storm Bolter
+
++ Allied Units +
+
+Callidus Assassin [100pts]
+
+++ Total: [1,995pts] ++
+

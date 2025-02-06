@@ -1,0 +1,118 @@
+++ Army Roster (Imperium - Adepta Sororitas) [1,990pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Bringers of Flame
+
+Show/Hide Options: Agents of the Imperium are visible
+
++ Epic Hero +
+
+
+Morvenn Vahl [160pts]
+
+Triumph of Saint Katherine [190pts]
+
++ Character +
+
+
+Canoness with Jump Pack [95pts]: Fire and Fury
+
+. Ministorum Hand Flamer and Power Weapon
+
+Canoness with Jump Pack [85pts]: Holy Eviscerator, Righteous Rage
+
++ Infantry +
+
+
+Dominion Squad [115pts]
+
+. 4x Dominion: 4x Bolt Pistol, 4x Boltgun, 4x Close combat weapon
+. Dominion Superior: Inferno pistol, Power weapon
+. Dominion w/ Simulacrum Imperialis
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+
+Dominion Squad [115pts]
+
+. 4x Dominion: 4x Bolt Pistol, 4x Boltgun, 4x Close combat weapon
+. Dominion Superior: Inferno pistol, Power weapon
+. Dominion w/ Simulacrum Imperialis
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+. Dominion w/ Special Weapon: Meltagun
+
+Seraphim Squad [170pts]
+
+. 5x Seraphim: 5x Close combat weapon
+
+. . 5x 2 Bolt Pistols: 10x Bolt Pistol
+. Seraphim Superior
+
+. . Plasma Pistol and Power Weapon
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+
+Seraphim Squad [170pts]
+
+. 5x Seraphim: 5x Close combat weapon
+
+. . 5x 2 Bolt Pistols: 10x Bolt Pistol
+. Seraphim Superior
+
+. . Plasma Pistol and Power Weapon
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+
+. . 2x Ministorum Hand Flamers
+
++ Vehicle +
+
+
+Castigator [150pts]: Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+
+Castigator [150pts]: Castigator autocannons, Hunter-Killer Missile, Storm bolter
+
+Castigator [150pts]: Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+
+Paragon Warsuits [210pts]
+
+. Paragon Superior: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+. Paragon Warsuit: Multi-melta, Paragon Storm Bolters, Paragon War Blade
+. Paragon Warsuit: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+
++ Dedicated Transport +
+
+
+Immolator [115pts]: Hunter-Killer Missile, Twin Multi-melta
+
+Immolator [115pts]: Hunter-Killer Missile, Twin Multi-melta
+
+++ Total: [1,990pts] ++
+
+Created with BattleScribe ()
+

@@ -1,0 +1,66 @@
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,925pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Azrael [105pts]: Warlord
+
++ Character +
+
+Librarian [65pts]
+
+Lieutenant [95pts]: Fire Discipline
+. Pistol, Master-crafted Bolt Rifle & Melee Weapon: Heavy Bolt Pistol, Master-crafted Bolt Rifle, Master-crafted Power Weapon
+
++ Infantry +
+
+Assault Intercessors with Jump Packs [80pts]
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol
+
+Assault Intercessors with Jump Packs [80pts]
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol
+
+Deathwing Knights [235pts]: Power Weapon, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Relic Weapon
+
+Deathwing Knights [235pts]: Mace of absolution, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Hellblaster Squad [230pts]
+. 9x Hellblaster: 9x Bolt Pistol, 9x Close Combat Weapon, 9x Plasma Incinerator
+. Hellblaster Sergeant: Plasma Pistol
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Inner Circle Companions [180pts]
+. 6x Inner Circle Companion: 6x Calibanite Greatsword, 6x Heavy Bolt Pistol
+
+Inner Circle Companions [180pts]
+. 6x Inner Circle Companion: 6x Calibanite Greatsword, 6x Heavy Bolt Pistol
+
++ Vehicle +
+
+Land Raider [240pts]: Hunter Killer Missile, Multi-melta, Storm Bolter
+
+++ Total: [1,925pts] ++
+
+Created with BattleScribe ()

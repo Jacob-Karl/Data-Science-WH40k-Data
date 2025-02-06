@@ -1,0 +1,38 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos Knights
++ DETACHMENT: Traitoris Lance
++ TOTAL ARMY POINTS: 1980
++ WARLORD: Char1: Chaos Cerastus Knight Lancer
++ ENHANCEMENT: /
++ NUMBER OF UNITS: 12
++++++++++++++++++++++++++++++++++++++++++++++++
+CHARACTERS
+
+Chaos Cerastus Knight Lancer (420 points)
+• Warlord
+• 1x Cerastus shock lance
+
+BATTLELINE
+War Dog Brigand (165 points) x 5
+• 1x Armoured feet
+1x Avenger chaincannon
+1x Daemonbreath spear
+1x Havoc multi-launcher
+
+War Dog Karnivore (140 points) x 4
+• 1x Havoc multi-launcher
+1x Reaper chaintalon
+1x Slaughterclaw
+
+
+ALLIED UNITS
+
+Beasts of Nurgle (65 points)
+• 1x Putrid appendages
+
+Plaguebearers (110 points)
+• 1x Plagueridden
+• 1x Plaguesword
+• 9x Plaguebearer
+• 9x Plaguesword
+

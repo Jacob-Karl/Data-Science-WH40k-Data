@@ -1,0 +1,122 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER: Gilles Kaye
++ TEAM: Ardentis Legio
++ FACTION KEYWORD: Astra Militarum
++ DETACHMENT: Born Soldiers
++ TOTAL ARMY POINTS: 2000
++ WARLORD: Lord Solar Leontus
++ ENHANCEMENT: /
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 6x Gaunt's Ghosts (100 pts)
+• 1x Ibram Gaunt
+1 with Bolt Pistol, Gaunt's Chainsword
+• 5x Tanith Ghost
+1 with Bragg's autocannon, Straight Silver Knife
+1 with Corbec's Hot-shot Lascarbine, Straight Silver Knife
+1 with Larkin's Long-las, Straight Silver Knife
+1 with Lascarbine, Mkoll's Straight Silver Knife
+1 with Rawne's Lascarbine, Straight Silver Knife
+
+Char2: 1x Lord Solar Leontus (125 pts)
+1 with Conquest, Konstantin's Hooves, Sol's Righteous Gaze
+• Warlord
+
+Char3: Militarum Tempestus Command Squad (70 Points)
+• 1x Tempestor Prime
+◦ 1x Command Rod
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 1x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Hot-shot volley gun
+◦ 1x Medi-pack
+◦ 1x Meltagun
+◦ 1x Plasma gun
+
+Char4: 1x Tank Commander (225 pts)
+1 with Armoured Tracks, Hunter-killer Missile, Demolisher Battle Cannon, Lascannon, 2x Militarum Plasma Cannon, Heavy Stubber
+
+Char5: 1x Tank Commander (225 pts)
+1 with Armoured Tracks, Hunter-killer Missile, Demolisher Battle Cannon, Lascannon, 2x Militarum Plasma Cannon, Heavy Stubber
+
+Char6: 1x Tank Commander (225 pts)
+1 with Armoured Tracks, Hunter-killer Missile, Demolisher Battle Cannon, Lascannon, 2x Militarum Plasma Cannon, Heavy Stubber
+
+BATTLELINE
+
+10x Catachan Jungle Fighters (55 pts)
+• 1x Jungle Fighter Sergeant
+1 with Close Combat Weapon, Laspistol
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Close Combat Weapon, Lasgun
+• Vox-caster
+
+10x Catachan Jungle Fighters (55 pts)
+• 1x Jungle Fighter Sergeant
+1 with Close Combat Weapon, Laspistol
+• 9x Jungle Fighter
+6 with Close Combat Weapon, Lasgun
+2 with Close Combat Weapon, Flamer
+1 with Close Combat Weapon, Lasgun
+• Vox-caster
+
+OTHER DATASHEETS
+
+Bullgryn Squad (220 Points)
+• 1x Bullgryn Bone 'ead
+◦ 1x Brute Shield
+◦ 1x Bullgryn maul
+◦ 1x Close combat weapon
+• 5x Bullgryn
+◦ 5x Brute Shield
+◦ 5x Bullgryn maul
+◦ 5x Close combat weapon
+
+Bullgryn Squad (220 Points)
+• 1x Bullgryn Bone 'ead
+◦ 1x Brute Shield
+◦ 1x Bullgryn maul
+◦ 1x Close combat weapon
+• 5x Bullgryn
+◦ 5x Brute Shield
+◦ 5x Bullgryn maul
+◦ 5x Close combat weapon
+
+10x Tempestus Aquilons (90 pts)
+• 1x Tempestor Aquilon
+1 with Close Combat Weapon, Hot-shot lascarbine, Sentry flamer
+• 9x Tempestus Aquilon
+7 with Close Combat Weapon, Hot-shot lascarbine
+1 with Close Combat Weapon, Hot-shot long las
+1 with Close Combat Weapon, Plasma carbine
+
+10x Tempestus Aquilons (90 pts)
+• 1x Tempestor Aquilon
+1 with Close Combat Weapon, Hot-shot lascarbine, Sentry flamer
+• 9x Tempestus Aquilon
+7 with Close Combat Weapon, Hot-shot lascarbine
+1 with Close Combat Weapon, Hot-shot long las
+1 with Close Combat Weapon, Plasma carbine
+
+10x Tempestus Scions (100 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 5x Hot-shot lasgun
+◦ 2x Hot-shot volley gun
+◦ 2x Plasma gun
+
+3x Scout Sentinels (165 pts)
+• 3x Scout Sentinel
+3 with Close Combat Weapon, Hunter-killer Missile, Sentinel Chainsaw, Lascannon
+
+1x Rapier Laser Destroyer (35 pts)
+

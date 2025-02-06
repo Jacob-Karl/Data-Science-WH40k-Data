@@ -1,0 +1,53 @@
++++++++++++++++++++++++++++++++++++++++++++++++ It might be 3" but it can fire and fade 12"
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Retaliation Cadre
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Commander in Coldstar Battlesuit
++ ENHANCEMENT: Internal Grenade Racks (on Char1: Commander in Coldstar Battlesuit)
+& Starflare Ignition System (on Char2: Commander in Coldstar Battlesuit)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (12x2) + (1x4) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Commander in Coldstar Battlesuit (115 pts): Warlord, 2x Shield Drone, Battlesuit fists, 4x Fusion blaster
+Enhancement: Internal Grenade Racks (+20 pts)
+Char2: 1x Commander in Coldstar Battlesuit (115 pts): 2x Shield Drone, Battlesuit fists, 2x Burst cannon, Cyclic ion blaster, High-output burst cannon
+Enhancement: Starflare Ignition System (+20 pts)
+
+10x Kroot Carnivores (65 pts)
+• 1x Long-quill: Close combat weapon, Kroot pistol, Kroot rifle
+• 1x Kroot Carnivore: Close combat weapon, Tanglebomb launcher
+• 8x Kroot Carnivores: 8 with Close combat weapon, Kroot rifle
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre: Battlesuit support system, Homing beacon, Marker Drone, Shield Drone, Battlesuit fists, Fusion blaster
+• 2x Stealth Shas'ui: 2 with Battlesuit fists, Burst cannon
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre: Battlesuit support system, Homing beacon, Marker Drone, Shield Drone, Battlesuit fists, Fusion blaster
+• 2x Stealth Shas'ui: 2 with Battlesuit fists, Burst cannon
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre: Battlesuit support system, Homing beacon, Marker Drone, Shield Drone, Battlesuit fists, Fusion blaster
+• 2x Stealth Shas'ui: 2 with Battlesuit fists, Burst cannon
+2x Broadside Battlesuits (180 pts)
+• 1x Broadside Shas'vre: 2x Shield Drone, Weapon support system, Crushing bulk, Heavy rail rifle, Seeker missile
+• 1x Broadside Shas'ui: Marker Drone, Shield Drone, Weapon support system, Crushing bulk, Heavy rail rifle, Seeker missile
+3x Crisis Starscythe Battlesuits (110 pts)
+• 1x Crisis Starscythe Shas'vre: Marker Drone, Battlesuit fists, 2x Burst cannon, Twin pulse carbine
+• 2x Crisis Starscythe Shas'ui: 2 with Shield Drone, Battlesuit fists, 2x Burst cannon, Twin pulse carbine
+3x Crisis Starscythe Battlesuits (110 pts)
+• 1x Crisis Starscythe Shas'vre: Marker Drone, Battlesuit fists, 2x T'au flamer, Twin pulse carbine
+• 2x Crisis Starscythe Shas'ui: 2 with Shield Drone, Battlesuit fists, 2x T'au flamer, Twin pulse carbine
+3x Crisis Starscythe Battlesuits (110 pts)
+• 1x Crisis Starscythe Shas'vre: Marker Drone, Battlesuit fists, 2x T'au flamer, Twin pulse carbine
+• 2x Crisis Starscythe Shas'ui: 2 with Shield Drone, Battlesuit fists, 2x T'au flamer, Twin pulse carbine
+3x Crisis Sunforge Battlesuits (150 pts)
+• 1x Crisis Sunforge Shas'vre: Marker Drone, Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+• 2x Crisis Sunforge Shas'ui: 2 with Shield Drone, Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+1x Ghostkeel Battlesuit (160 pts): Battlesuit support system, Ghostkeel fists, Cyclic ion raker, Twin fusion blaster
+1x Ghostkeel Battlesuit (160 pts): Battlesuit support system, Ghostkeel fists, Cyclic ion raker, Twin fusion blaster
+1x Hammerhead Gunship (145 pts): Armoured hull, Railgun, 2x Seeker missile, 2x Accelerator burst cannon
+1x Hammerhead Gunship (145 pts): Armoured hull, Railgun, 2x Seeker missile, 2x Accelerator burst cannon
+1x Piranha (60 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile
+1x Riptide Battlesuit (190 pts): Riptide fists, Ion accelerator, 2x Missile pod, Twin fusion blaster
+

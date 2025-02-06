@@ -1,0 +1,51 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Sons of Sanguinous
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char6: The Sanguinor
++ ENHANCEMENT: Icon of the Angel (on Char2: Sanguinary Priest with Jump Pack)
+& Visage of Death (on Char3: Sanguinary Priest with Jump Pack)
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (2x2) - Assassination: 7 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Captain with Jump Pack (85 pts): Bolt Pistol, Relic Shield, Thunder Hammer
+Char2: 1x Sanguinary Priest with Jump Pack (110 pts): Astartes Chainsword, Bolt Pistol
+Enhancement: Icon of the Angel (+10 pts)
+Char3: 1x Sanguinary Priest with Jump Pack (115 pts): Astartes Chainsword, Bolt Pistol
+Enhancement: Visage of Death (+15 pts)
+Char4: 1x Commander Dante (120 pts): Perdition, The Axe Mortalis
+Char5: 1x Lemartes (120 pts): Bolt Pistol, The Blood Crozius
+Char6: 1x The Sanguinor (140 pts): Warlord, Encarmine Broadsword
+Char7: 1x Callidus Assassin (100 pts): Neural shredder, Phase sword and poison blades
+
+10x Assault Intercessors with Jump Packs (160 pts)
+• 9x Assault Intercessors with Jump Pack
+7 with Astartes Chainsword, Heavy Bolt Pistol
+2 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Assault Intercessors with Jump Packs (80 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+5x Assault Intercessors with Jump Packs (80 pts)
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+• 1x Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+10x Death Company Marines with Jump Packs (280 pts): 10 with Power Fist, Inferno Pistol
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 4x Scouts: 4 with Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant: Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 4x Scouts: 4 with Bolt Pistol, Close Combat Weapon, Combat Knife
+10x Vanguard Veteran Squad with Jump Packs (210 pts)
+• 1x Vanguard Veteran Sergeant with Jump Pack: Storm Shield, Vanguard Veteran Weapon
+• 9x Vanguard Veterans with Jump Packs: 9 with Storm Shield, Vanguard Veteran Weapon
+1x Baal Predator (125 pts): Armoured Tracks, Hunter Killer Missile, Storm Bolter, 2 Heavy Flamers, Baal Flamestorm Cannon
+1x Death Company Dreadnought (145 pts): Magna-grapple, Blood Talons, Heavy Flamer, Meltagun
+

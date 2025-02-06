@@ -1,0 +1,102 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ Name: Looted tau and some Wierd friends:P
++ Theme song: Båtlåt - Robert broberg
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Mont'ka
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Commander Shadowsun
++ ENHANCEMENT: Strike Swiftly (on Char1: Ethereal)
++ NUMBER OF UNITS: 18
++ SECONDARY: - Bring It Down: (11x2) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Commander Shadowsun (100 pts)
+1 with Battlesuit fists, Flechette launcher, 2x High-energy fusion blaster, Light missile pod, Pulse pistol
+• Warlord
+
+Char2: 1x Ethereal (75 pts)
+1 with Honour stave
+Enhancement: Strike Swiftly (+25 pts)
+
+OTHER DATASHEETS
+
+10x Pathfinder Team (90 pts)
+• 1x Pathfinder Shas'ui
+1 with Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher
+• Marker Drone, Shield Drone, Grav-inhibitor drone
+• 9x Pathfinders
+6 with Close combat weapon, Pulse carbine, Pulse pistol
+3 with Close combat weapon, Ion rifle, Pulse pistol
+
+10x Pathfinder Team (90 pts)
+• 1x Pathfinder Shas'ui
+1 with Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher, Drone burst cannon
+• Marker Drone, Shield Drone, Recon droneDrone burst cannon
+• 9x Pathfinders
+6 with Close combat weapon, Pulse carbine, Pulse pistol
+3 with Close combat weapon, Ion rifle, Pulse pistol
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+1 with Battlesuit fists, Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+1 with Battlesuit fists, Burst cannon
+1 with Battlesuit fists, Burst cannon
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+1 with Battlesuit fists, Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+2 with Battlesuit fists, Burst cannon
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+1 with Battlesuit fists, Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+2 with Battlesuit fists, Burst cannon
+
+1x Ghostkeel Battlesuit (160 pts)
+1 with Ghostkeel fists, Cyclic ion raker, Twin fusion blaster
+• Battlesuit support system
+
+1x Ghostkeel Battlesuit (160 pts)
+1 with Ghostkeel fists, Cyclic ion raker, Twin fusion blaster
+• Battlesuit support system
+
+1x Hammerhead Gunship (145 pts)
+1 with Armoured hull, Ion cannon, Seeker missile, Seeker missile, 2x Smart missile system
+
+1x Hammerhead Gunship (145 pts)
+1 with Armoured hull, Ion cannon, 2x Seeker missile, 2x Smart missile system
+
+1x Hammerhead Gunship (145 pts)
+1 with Armoured hull, Ion cannon, 2x Seeker missile, 2x Smart missile system
+
+1x Piranha (55 pts)
+• 1x Piranhas
+1 with Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, Seeker missile, Seeker missile
+
+1x Piranha (55 pts)
+• 1x Piranhas
+1 with Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile
+
+1x Piranha (55 pts)
+• 1x Piranhas
+1 with Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile
+
+1x Riptide Battlesuit (180 pts)
+1 with Riptide fists, Ion accelerator, Missile pod, Missile pod, Twin plasma rifle
+
+1x Riptide Battlesuit (180 pts)
+1 with Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle
+
+1x Riptide Battlesuit (180 pts)
+1 with Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle
+

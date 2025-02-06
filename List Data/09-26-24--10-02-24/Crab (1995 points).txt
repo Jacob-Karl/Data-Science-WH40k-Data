@@ -1,0 +1,69 @@
+Crab (1995 points)
+
+Necrons
+Strike Force (2000 points)
+Hypercrypt Legion
+
+
+CHARACTERS
+
+C'tan Shard of the Nightbringer (295 points)
+• 1x Gaze of death
+1x Scythe of the Nightbringer
+
+Hexmark Destroyer (95 points)
+• 1x Close combat weapon
+1x Enmitic disintegrator pistols
+• Enhancement: Dimensional Overseer
+
+Lokhust Lord (105 points)
+• Warlord
+• 1x Lord's blade
+1x Resurrection Orb
+• Enhancement: Arisen Tyrant
+
+
+BATTLELINE
+
+Immortals (75 points)
+• 5x Immortal
+• 5x Close combat weapon
+5x Gauss blaster
+
+
+OTHER DATASHEETS
+
+Canoptek Spyders (75 points)
+• 1x Automaton claws
+1x Fabricator Claw Array (Aura)
+1x Gloom Prism (Aura)
+2x Particle beamer
+
+Deathmarks (60 points)
+• 5x Deathmark
+• 5x Close combat weapon
+5x Synaptic disintegrator
+
+Doomsday Ark (200 points)
+• 1x Armoured bulk
+1x Doomsday cannon
+2x Gauss flayer array
+
+Lokhust Heavy Destroyers (150 points)
+• 3x Lokhust Heavy Destroyer
+• 3x Close combat weapon
+3x Enmitic exterminator
+
+Seraptek Heavy Construct (540 points)
+• 2x Singularity generator
+1x Titanic forelimbs
+
+Tesseract Vault (400 points)
+• 1x Antimatter Meteor
+1x Cosmic Fire
+1x Time's Arrow
+• 1x Armoured bulk
+4x Tesla spheres
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

@@ -1,0 +1,70 @@
+FemininomeNorn!
+
+++ Army Roster (Xenos - Tyranids) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Synaptic Nexus
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Deathleaper [80pts]
+
+Old One Eye [150pts]
+
+The Swarmlord [240pts]: Warlord
+
++ Character +
+
+
+Neurotyrant [135pts]: Psychostatic Disruption
+
++ Battleline +
+
+
+Gargoyles [85pts]
+
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
+Gargoyles [85pts]
+
+. 10x Gargoyles: 10x Blinding Venom, 10x Fleshborer
+
++ Infantry +
+
+
+Barbgaunts [55pts]
+
+. 5x Barbgaunt: 5x Biocannon, 5x Xenos Claws and Teeth
+
+Biovores [50pts]: Biovore
+
+Lictor [60pts]
+
+Neurolictor [90pts]
+
+Raveners [75pts]
+
+. 3x Ravener: 3x Ravener claws and talons, 3x Thoracic bio-weapon
+
++ Monster +
+
+
+Maleceptor [170pts]
+
+Maleceptor [170pts]
+
+Norn Emissary [275pts]
+
+Norn Emissary [275pts]
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()
+

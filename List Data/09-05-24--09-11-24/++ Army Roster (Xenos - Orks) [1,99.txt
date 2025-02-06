@@ -1,0 +1,128 @@
+++ Army Roster (Xenos - Orks) [1,990pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Dread Mob
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Zodgrod Wortsnagga [80pts]: Da Grabzappa, Squigstoppa
+
++ Character +
+
+
+Big Mek with Shokk Attack Gun [85pts]: Close combat weapon, Gitfinder Gogglez, Grot assistant, Shokk attack gun, Warlord
+
+Big Mek with Shokk Attack Gun [90pts]: Close combat weapon, Grot assistant, Shokk attack gun, Smoky Gubbinz
+
+Big Mek with Shokk Attack Gun [75pts]: Close combat weapon, Grot assistant, Shokk attack gun
+
++ Infantry +
+
+
+Flash Gitz [160pts]: Ammo Runt
+
+. 9x Flash Gitz: 9x Choppa, 9x Snazzgun
+. Kaptin: Choppa, Snazzgun
+
+Flash Gitz [160pts]: Ammo Runt
+
+. 9x Flash Gitz: 9x Choppa, 9x Snazzgun
+. Kaptin: Choppa, Snazzgun
+
+Flash Gitz [160pts]: Ammo Runt
+
+. 9x Flash Gitz: 9x Choppa, 9x Snazzgun
+. Kaptin: Choppa, Snazzgun
+
+Gretchin [80pts]
+
+. 2 Runtherds and 20 Gretchin
+
+. . 20x Gretchin: 20x Close combat weapon, 20x Grot blasta
+. . 2x Runtherd: 2x Grot-smacka, 2x Slugga
+
+Gretchin [80pts]
+
+. 2 Runtherds and 20 Gretchin
+
+. . 20x Gretchin: 20x Close combat weapon, 20x Grot blasta
+. . 2x Runtherd: 2x Grot-smacka, 2x Slugga
+
+Gretchin [80pts]
+
+. 2 Runtherds and 20 Gretchin
+
+. . 20x Gretchin: 20x Close combat weapon, 20x Grot blasta
+. . 2x Runtherd: 2x Grot-smacka, 2x Slugga
+
+Gretchin [80pts]
+
+. 2 Runtherds and 20 Gretchin
+
+. . 20x Gretchin: 20x Close combat weapon, 20x Grot blasta
+. . 2x Runtherd: 2x Grot-smacka, 2x Slugga
+
+Gretchin [80pts]
+
+. 2 Runtherds and 20 Gretchin
+
+. . 20x Gretchin: 20x Close combat weapon, 20x Grot blasta
+. . 2x Runtherd: 2x Grot-smacka, 2x Slugga
+
+Lootas [100pts]
+
+. 2 Spanners and 8 Lootas
+
+. . 8x Loota: 8x Close combat weapon, 8x Deffgun
+. . Spanner: Close combat weapon, Kustom mega-blasta
+. . Spanner: Close combat weapon, Kustom mega-blasta
+
+Lootas [100pts]
+
+. 2 Spanners and 8 Lootas
+
+. . 8x Loota: 8x Close combat weapon, 8x Deffgun
+. . Spanner: Close combat weapon, Kustom mega-blasta
+. . Spanner: Close combat weapon, Kustom mega-blasta
+
+Lootas [100pts]
+
+. 2 Spanners and 8 Lootas
+
+. . 8x Loota: 8x Close combat weapon, 8x Deffgun
+. . Spanner: Close combat weapon, Kustom mega-blasta
+. . Spanner: Close combat weapon, Kustom mega-blasta
+
+Stormboyz [65pts]
+
+. Boss Nob: Power klaw, Slugga
+. 4x Stormboy: 4x Choppa, 4x Slugga
+
+Stormboyz [65pts]
+
+. Boss Nob: Power klaw, Slugga
+. 4x Stormboy: 4x Choppa, 4x Slugga
+
++ Vehicle +
+
+
+Mek Gunz [150pts]
+
+. 3x Mek Gun w/ Bubblechukka: 3x Bubblechukka, 3x Grot crew
+
+Mek Gunz [100pts]
+
+. 2x Mek Gun w/ Bubblechukka: 2x Bubblechukka, 2x Grot crew
+
+Mek Gunz [100pts]
+
+. 2x Mek Gun w/ Bubblechukka: 2x Bubblechukka, 2x Grot crew
+
+++ Total: [1,990pts] ++

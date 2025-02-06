@@ -1,0 +1,49 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Daemons
++ DETACHMENT: Daemonic Incursion (Warp Rifts)
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Chaos Knights
++
++ WARLORD: Char3: Great Unclean One
++ ENHANCEMENT: A'rgath, the King of Blades (on Char1: Bloodthirster)
+& The Endless Gift (on Char2: Great Unclean One)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (2x2) + (1x4) + (1x6) - Assassination: 4 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Skulltaker (85 pts): The Slayer Sword
+Char2: 1x Bloodthirster (325 pts): Hellfire breath, Great axe of Khorne
+Enhancement: A'rgath, the King of Blades (+20 pts)
+Char3: 1x Great Unclean One (260 pts): Warlord, Putrid vomit, Doomsday bell, Plague flail
+Enhancement: The Endless Gift (+30 pts)
+Char4: 1x Rendmaster on Blood Throne (150 pts): Attendant's hellblades, Blade of blood
+
+10x Bloodletters (120 pts)
+8 with Hellblade
+1 with Instrument of Chaos, Hellblade
+1 with Daemonic Icon, Hellblade
+3x Nurglings (40 pts): 3 with Diseased claws and teeth
+10x Plaguebearers (110 pts)
+8 with Plaguesword
+1 with Instrument of Chaos, Plaguesword
+1 with Daemonic Icon, Plaguesword
+
+6x Bloodcrushers (220 pts)
+• 5x Bloodcrusher
+3 with Hellblade, Juggernaut's bladed horn
+1 with Instrument of Chaos, Hellblade, Juggernaut's bladed horn
+1 with Daemonic Icon, Hellblade, Juggernaut's bladed horn
+• 1x Bloodhunter: Hellblade, Juggernaut's bladed horn
+1x Beasts of Nurgle (70 pts): Putrid appendages
+1x Beasts of Nurgle (70 pts): Putrid appendages
+1x Beasts of Nurgle (70 pts): Putrid appendages
+5x Flesh Hounds (70 pts)
+• 4x Flesh Hound: 4 with Collar of Khorne, Gore-drenched fangs
+• 1x Gore Hound: Collar of Khorne, Burning maw, Gore-drenched fangs
+5x Flesh Hounds (70 pts)
+• 4x Flesh Hound: 4 with Collar of Khorne, Gore-drenched fangs
+• 1x Gore Hound: Collar of Khorne, Burning maw, Gore-drenched fangs
+
+1x War Dog Brigand (170 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+1x War Dog Brigand (170 pts): Armoured feet, Avenger chaincannon, Daemonbreath spear, Havoc multi-launcher
+

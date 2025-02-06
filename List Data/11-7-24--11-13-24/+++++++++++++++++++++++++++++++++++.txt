@@ -1,0 +1,147 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Space Marines
++ DETACHMENT: Emperor's Children, Veterans of the Long War
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char3: Lucius the Eternal
++ ENHANCEMENT: Warmaster's Gift (on Char1: Chaos Lord)
+& Eye of Abaddon (on Char2: Chaos Lord)
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+CHARACTER
+
+1x Cypher (90 pts)
+• 1x Cypher's bolt pistol
+• 1x Cypher's plasma pistol
+
+2x Fabius Bile (85 pts)
+• 1x Fabius Bile
+• 1x Rod of Torment
+• 1x The Chirurgeon
+• 1x Xyclos needler
+• 1x Surgeon Acolyte
+• 1x Surgeon Acolyte's tools
+
+1x Lucius the Eternal (95 pts)
+• 1x Doom siren
+• 1x Duellist's sword and Lash of Torment
+• Warlord
+
+1x Chaos Lord (105 pts)
+• 1x Daemon hammer
+• 1x Plasma pistol
+• Warmaster's Gift (+15 pts)
+
+1x Chaos Lord (105 pts)
+• 1x Daemon hammer
+• 1x Plasma pistol
+• Eye of Abaddon (+15 pts)
+
+BATTLELINE
+
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion
+• 1x Brutal assault weapon
+• 1x Autopistol
+• 9x Cultist
+• 9x Autopistol
+• 9x Brutal assault weapon
+
+5x Legionaries (90 pts)
+• 1x Aspiring Champion
+• 1x Close combat weapon
+• 1x Heavy melee weapon
+• 1x Plasma pistol
+• 4x Legionary
+• 2x Astartes chainsword
+• 6x Bolt pistol
+• 6x Close combat weapon
+• 1x Heavy melee weapon
+• 1x Lascannon
+• Chaos icon
+
+5x Legionaries (90 pts)
+• 1x Aspiring Champion
+• 1x Close combat weapon
+• 1x Heavy melee weapon
+• 1x Plasma pistol
+• 4x Legionary
+• 2x Astartes chainsword
+• 6x Bolt pistol
+• 6x Close combat weapon
+• 1x Heavy melee weapon
+• 1x Lascannon
+• Chaos icon
+
+OTHER DATASHEETS
+
+10x Chosen (250 pts)
+• 10x Chosen
+• 4x Accursed weapon
+• 4x Bolt pistol
+• 4x Boltgun
+• 4x Combi-weapon
+• 2x Paired accursed weapons
+• 4x Plasma pistol
+• 2x Power fist
+• Chaos icon
+
+5x Chosen (125 pts)
+• 5x Chosen
+• 2x Accursed weapon
+• 2x Bolt pistol
+• 2x Boltgun
+• 2x Combi-weapon
+• 1x Paired accursed weapons
+• 2x Plasma pistol
+• 1x Power fist
+• Chaos icon
+
+2x Obliterators (160 pts)
+• 2x Obliterator
+• 2x Crushing fists
+• 2x Fleshmetal guns
+
+2x Obliterators (160 pts)
+• 2x Obliterator
+• 2x Crushing fists
+• 2x Fleshmetal guns
+
+3x Chaos Bikers (70 pts)
+• 1x Biker Champion
+• 1x Close combat weapon
+• 1x Combi-bolter
+• 1x Power fist
+• 2x Biker
+• 2x Close combat weapon
+• 2x Combi-bolter
+• 2x Plasma gun
+• 2x Astartes chainsword
+• Chaos icon
+
+1x Chaos Vindicator (185 pts)
+• 1x Armoured tracks
+• 1x Demolisher cannon
+• 1x Havoc launcher
+• 1x Combi-weapon
+
+1x Chaos Vindicator (185 pts)
+• 1x Armoured tracks
+• 1x Demolisher cannon
+• 1x Havoc launcher
+• 1x Combi-weapon
+
+1x Chaos Rhino (75 pts)
+• 1x Armoured tracks
+• 1x Combi-bolter
+• 1x Havoc launcher
+• 1x Combi-weapon
+
+1x Chaos Rhino (75 pts)
+• 1x Armoured tracks
+• 1x Combi-bolter
+• 1x Havoc launcher
+• 1x Combi-weapon
+

@@ -1,0 +1,94 @@
+Necrons
+Strike Force (2000 Point)
+Awakened Dynasty
+CHARACTER
+
+Chronomancer (85 points)
+• 1x Aeonstave
+• 1x Veil of darkness [+20 points]
+• Enhancement: Veil of Darkness
+
+Hexmark Destroyer (70 points)
+• 1x Close combat weapon
+• 1x Enmitic disintegrator pistols
+
+Illuminor Szeras (175 points)
+• Warlord
+• 1x Eldritch lance
+• 1x Impaling legs
+
+Overlord (100 points)
+• 1x Enaegic dermal bond [+15 points]
+• 1x Resurrection orb
+• 1x Voidscythe
+• Enhancement: Enaegic Dermal Bond
+
+Plasmancer (65 points)
+• 1x Plasmic lance
+
+Technomancer (105 points)
+• 1x Nether-realm casket [+20 points]
+• 1x Staff of light
+• Enhancement: Nether-realm Casket
+
+
+BATTLELINE
+
+Immortals (150 points)
+• 10x Immortals
+• 10x Gauss Blaster
+• 10x Close Combat Weapon
+
+Immortals (150 points)
+• 10x Immortals
+• 10x Close Combat Weapon
+• 10x Tesla Carbine
+
+Immortals (150 points)
+• 10x Immortals
+• 10x Gauss Blaster
+• 10x Close Combat Weapon
+
+
+OTHER DATASHEETS
+
+Canoptek Reanimator (75 points)
+• 2x Atomiser beams
+• 1x Reanimator's claws
+
+Canoptek Scarab Swarms (40 points)
+• 3x Canoptek Scarab Swarms
+• 3x Feeder Mandibles
+
+Cryptothralls (60 points)
+• 2x Cryptothralls
+• 2x Scouring Eye
+• 2x Scythed Limbs
+
+Doomsday Ark (190 points)
+• 2x Gauss flayer arrays
+• 1x Armoured bulk
+• 1x Doomsday cannon
+
+Doomsday Ark (190 points)
+• 2x Gauss flayer arrays
+• 1x Armoured bulk
+• 1x Doomsday cannon
+
+Doomsday Ark (190 points)
+• 2x Gauss flayer arrays
+• 1x Armoured bulk
+• 1x Doomsday cannon
+
+Flayed Ones (60 points)
+• 5x Flayed Ones
+• 5x Flayer Claws
+
+Flayed Ones (60 points)
+• 5x Flayed Ones
+• 5x Flayer Claws
+
+Lychguard (85 points)
+• 5x Lychguard
+• 5x Hyperphase Sword and Dispersion Shield
+

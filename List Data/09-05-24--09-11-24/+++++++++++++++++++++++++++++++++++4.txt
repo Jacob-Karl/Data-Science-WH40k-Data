@@ -1,0 +1,110 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: CHEN Liang
++ TEAM NAME: 702
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Space Wolves
++ DETACHMENT: Stormlance Task Force
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char5: Logan Grimnar on Stormrider
++ ENHANCEMENT:
++ NUMBER OF UNITS: 16
++ SECONDARY: - Bring It Down: (1x2) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Wolf Guard Battle Leader on Thunderwolf (80 pts)
+1 with Crushing teeth and claws, Thunder hammer, Close combat weapon
+• Storm shield and close combat weaponClose combat weapon
+
+Char2: 1x Wolf Guard Battle Leader on Thunderwolf (80 pts)
+1 with Crushing teeth and claws, Thunder hammer, Close combat weapon
+• Storm shield and close combat weaponClose combat weapon
+
+Char3: 1x Wolf Lord on Thunderwolf (100 pts)
+1 with Crushing teeth and claws, Thunder Hammer, Close combat weapon
+• Relic shield and close combat weaponClose combat weapon
+
+Char4: 1x Bjorn the Fell-Handed (180 pts)
+1 with Heavy Flamer, Trueclaw, Twin lascannon
+
+Char5: 1x Logan Grimnar on Stormrider (180 pts)
+1 with Flurry of teeth and claws, Storm Bolter, The Axe Morkai
+• Warlord
+
+BATTLELINE
+
+5x Intercessor Squad (80 pts)
+• 1x Intercessor Sergeant
+1 with Bolt Pistol, Plasma Pistol, Power Fist
+• 4x Intercessors
+4 with Bolt Pistol, Bolt Rifle, Close Combat Weapon, Astartes Grenade Launcher
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Close Combat Weapon, Combat Knife
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Close Combat Weapon, Combat Knife
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+2 with Bolt Pistol, Close Combat Weapon, Combat Knife
+
+10x Wulfen (180 pts)
+• 10x Wulfen
+10 with Stormfrag auto-launcher, Wulfen hammer
+• Storm shield
+
+10x Wulfen (180 pts)
+• 10x Wulfen
+10 with Stormfrag auto-launcher, Wulfen hammer
+• Storm shield
+
+10x Wulfen (180 pts)
+• 10x Wulfen
+10 with Stormfrag auto-launcher, Wulfen hammer
+• Storm shield
+
+6x Thunderwolf Cavalry (200 pts)
+• 6x Thunderwolf
+6 with Crushing teeth and claws, Heirloom weapon
+• Storm shield
+
+6x Thunderwolf Cavalry (200 pts)
+• 6x Thunderwolf
+6 with Crushing teeth and claws, Heirloom weapon
+• Storm shield
+

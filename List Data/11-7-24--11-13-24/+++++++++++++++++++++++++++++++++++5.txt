@@ -1,0 +1,35 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Niklas "Mosbach" Fritschen
++ TEAM NAME: Team Germany
++ FACTION KEYWORD: Chaos - Chaos Daemons
++ DETACHMENT: Daemonic Incursion (The Shadow of Chaos)
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char1: Be'lakor
++ ENHANCEMENT: The Everstave (on Char1: Lord of Change)
++ NUMBER OF UNITS: 12
++ SECONDARY: - Bring It Down: (2x4) + (2x6) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Be'lakor (325 pts): Warlord, Betraying Shades, The Blade of Shadows
+Char2: 1x Kairos Fateweaver (270 pts): Infernal Gateway, Staff of Tomorrow
+Char3: 1x Shalaxi Helbane (425 pts): Lash of Slaanesh, Pavane of Slaanesh, Snapping claws, Soulpiercer
+Char4: 1x The Changeling (90 pts): Infernal Flames, The Trickster's Staff
+Char5: 1x Lord of Change (285 pts): Bolt of Change, Staff of Tzeentch, Rod of sorcery
+Enhancement: The Everstave (+25 pts)
+
+3x Nurglings (40 pts): 3 with Diseased claws and teeth
+10x Pink Horrors (140 pts)
+8 with Coruscating Pink flames, Pink claws
+1 with Instrument of Chaos, Coruscating Pink flames, Pink claws
+1 with Daemonic Icon, Coruscating Pink flames, Pink claws
+10x Plaguebearers (110 pts)
+8 with Plaguesword
+1 with Instrument of Chaos, Plaguesword
+1 with Daemonic Icon, Plaguesword
+
+5x Seekers (80 pts): 5 with Lashing tongues, Slashing claws
+3x Screamers (75 pts): 3 with Lamprey bite
+3x Screamers (75 pts): 3 with Lamprey bite
+3x Screamers (75 pts): 3 with Lamprey bite
+

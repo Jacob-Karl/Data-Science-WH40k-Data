@@ -1,0 +1,32 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Player Name: Степан Зотов
+Factions used: Chaos Space Marines
+Army Points: 2000
+Detachment: Deceptors Detachment
+
+Number of Units: 15
+Character Units (Models): 4 (4)
+Vehicle/Monster Models: 2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HQ1: Abaddon the Despoiler [295pts]
+HQ2: Cypher [90pts]
+HQ3: Chaos Lord, Plasma Pistol, Daemon Hammer [90pts] Falsehood [10pts]
+HQ4: Chaos Sorcerer [60pts] Soul Link [5pts]
+
+Troops1: 10 man Legionaries (180), Balefire Tome, Lascannon, Havoc Autocannon, 2 Heavy MW, 5 Chainswords, Chaos Icon [180pts]
+Troops2: 10 man Legionaries (180), Balefire Tome, Lascannon, Havoc Autocannon, 2 Heavy MW, 5 Chainswords, Chaos Icon [180pts]
+Troops3: 10 man Cultists (50), Bolt Pistol [50pts]
+Troops4: 10 man Cultists (50), Bolt Pistol [50pts]
+
+
+Elites1: 5 man Chosen, Chaos Icon, 2 Plasma Pistols, 2 Combi-weapons, Power Fist, Paired Accurse Weapons [125pts]
+Elites2: Helbrute, TL Lascannon, Missile Launcher [130pts]
+
+FA1: 3 man Chaos Bikers, 2 Meltaguns, Power Fist, Chaos Icon [70pts]
+FA2: 3 man Chaos Bikers, 2 Meltaguns, Power Fist, Chaos Icon [70pts]
+
+HS1: Chaos Vindicator (185), Combi-weapon, Havoc Launcher [185pts]
+HS2: 2 Obliterators [170pts]
+HS3: Land Raider, Combi-weapon, Havoc Launcher [240pts]
+

@@ -1,0 +1,31 @@
+Army name: TS med monster
+Factions used: Chaos - Thousand Sons
+Total cost: 2000 pts
+
+Number of Units: 15
+Character Units (Models): 7 (7)
+Vehicle/Monster Models (Max Points): 5 (16)
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+== Cult of Magic Army Roster 2000 pts ==
+
+EH1: Magnus the Red: Warlord [440 pts]
+
+CH1: Exalted Sorcerer on Disc of Tzeentch: Lord of Forbidden Lore, Warpflame pistol [140 pts]
+CH2: Exalted Sorcerer on Disc of Tzeentch: Warpflame pistol [105 pts]
+CH3: Exalted Sorcerer on Disc of Tzeentch: Inferno bolt pistol [105 pts]
+CH4: Infernal Master: Arcane Vortex [115 pts]
+CH5: Infernal Master: Umbralefic Crystal [110 pts]
+CH6: Infernal Master [90 pts]
+
+BL1: Rubric Marines: Aspiring Sorcerer (Inferno bolt pistol), Rubric Marine w/ soulreaper cannon, 3xRubric Marine w/ warpflamer [105 pts]
+BL2: Rubric Marines: Aspiring Sorcerer (Inferno bolt pistol), Rubric Marine w/ soulreaper cannon, 3xRubric Marine w/ warpflamer [105 pts]
+BL3: Rubric Marines: Aspiring Sorcerer (Inferno bolt pistol), Rubric Marine w/ soulreaper cannon, 3xRubric Marine w/ warpflamer [105 pts]
+
+IN1: Thousand Sons Cultists: 6xCultist, Cultist w/ flamer, Cultist w/ grenade launcher, Cultist w/ heavy stubber, Thousand Sons Cultist Champion [55 pts]
+
+MS1: Mutalith Vortex Beast [150 pts]
+MS2: Mutalith Vortex Beast [150 pts]
+MS3: Mutalith Vortex Beast [150 pts]
+
+DT1: Thousand Sons Rhino: Inferno combi-weapon [75 pts]

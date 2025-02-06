@@ -1,0 +1,64 @@
+++ Army Roster (Imperium - Grey Knights) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Teleport Strike Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Kaldor Draigo [125pts]: Warlord
+
++ Character +
+
+Brotherhood Librarian [120pts]: Storm Bolter
+
+Brotherhood Librarian [120pts]: Storm Bolter
+
+Grand Master [125pts]: Incinerator, Sigil of Exigence
+
++ Battleline +
+
+Brotherhood Terminator Squad [420pts]
+. 5x Terminator: 5x Nemesis Force Weapon, 5x Storm Bolter
+. Terminator with Ancient's Banner: Storm Bolter
+. Terminator with Heavy Weapon: Incinerator
+. Terminator with Heavy Weapon: Incinerator
+. Terminator with Narthecium
+
+Brotherhood Terminator Squad [210pts]
+. Terminator
+. Terminator with Ancient's Banner: Storm Bolter
+. Terminator with Heavy Weapon: Incinerator
+. Terminator with Narthecium
+
+Brotherhood Terminator Squad [210pts]
+. Terminator
+. Terminator with Ancient's Banner: Storm Bolter
+. Terminator with Heavy Weapon: Incinerator
+. Terminator with Narthecium
+
+Strike Squad [120pts]
+. 4x Grey Knight: 4x Nemesis Force Weapon, 4x Storm Bolter
+. Justicar
+
++ Infantry +
+
+Paladin Squad [450pts]
+. 4x Paladin: 4x Nemesis Force Weapon, 4x Storm Bolter
+. Paladin with Ancient's Banner: Incinerator
+. Paladin with Heavy Weapon: Incinerator
+. Paladin with Heavy Weapon: Incinerator
+. Paladin with Heavy Weapon: Incinerator
+. Paladin with Heavy Weapon: Incinerator
+. Paragon
+
++ Allied Units +
+
+Callidus Assassin [100pts]
+
+++ Total: [2,000pts] ++
+

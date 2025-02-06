@@ -1,0 +1,80 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Imperial Knights
++ DETACHMENT: Noble Lance
++ TOTAL ARMY POINTS: 1995pts
++ ALLIED UNITS: Agents of the Imperium
++
++ ENHANCEMENT:
++ WARLORD: Rouge Trader Entourage
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (12x2) - Assassination: 1 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+BATTLELINE
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Helverin (140 pts)
+1 with 2x Armiger autocannon, Armoured feet, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+1x Armiger Warglaive (150 pts)
+1 with Reaper chain-cleaver, Thermal spear, Questoris heavy stubber
+
+ALLIED UNITS
+
+10x Imperial Navy Breachers (90 pts)
+• 9x Navis Armsman
+7 with Close combat weapon, Navis shotgun
+1 with Close combat weapon, Navis las-volley
+1 with Close combat weapon, Navis heavy shotgun
+• Endurant shield
+• 1x Navis Sergeant-at-Arms
+1 with Close combat weapon, Navis shotgun
+
+6x Inquisitorial Agents (60 pts)
+• 5x Agent
+5 with Agent firearm, Agent melee weapon
+• 1x Servitor
+1 with Agent melee weapon, Heavy bolter
+
+CHARACTER
+
+Char1: 4x Rogue Trader Entourage (105 pts)
+• 1x Death Cult Assassin
+1 with Dartmask, Death Cult power blade
+• 1x Lectro-maester
+1 with Close combat weapon, Voltaic pistol
+• 1x Rejuvenant Adept
+1 with Close combat weapon, Laspistol
+• Healing Serum
+• 1x Rogue Trader
+1 with Household pistol, Monomolecular cane-rapier
+

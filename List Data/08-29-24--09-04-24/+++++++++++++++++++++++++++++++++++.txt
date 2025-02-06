@@ -1,0 +1,152 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Player Name: Borja Fernández Merchán
+Factions Used: Space Marines - Blood Angels
+Army Points: 2.000
+Army Enhancements (list on which model): Fire Discipline (Apothecary Biologis)
+Detachment Rule: Gladius Task Force - Combat Doctrines
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ed, Edd & Eddy (2000 points)
+
+Space Marines
+Blood Angels
+Strike Force (2000 points)
+Gladius Task Force
+
+
+CHARACTERS
+
+Apothecary Biologis (85 points)
+• 1x Absolvor bolt pistol
+1x Close combat weapon
+• Enhancement: Fire Discipline
+
+Librarian in Phobos Armour (70 points)
+• Warlord
+• 1x Bolt pistol
+1x Force weapon
+1x Smite
+
+
+OTHER DATASHEETS
+
+Baal Predator (125 points)
+• 1x Armoured tracks
+1x Baal flamestorm cannon
+2x Heavy flamer
+1x Hunter-killer missile
+1x Storm bolter
+
+Baal Predator (125 points)
+• 1x Armoured tracks
+1x Baal flamestorm cannon
+2x Heavy flamer
+1x Hunter-killer missile
+1x Storm bolter
+
+Baal Predator (125 points)
+• 1x Armoured tracks
+1x Baal flamestorm cannon
+2x Heavy flamer
+1x Hunter-killer missile
+1x Storm bolter
+
+Centurion Devastator Squad (185 points)
+• 1x Devastator Centurion Sergeant
+• 1x Centurion fists
+1x Centurion missile launcher
+1x Twin lascannon
+• 2x Devastator Centurion
+• 2x Centurion fists
+2x Centurion missile launcher
+2x Twin lascannon
+
+Death Company Dreadnought (145 points)
+• 1x Blood talons
+1x Heavy flamer
+1x Magna-grapple
+1x Meltagun
+
+Death Company Dreadnought (145 points)
+• 1x Heavy flamer
+1x Magna-grapple
+1x Meltagun
+1x Twin Furioso fists
+
+Death Company Dreadnought (145 points)
+• 1x Heavy flamer
+1x Magna-grapple
+1x Meltagun
+1x Twin Furioso fists
+
+Eradicator Squad (190 points)
+• 1x Eradicator Sergeant
+• 1x Bolt pistol
+1x Close combat weapon
+1x Melta rifle
+• 5x Eradicator
+• 5x Bolt pistol
+5x Close combat weapon
+3x Melta rifle
+2x Multi-melta
+
+Inceptor Squad (130 points)
+• 1x Inceptor Sergeant
+• 1x Close combat weapon
+1x Plasma exterminators
+• 2x Inceptor
+• 2x Close combat weapon
+2x Plasma exterminators
+
+Inceptor Squad (130 points)
+• 1x Inceptor Sergeant
+• 1x Close combat weapon
+1x Plasma exterminators
+• 2x Inceptor
+• 2x Close combat weapon
+2x Plasma exterminators
+
+Infiltrator Squad (100 points)
+• 1x Infiltrator Sergeant
+• 1x Bolt pistol
+1x Close combat weapon
+1x Marksman bolt carbine
+• 4x Infiltrator
+• 4x Bolt pistol
+4x Close combat weapon
+1x Helix Gauntlet
+1x Infiltrator Comms Array
+4x Marksman bolt carbine
+
+Librarian Dreadnought (170 points)
+• 1x Blood Lance
+1x Furioso fist
+1x Furioso force halberd
+1x Meltagun
+
+Scout Squad (65 points)
+• 1x Scout Sergeant
+• 1x Astartes chainsword
+1x Bolt pistol
+1x Close combat weapon
+• 4x Scout
+• 4x Bolt pistol
+4x Close combat weapon
+2x Combat knife
+1x Missile launcher
+1x Scout sniper rifle
+
+Scout Squad (65 points)
+• 1x Scout Sergeant
+• 1x Astartes chainsword
+1x Bolt pistol
+1x Close combat weapon
+• 4x Scout
+• 4x Bolt pistol
+4x Close combat weapon
+2x Combat knife
+1x Missile launcher
+1x Scout sniper rifle
+
+Exported with App Version: v1.18.0 (46), Data Version: v434
+

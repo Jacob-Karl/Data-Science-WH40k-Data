@@ -1,0 +1,79 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Tyranids
++ DETACHMENT: Crusher Stampede
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Hive Tyrant
++ ENHANCEMENT:
++ NUMBER OF UNITS: 14
++ SECONDARY: - Bring It Down: (5x2) + (3x4) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Hive Tyrant (235 pts)
+• 1x Monstrous Bonesword and Lash Whip
+• 1x Heavy Venom Cannon
+• Warlord
+
+1x Neurotyrant (105 pts)
+• 1x Neurotyrant claws and lashes
+• 1x Psychic scream
+
+BATTLELINE
+
+10x Hormagaunts (65 pts)
+• 10x Hormagaunts
+• 10x Hormagaunt talons
+
+OTHER DATASHEETS
+
+1x Biovores (50 pts)
+• 1x Biovore
+• 1x Chitin-barbed Limbs
+• 1x Spore Mine Launcher
+
+1x Lictor (55 pts)
+• 1x Lictor Claws and Talons
+
+1x Lictor (55 pts)
+• 1x Lictor Claws and Talons
+
+1x Lictor (55 pts)
+• 1x Lictor Claws and Talons
+
+6x Zoanthropes (200 pts)
+• 1x Neurothrope
+• 1x Warp Blast
+• 1x Xenos Claws and Teeth
+• 5x Zoanthrope
+• 5x Warp Blast
+• 5x Xenos Claws and Teeth
+
+1x Exocrine (135 pts)
+• 1x Bio-plasmic Cannon
+• 1x Powerful Limbs
+
+1x Exocrine (135 pts)
+• 1x Bio-plasmic Cannon
+• 1x Powerful Limbs
+
+1x Norn Emissary (275 pts)
+• 1x Monsterous Rending Talons
+• 1x Monsterous Scything Talons
+• 1x Psychic Tendril
+
+1x Norn Emissary (275 pts)
+• 1x Monsterous Rending Talons
+• 1x Monsterous Scything Talons
+• 1x Psychic Tendril
+
+1x Trygon (170 pts)
+• 1x Bio-electric Pulse
+• 1x Trygon Scything Talons
+
+1x Tyrannofex (190 pts)
+• 1x Powerful Limbs
+• 1x Stinger Salvoes
+• 1x Rupture Cannon
+

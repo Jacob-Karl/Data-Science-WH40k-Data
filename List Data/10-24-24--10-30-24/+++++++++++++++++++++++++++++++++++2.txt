@@ -1,0 +1,54 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Orks
++ DETACHMENT: Bully Boyz
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char2: Ghazghkull Thraka
++ ENHANCEMENT: 'Eadstompa (on Char3: Warboss)
+& Tellyporta (on Char5: Warboss in Mega Armour)
++ NUMBER OF UNITS: 19
++ SECONDARY: - Bring It Down: (1x2) + (1x4) - Assassination: 8 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Boss Snikrot (95 pts): Mork's Teeth, Slugga
+Char2: 2x Ghazghkull Thraka (235 pts): Warlord
+• 1x Ghazghkull Thraka: Gork's Klaw, Mork's Roar
+• 1x Makari: Makari's stabba
+Char3: 1x Big Mek in Mega Armour (90 pts): Grot oiler, Kustom force field, Kustom mega-blasta, Power klaw
+Char4: 1x Mek (45 pts): Kustom mega-slugga, Wrench
+Char5: 1x Warboss (75 pts): Kombi-weapon, Twin slugga, Attack squig, Power klaw
+Enhancement: 'Eadstompa (+10 pts)
+Char6: 1x Warboss (65 pts): Kombi-weapon, Twin slugga, Attack squig, Power klaw
+Char7: 1x Warboss in Mega Armour (105 pts): 'Uge choppa, Big shoota
+Enhancement: Tellyporta (+25 pts)
+Char8: 1x Weirdboy (65 pts): 'Eadbanger, Weirdboy staff
+
+10x Boyz (80 pts)
+• 1x Boss Nob: Power klaw, Slugga
+• 9x Boy: 9 with Choppa, Slugga
+10x Boyz (80 pts)
+• 1x Boss Nob: Power klaw, Slugga
+• 9x Boy: 9 with Choppa, Slugga
+
+10x Flash Gitz (160 pts): Ammo Runt
+• 1x Kaptin: Choppa, Snazzgun
+• 9x Flash Gitz: 9 with Choppa, Snazzgun
+11x Gretchin (40 pts)
+• 10x Gretchin: 10 with Close combat weapon, Grot blasta
+• 1x Runtherd: Grot-smacka, Slugga
+11x Gretchin (40 pts)
+• 10x Gretchin: 10 with Close combat weapon, Grot blasta
+• 1x Runtherd: Grot-smacka, Slugga
+5x Meganobz (175 pts): 5 with Twin killsaw
+5x Meganobz (175 pts): 5 with Twin killsaw
+5x Meganobz (175 pts)
+1 with Kombi-weapon, Power klaw
+1 with Kombi-weapon, Power klaw
+1 with Kombi-weapon, Power klaw
+1 with Kombi-weapon, Power klaw
+1 with Kombi-weapon, Power klaw
+3x Warbikers (70 pts)
+• 1x Boss Nob on Warbike: Close combat weapon, Twin dakkagun, Power klaw
+• 2x Warbiker: 2 with Choppa, Close combat weapon, Twin dakkagun
+1x Battlewagon (160 pts): 4x Big shoota, Grabbin' klaw, Lobba, Wreckin' ball, Kannon, Deff rolla
+1x Trukk (65 pts): Big shoota, Spiked wheels, Wreckin' ball

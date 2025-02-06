@@ -1,0 +1,146 @@
+Cancer (2000 Points)
+
+Adeptus Mechanicus
+Rad-Zone Corps
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Belisarius Cawl (150 Points)
+• Warlord
+• 1x Arc scourge
+• 1x Cawl's Omnissian axe
+• 1x Mechadendrite hive
+• 1x Solar atomiser
+
+Tech-Priest Dominus (95 Points)
+• 1x Omnissian axe
+• 1x Phosphor serpenta
+• 1x Volkite blaster
+• Enhancements: Peerless Eradicator
+
+Tech-Priest Dominus (75 Points)
+• 1x Omnissian axe
+• 1x Phosphor serpenta
+• 1x Volkite blaster
+
+BATTLELINE
+
+Skitarii Rangers (85 Points)
+• 1x Skitarii Ranger Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Mechanicus pistol
+• 9x Skitarii Ranger
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 6x Galvanic rifle
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 1x Transuranic arquebus
+
+Skitarii Rangers (85 Points)
+• 1x Skitarii Ranger Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Mechanicus pistol
+• 9x Skitarii Ranger
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 6x Galvanic rifle
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Mechanicus pistol
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Mechanicus pistol
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+DEDICATED TRANSPORTS
+
+Skorpius Dunerider (85 Points)
+• 1x Armoured hull
+• 1x Cognis heavy stubber array
+
+OTHER DATASHEETS
+
+Kataphron Breachers (320 Points)
+• 6x Kataphron Breacher
+◦ 6x Heavy arc rifle
+◦ 6x Hydraulic claw
+
+Kataphron Breachers (320 Points)
+• 6x Kataphron Breacher
+◦ 6x Heavy arc rifle
+◦ 6x Hydraulic claw
+
+Onager Dunecrawler (160 Points)
+• 1x Broad spectrum data-tether
+• 1x Cognis heavy stubber
+• 1x Cognis heavy stubber
+• 1x Dunecrawler legs
+• 1x Neutron laser
+
+Onager Dunecrawler (160 Points)
+• 1x Broad spectrum data-tether
+• 1x Cognis heavy stubber
+• 1x Cognis heavy stubber
+• 1x Dunecrawler legs
+• 1x Neutron laser
+
+Pteraxii Skystalkers (65 Points)
+• 1x Pteraxii Skystalker Alpha
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Pteraxii Skystalker
+◦ 4x Close combat weapon
+◦ 4x Flechette carbine
+
+Pteraxii Skystalkers (65 Points)
+• 1x Pteraxii Skystalker Alpha
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Pteraxii Skystalker
+◦ 4x Close combat weapon
+◦ 4x Flechette carbine
+
+Serberys Raiders (60 Points)
+• 1x Serberys Raider Alpha
+◦ 1x Cavalry sabre and clawed limbs
+◦ 1x Galvanic carbine
+◦ 1x Mechanicus pistol
+• 2x Serberys Raider
+◦ 2x Cavalry sabre and clawed limbs
+◦ 1x Enhanced data-tether
+◦ 2x Galvanic carbine
+
+ALLIED UNITS
+
+Inquisitor Draxus (95 Points)
+• 1x Dirgesinger
+• 1x Power fist
+• 1x Psychic Tempest
+
+Exported with App Version: v1.20.0 (44), Data Version: v464

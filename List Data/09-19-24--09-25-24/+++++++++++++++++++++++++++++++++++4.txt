@@ -1,0 +1,56 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Chaos Space Marines
++ DETACHMENT: Chaos Cult
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char4: Abaddon the Despoiler
++ ENHANCEMENT: Warped Foresight (on Char1: Dark Commune)
+& Cultist's Brand (on Char2: Dark Commune)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (4x2) - Assassination: 5 Characters - Cull The Horde: 3x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 5x Dark Commune (75 pts)
+Enhancement: Warped Foresight (+10 pts)
+• 2x Blessed Blades: 2 with Commune blade
+• 1x Cult Demagogue: Autopistol, Commune stave
+• 1x Iconarch: Chaos icon, Autopistol, Close combat weapon
+• 1x Mindwitch: Close combat weapon, Warp Curse
+Char2: 5x Dark Commune (85 pts)
+Enhancement: Cultist's Brand (+20 pts)
+• 2x Blessed Blades: 2 with Commune blade
+• 1x Cult Demagogue: Autopistol, Commune stave
+• 1x Iconarch: Chaos icon, Autopistol, Close combat weapon
+• 1x Mindwitch: Close combat weapon, Warp Curse
+Char3: 5x Dark Commune (65 pts)
+• 2x Blessed Blades: 2 with Commune blade
+• 1x Cult Demagogue: Autopistol, Commune stave
+• 1x Iconarch: Chaos icon, Autopistol, Close combat weapon
+• 1x Mindwitch: Close combat weapon, Warp Curse
+Char4: 1x Abaddon the Despoiler (295 pts): Warlord, Drach'nyen, Talon of Horus
+Char5: 1x Cypher (90 pts): Cypher's bolt pistol, Cypher's plasma pistol
+
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Autopistol
+• 9x Cultist: 9 with Autopistol, Brutal assault weapon
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Autopistol
+• 9x Cultist: 9 with Autopistol, Brutal assault weapon
+10x Cultist Mob (50 pts)
+• 1x Cultist Champion: Brutal assault weapon, Autopistol
+• 9x Cultist: 9 with Autopistol, Brutal assault weapon
+
+16x Accursed Cultists (180 pts)
+• 10x Mutant: 10 with Blasphemous appendages
+• 6x Torment: 6 with Hideous mutations
+16x Accursed Cultists (180 pts)
+• 10x Mutant: 10 with Blasphemous appendages
+• 6x Torment: 6 with Hideous mutations
+16x Accursed Cultists (180 pts)
+• 10x Mutant: 10 with Blasphemous appendages
+• 6x Torment: 6 with Hideous mutations
+1x Forgefiend (190 pts): 2x Ectoplasma cannon, Armoured limbs, Ectoplasma cannon
+1x Forgefiend (190 pts): 2x Ectoplasma cannon, Armoured limbs, Ectoplasma cannon
+1x Forgefiend (190 pts): 2x Ectoplasma cannon, Armoured limbs, Ectoplasma cannon
+1x Helbrute (130 pts): Close combat weapon, Heavy flamer, Helbrute fist, Multi-melta
+

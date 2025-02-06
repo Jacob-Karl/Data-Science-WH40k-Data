@@ -1,0 +1,103 @@
+hypercrypt 2k (2000 points)
+
+Necrons
+Strike Force (2000 points)
+Hypercrypt Legion
+
+
+CHARACTERS
+
+Hexmark Destroyer (70 points)
+• 1x Close combat weapon
+1x Enmitic disintegrator pistols
+
+Lokhust Lord (105 points)
+• 1x Lord's blade
+1x Resurrection Orb
+• Enhancement: Arisen Tyrant
+
+Orikan the Diviner (80 points)
+• 1x Staff of Tomorrow
+
+Overlord (100 points)
+• Warlord
+• 1x Resurrection Orb
+1x Voidscythe
+• Enhancement: Hyperspatial Transfer Node
+
+Skorpekh Lord (80 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+
+Skorpekh Lord (80 points)
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+
+
+BATTLELINE
+
+Necron Warriors (200 points)
+• 20x Necron Warrior
+• 20x Close combat weapon
+20x Gauss reaper
+
+
+OTHER DATASHEETS
+
+Deathmarks (60 points)
+• 5x Deathmark
+• 5x Close combat weapon
+5x Synaptic disintegrator
+
+Deathmarks (60 points)
+• 5x Deathmark
+• 5x Close combat weapon
+5x Synaptic disintegrator
+
+Flayed Ones (60 points)
+• 5x Flayed One
+• 5x Flayer claws
+
+Lokhust Destroyers (30 points)
+• 1x Close combat weapon
+1x Gauss cannon
+
+Lokhust Heavy Destroyers (100 points)
+• 2x Lokhust Heavy Destroyer
+• 2x Close combat weapon
+2x Gauss destructor
+
+Lokhust Heavy Destroyers (100 points)
+• 2x Lokhust Heavy Destroyer
+• 2x Close combat weapon
+2x Gauss destructor
+
+Lokhust Heavy Destroyers (150 points)
+• 3x Lokhust Heavy Destroyer
+• 3x Close combat weapon
+3x Enmitic exterminator
+
+Lychguard (170 points)
+• 10x Lychguard
+• 10x Dispersion Shield
+10x Hyperphase sword
+
+Monolith (375 points)
+• 4x Death ray
+1x Particle whip
+1x Portal of exile
+
+Skorpekh Destroyers (90 points)
+• 3x Skorpekh Destroyer
+• 1x Plasmacyte
+3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers (90 points)
+• 3x Skorpekh Destroyer
+• 1x Plasmacyte
+3x Skorpekh hyperphase weapons
+
+Exported with App Version: v1.21.0 (49), Data Version: v469
+

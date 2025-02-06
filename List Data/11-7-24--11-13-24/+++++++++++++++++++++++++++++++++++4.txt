@@ -1,0 +1,73 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Genestealer Cults
++ DETACHMENT: Outlander Claw
++ TOTAL ARMY POINTS: 1990pts
++
++ WARLORD: Char2: Kelermorph
++ ENHANCEMENT:
++ NUMBER OF UNITS: 24
++ SECONDARY: - Bring It Down: (6x2) + (2x4) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Clamavus (50 pts): Autopistol, Close Combat Weapon
+Char2: 1x Kelermorph (60 pts): Warlord, Close Combat Weapon, Liberator Autostubs
+Char3: 1x Kelermorph (60 pts): Close Combat Weapon, Liberator Autostubs
+Char4: 1x Kelermorph (60 pts): Close Combat Weapon, Liberator Autostubs
+Char5: 1x Reductus Saboteur (65 pts): Autopistol, Close Combat Weapon, Demolition Charges, Remote Explosives
+
+5x Acolyte Hybrids with Autopistols (65 pts)
+• 4x Acolyte Hybrid
+1 with Cult Icon, Cult Claws and Knife
+3 with Heavy Mining Tool
+• 1x Acolyte Leader: Autopistol, Leader's Bio-weapons
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+5x Acolyte Hybrids with Hand Flamers (70 pts)
+• 1x Acolyte Leader: Leader's Cult Weapons, Hand Flamer
+• 4x Acolyte Hybrid: 4 with Cult Claws and Knife, Hand Flamer
+10x Neophyte Hybrids (65 pts)
+• 9x Neophyte Hybrid
+1 with Autopistol, Close Combat Weapon, Seismic Cannon
+8 with Autopistol, Close Combat Weapon, Hybrid Firearm
+• 1x Neophyte Leader: Autopistol, Close Combat Weapon, Hybrid Firearm
+
+5x Atalan Jackals (80 pts)
+• 4x Atalan Jackal
+1 with Atalan Small Arms, Close Combat Weapon
+2 with Atalan Power Weapon, Atalan Small Arms
+1 with Grenade Launcher, Close Combat Weapon
+• 1x Atalan Wolfquad: Atalan Small Arms, Close Combat Weapon, Atalan Incinerator
+5x Atalan Jackals (80 pts)
+• 4x Atalan Jackal
+1 with Atalan Small Arms, Close Combat Weapon
+2 with Atalan Power Weapon, Atalan Small Arms
+1 with Grenade Launcher, Close Combat Weapon
+• 1x Atalan Wolfquad: Atalan Small Arms, Close Combat Weapon, Atalan Incinerator
+5x Atalan Jackals (80 pts)
+• 4x Atalan Jackal
+1 with Atalan Small Arms, Close Combat Weapon
+2 with Atalan Power Weapon, Atalan Small Arms
+1 with Grenade Launcher, Close Combat Weapon
+• 1x Atalan Wolfquad: Atalan Small Arms, Close Combat Weapon, Atalan Incinerator
+1x Achilles Ridgerunners (75 pts): Survey Augur, Armoured Hull, Twin Heavy Stubber, Heavy Mortar
+2x Achilles Ridgerunners (150 pts): 2 with Spotter, Armoured Hull, Twin Heavy Stubber, Heavy Mining Laser
+2x Achilles Ridgerunners (150 pts): 2 with Spotter, Armoured Hull, Twin Heavy Stubber, Heavy Mining Laser
+1x Goliath Rockgrinder (120 pts): Demolition Charge Cache, Drilldozer Blade, Heavy Stubber, Clearance Incinerator
+1x Goliath Rockgrinder (120 pts): Demolition Charge Cache, Drilldozer Blade, Heavy Stubber, Clearance Incinerator
+1x Goliath Rockgrinder (120 pts): Demolition Charge Cache, Drilldozer Blade, Heavy Stubber, Clearance Incinerator
+1x Goliath Truck (85 pts): Demolition Charge Cache, Goliath Wheels, Heavy Stubber, Twin Autocannon
+1x Goliath Truck (85 pts): Demolition Charge Cache, Goliath Wheels, Heavy Stubber, Twin Autocannon
+

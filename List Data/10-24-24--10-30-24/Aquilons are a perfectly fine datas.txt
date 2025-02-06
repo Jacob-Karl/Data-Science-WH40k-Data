@@ -1,0 +1,187 @@
+Aquilons are a perfectly fine datasheet with no need for nerfs at all, leave them alone.
+
+Astra Militarum
+Combined Regiment
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Lord Solar Leontus (125 Points)
+• Warlord
+• 1x Conquest
+• 1x Konstantin's hooves
+• 1x Sol's Righteous Gaze
+
+Militarum Tempestus Command Squad (70 Points)
+• 1x Tempestor Prime
+◦ 1x Command Rod
+◦ 1x Tempestus dagger
+• 4x Tempestus Scion
+◦ 4x Close combat weapon
+◦ 2x Hot-shot lasgun
+◦ 1x Hot-shot laspistol
+◦ 1x Hot-shot volley gun
+◦ 1x Medi-pack
+◦ 1x Plasma gun
+◦ 1x Regimental Standard
+
+Platoon Command Squad (60 Points)
+• 1x Platoon Commander
+◦ 1x Close combat weapon
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 2x Veteran Guardsman
+◦ 2x Close combat weapon
+◦ 2x Lasgun
+◦ 2x Laspistol
+◦ 1x Master Vox
+◦ 1x Regimental Standard
+• 1x Veteran Heavy Weapons Team
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+◦ 1x Mortar
+
+Tank Commander (225 Points)
+• 1x Armoured tracks
+• 1x Demolisher battle cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Militarum plasma cannon
+
+BATTLELINE
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+OTHER DATASHEETS
+
+Bullgryn Squad (220 Points)
+• 1x Bullgryn Bone 'ead
+◦ 1x Brute Shield
+◦ 1x Bullgryn maul
+◦ 1x Close combat weapon
+• 5x Bullgryn
+◦ 5x Brute Shield
+◦ 5x Bullgryn maul
+◦ 5x Close combat weapon
+
+Bullgryn Squad (110 Points)
+• 1x Bullgryn Bone 'ead
+◦ 1x Brute Shield
+◦ 1x Bullgryn maul
+◦ 1x Close combat weapon
+• 2x Bullgryn
+◦ 2x Brute Shield
+◦ 2x Bullgryn maul
+◦ 2x Close combat weapon
+
+Hellhound (115 Points)
+• 1x Armoured tracks
+• 1x Hunter-killer missile
+• 1x Inferno cannon
+• 1x Multi-melta
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Multi-melta
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Multi-melta
+
+Leman Russ Exterminator (170 Points)
+• 1x Armoured tracks
+• 1x Exterminator autocannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Ogryn Squad (60 Points)
+• 1x Ogryn Bone 'ead
+◦ 1x Ripper gun
+• 2x Ogryn
+◦ 2x Ripper gun
+
+Ogryn Squad (60 Points)
+• 1x Ogryn Bone 'ead
+◦ 1x Ripper gun
+• 2x Ogryn
+◦ 2x Ripper gun
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Aquilons (90 Points)
+• 1x Tempestor Aquilon
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+◦ 1x Sentry flamer
+• 8x Tempestus Aquilon
+◦ 8x Close combat weapon
+◦ 6x Hot-shot lascarbine
+◦ 1x Hot‐shot long‐las
+◦ 1x Plasma carbine
+• 1x Gunfighter
+◦ 1x Close combat weapon
+◦ 1x Hot-shot lascarbine
+
+Tempestus Scions (100 Points)
+• 1x Tempestor
+◦ 1x Plasma pistol
+◦ 1x Power fist
+• 9x Tempestus Scion
+◦ 9x Close combat weapon
+◦ 5x Hot-shot lasgun
+◦ 2x Hot-shot volley gun
+◦ 2x Plasma gun
+
+Exported with App Version: v1.22.0 (48), Data Version: v488
+

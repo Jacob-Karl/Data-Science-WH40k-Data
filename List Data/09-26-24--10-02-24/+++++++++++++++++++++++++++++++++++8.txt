@@ -1,0 +1,33 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Player Name: Mooniverse
+Factions used: Imperium - Adepta Sororitas
+Army Points: 1995
+Army Enhancements: Through Suffering, Strength (25)
+Detachment Rules: Hallowed Martyrs
+
+Number of Units: 16
+Character Units (Models): 4 (4)
+Vehicle/Monster Models (Max Points): 9 (23)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+EH1: Morvenn Vahl: Warlord [160 pts]
+EH2: Triumph of Saint Katherine [190 pts]
+
+CH1: Canoness with Jump Pack: Ministorum Hand Flamer and Power Weapon, Through Suffering, Strength [100 pts]
+CH2: Dialogus [30 pts]
+
+IN1: Arco-Flagellants: 3xArco-Flagellant [45 pts]
+IN2: Arco-Flagellants: 3xArco-Flagellant [45 pts]
+IN3: Repentia Squad: Repentia Superior, 9xSister Repentia [180 pts]
+IN4: Repentia Squad: Repentia Superior, 9xSister Repentia [180 pts]
+IN5: Seraphim Squad: 2xSeraphim, Seraphim Superior (Plasma Pistol and Power Weapon), 2xSeraphim with Special Weapons (2xMinistorum Hand Flamers) [85 pts]
+IN6: Zephyrim Squad: 4xZephyrim, Zephyrim Superior (Plasma pistol) [90 pts]
+
+VE1: Castigator: Castigator battle cannon, Hunter-Killer Missile, Storm bolter [150 pts]
+VE2: Exorcist: Exorcist Missile Launcher, Hunter-Killer Missile [190 pts]
+VE3: Exorcist: Exorcist Missile Launcher, Hunter-Killer Missile [190 pts]
+VE4: Paragon Warsuits: Paragon Superior (Multi-melta, Paragon Grenade Launchers, Paragon War Mace), 2xParagon Warsuit (Multi-melta, Paragon Grenade Launchers, Paragon War Blade) [210 pts]
+
+DT1: Sororitas Rhino: Hunter-Killer Missile [75 pts]
+DT2: Sororitas Rhino: Hunter-Killer Missile [75 pts]
+

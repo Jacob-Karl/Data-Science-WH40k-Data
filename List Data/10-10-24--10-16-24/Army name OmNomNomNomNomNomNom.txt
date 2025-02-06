@@ -1,0 +1,37 @@
+Army name: OmNomNomNomNomNomNom
+Factions used: Xenos - Tyranids
+Total cost: 2000 pts
+
+Theme song: -6c4BQWPm - Wierd Al Yankovich - Eat it
+
+Number of Units: 19
+Character Units (Models): 5 (5)
+Vehicle/Monster Models (Max Points): 4 (13)
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+== Vanguard Onslaught Army Roster 2000 pts ==
+
+EH1: Deathleaper [80 pts]
+
+CH1: Broodlord: Stalker [90 pts]
+CH2: Winged Hive Tyrant: Chameleonic, Monstrous Bonesword and Lash Whip, Warlord [225 pts]
+CH3: Winged Tyranid Prime: Hunting Grounds [85 pts]
+CH4: Winged Tyranid Prime [65 pts]
+
+BL1: Gargoyles: 10xGargoyles [85 pts]
+BL2: Gargoyles: 10xGargoyles [85 pts]
+
+IN1: Biovores: Biovore [50 pts]
+IN2: Genestealers: 10xGenestealer [150 pts]
+IN3: Lictor [55 pts]
+IN4: Lictor [55 pts]
+IN5: Neurolictor [90 pts]
+IN6: Neurolictor [90 pts]
+IN7: Pyrovores: Pyrovore [35 pts]
+IN8: Tyranid Warriors with Melee Bio-Weapons: Tyranid Prime, 5xTyranid Warrior [150 pts]
+IN9: Tyranid Warriors with Melee Bio-Weapons: Tyranid Prime, 5xTyranid Warrior [150 pts]
+
+MS1: Exocrine [135 pts]
+MS2: Exocrine [135 pts]
+MS3: Tyrannofex: Rupture Cannon [190 pts]
+

@@ -1,0 +1,30 @@
+*Swarmy Invasion - Invasion Fleet*
+
+Assassination: 12
+Bring it Down: 20
+
+[240] The Swarmlord
+[260] Hive Tyrant: Bonesword, Scything Talons, Adpative Biology (+25)
+[140] Old One Eye
+
+[ 45] 11 Neurogants
+[ 65] 10 Hormagaunts
+[ 65] 10 Hormagaunts
+
+[ 55] Lictor
+[ 55] Lictor
+[ 55] Lictor
+
+[ 35] Pyrovore
+[ 50] Biovore
+
+[250] 2 Carnifexes: 2x(Bio-plasma, Spine Banks, 2x Deathspitters)
+
+[135] Exocrine
+[170] Maleceptor
+
+[190] Tyrannofex: Rupture Cannon
+[190] Tyrannofex: Rupture Cannon
+
+= 2000
+

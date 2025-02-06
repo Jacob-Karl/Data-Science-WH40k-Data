@@ -1,0 +1,16 @@
+440 Magnus
+130 Ahriman
+120 Exalted Sorcerer, Warpflame Pistol, Umbralefic Crystal
+140 Exalted Sorcerer on Disc of Tzeentch, Warpflame Pistol, Lord of forbidden Lore
+115 Infernal Master, Arcane Vortex
+90 Infernal Master
+65 Tzaangors
+55 Cultists, Flamer, Grenade Launcher, Stubber
+210 10 Rubric, 8 Flamer, Cannon, Icon, Flamer Pistol
+210 10 Rubric, 8 Flamer, Cannon, Icon, Flamer Pistol
+105 5 Rubric, 3 Flamer, Canno, Icon, Flamer Pistol
+105 5 Rubric, 3 Flamer, Canno, Icon, Flamer Pistol
+150 Vortex Beast
+65 Chaos Spawns
+
+2000 TOTAL

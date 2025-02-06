@@ -1,0 +1,130 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: Innes "Weekend Off" Wilson
++ TEAM NAME: Stat Check
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Black Templars
++ DETACHMENT: Ironstorm Spearhead
++ TOTAL ARMY POINTS: 1980pts
++
++ WARLORD: Char2: Techmarine
++ ENHANCEMENT: Master of the Machine War (on Char1: Lieutenant with Combi-weapon)
+& Target Augury Web (on Char2: Techmarine)
++ NUMBER OF UNITS: 14
++ SECONDARY: - Bring It Down: (8x2) - Assassination: 2 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+CHARACTER
+
+1x Lieutenant with Combi-weapon (90 pts)
+• 1x Combi-weapon
+• 1x Paired Combat Blades
+• Master of the Machine War (+20 pts)
+
+1x Techmarine (85 pts)
+• 1x Forge Bolter
+• 1x Grav-pistol
+• 1x Omnissian Power Axe
+• 1x Servo-arm
+• Warlord
+• Target Augury Web (+30 pts)
+
+OTHER DATASHEETS
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 6x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma Pistol
+• 1x Power Fist
+• 4x Assault Intercessors with Jump Pack
+• 6x Astartes Chainsword
+• 3x Heavy Bolt Pistol
+• 1x Plasma Pistol
+
+5x Infiltrator Squad (100 pts)
+• 4x Infiltrator
+• 4x Bolt Pistol
+• 4x Close Combat Weapon
+• 4x Marksman Bolt Carbine
+• 1x Infiltrator Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Marksman Bolt Carbine
+• Helix Gauntlet, Infiltrator Comms Array
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+• 1x Bolt Pistol
+• 1x Close Combat Weapon
+• 1x Boltgun
+• 2x Scout
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+• 1x Missile Launcher
+• 1x Scout Sniper Rifle
+• 2x Scouts
+• 2x Astartes Shotgun
+• 2x Bolt Pistol
+• 2x Close Combat Weapon
+
+1x Black Templars Gladiator Lancer (170 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 1x Lancer Laser Destroyer
+• 1x Multi-melta
+• 1x 2 Fragstorm Grenade Launchers
+
+1x Black Templars Gladiator Lancer (170 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 1x Lancer Laser Destroyer
+• 1x Multi-melta
+• 1x 2 Fragstorm Grenade Launchers
+
+1x Black Templars Gladiator Reaper (170 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 2x Tempest Bolter
+• 1x Twin Heavy Onslaught Gatling Cannon
+• 1x Multi-melta
+
+1x Black Templars Gladiator Reaper (170 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 2x Tempest Bolter
+• 1x Twin Heavy Onslaught Gatling Cannon
+• 1x Multi-melta
+
+1x Black Templars Gladiator Reaper (170 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 2x Tempest Bolter
+• 1x Twin Heavy Onslaught Gatling Cannon
+• 1x Multi-melta
+
+1x Stormraven Gunship (280 pts)
+• 1x Armoured Hull
+• 1x Hurricane Bolter 2 Hurricane Bolters
+• 2x Stormstrike Missiles
+• 1x Twin Heavy Plasma Cannon
+• 1x Twin Multi-melta
+
+1x Vindicator (175 pts)
+• 1x Armoured Tracks
+• 1x Demolisher Cannon
+• 1x Hunter Killer Missile
+• 1x Storm Bolter
+
+1x Vindicator (175 pts)
+• 1x Armoured Tracks
+• 1x Demolisher Cannon
+• 1x Hunter Killer Missile
+• 1x Storm Bolter

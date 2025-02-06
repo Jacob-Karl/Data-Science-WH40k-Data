@@ -1,0 +1,102 @@
+T'au Empire Keziah
+
+++ Army Roster (Xenos - T'au Empire) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Mont'ka
+
+Show/Hide Options
+
++ Epic Hero +
+
+Darkstrider [60pts]
+
++ Character +
+
+Cadre Fireblade [50pts]
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Commander in Enforcer Battlesuit [105pts]: 3x Burst cannon, Cyclic ion blaster, Strike Swiftly, Warlord
+. 2x Gun Drone: 2x Twin pulse carbine
+
++ Battleline +
+
+Breacher Team [100pts]
+. Breacher Fire Warrior Shas'ui
+. . Guardian Drone
+. . Gun Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
++ Infantry +
+
+Pathfinder Team [90pts]
+. Gun Drone
+. Pathfinder Shas'ui: Semi-automatic grenade launcher
+. . Recon drone
+. 3x Pathfinders w/ ion rifle: 3x Close combat weapon, 3x Ion rifle, 3x Pulse pistol
+. 6x Pathfinders w/ pulse carbine: 6x Close combat weapon, 6x Pulse carbine, 6x Pulse pistol
+. Shield Drone
+
+Stealth Battlesuits [60pts]
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Fusion blaster, Marker Drone, Shield Drone
+
+Stealth Battlesuits [60pts]
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Fusion blaster, Marker Drone, Shield Drone
+
+Stealth Battlesuits [60pts]
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Fusion blaster, Marker Drone, Shield Drone
+
++ Vehicle +
+
+Broadside Battlesuits [180pts]
+. Broadside Shas'ui: Heavy rail rifle, Twin smart missile system, Weapon support system
+. . 2x Missile Drone: 2x Missile pod
+. Broadside Shas'vre: Heavy rail rifle, Twin smart missile system, Weapon support system
+. . 2x Missile Drone: 2x Missile pod
+
+Crisis Starscythe Battlesuits [110pts]
+. Crisis Starscythe Shas'ui: 2x Burst cannon
+. . Gun Drone
+. . Shield Drone
+. Crisis Starscythe Shas'ui: 2x Burst cannon
+. . Gun Drone
+. . Marker Drone
+. Crisis Starscythe Shas'vre: 2x Burst cannon
+. . Gun Drone
+. . Shield Drone
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin fusion blaster
+
+Hammerhead Gunship [145pts]: Ion cannon, 2x Seeker missile
+. 2 Accelerator burst cannons
+
+Piranha [55pts]
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
+Riptide Battlesuit [180pts]: Heavy burst cannon, Twin smart missile system
+. 2x Missile Drone: 2x Missile pod
+
+Riptide Battlesuit [180pts]: Ion accelerator, Twin smart missile system
+. 2x Missile Drone: 2x Missile pod
+
+Riptide Battlesuit [180pts]: Ion accelerator, Twin smart missile system
+. 2x Missile Drone: 2x Missile pod
+
+Sky Ray Gunship [140pts]
+. 2 Accelerator burst cannons
+
++ Dedicated Transport +
+
+Devilfish [85pts]: 2x Seeker missile
+. 2 Twin pulse carbines
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

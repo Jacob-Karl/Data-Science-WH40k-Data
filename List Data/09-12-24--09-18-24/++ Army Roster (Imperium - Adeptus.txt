@@ -1,0 +1,95 @@
+++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Stormlance Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Harald Deathwolf [85pts]
+
+Logan Grimnar [100pts]: Warlord
+
++ Character +
+
+
+Wolf Guard Battle Leader on Thunderwolf [80pts]: Thunder hammer
+
+. Storm shield and close combat weapon
+
+Wolf Guard Battle Leader on Thunderwolf [80pts]: Thunder hammer
+
+. Storm shield and close combat weapon
+
+Wolf Guard Battle Leader on Thunderwolf [90pts]: Hunter's Instincts, Thunder hammer
+
+. Storm shield and close combat weapon
+
+Wolf Lord on Thunderwolf [125pts]: Fury of the Storm, Thunder Hammer
+
+. Relic shield and close combat weapon
+
+Wolf Lord on Thunderwolf [100pts]: Thunder Hammer
+
+. Relic shield and close combat weapon
+
++ Infantry +
+
+
+Assault Intercessors with Jump Packs [80pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 4x Assault Intercessors with Jump Pack: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
+Assault Intercessors with Jump Packs [80pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 4x Assault Intercessors with Jump Pack: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+
+. 4x Infiltrator: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+. Infiltrator Sergeant
+
+Wulfen [90pts]
+
+. Wulfen w/ claws and launcher
+. 4x Wulfen w/ hammer, shield and launcher: 4x Storm shield, 4x Stormfrag auto-launcher, 4x Wulfen hammer
+
+Wulfen [90pts]
+
+. Wulfen w/ claws and launcher
+. 4x Wulfen w/ hammer, shield and launcher: 4x Storm shield, 4x Stormfrag auto-launcher, 4x Wulfen hammer
+
++ Mounted +
+
+
+Thunderwolf Cavalry [200pts]
+
+. 6x Thunderwolf w/ storm shield: 6x Crushing teeth and claws, 6x Heirloom weapon, 6x Storm shield
+
+Thunderwolf Cavalry [200pts]
+
+. 6x Thunderwolf w/ storm shield: 6x Crushing teeth and claws, 6x Heirloom weapon, 6x Storm shield
+
+Thunderwolf Cavalry [200pts]
+
+. 6x Thunderwolf w/ storm shield: 6x Crushing teeth and claws, 6x Heirloom weapon, 6x Storm shield
+
++ Vehicle +
+
+
+Ballistus Dreadnought [140pts]
+
+Gladiator Lancer [160pts]: 2 Storm Bolters, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

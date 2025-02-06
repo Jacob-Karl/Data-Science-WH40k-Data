@@ -1,0 +1,53 @@
+++++++++++++++++++++++++++++++++++++++++++++++
+List name: The best, worst, list - The Colin Power and Dan Ahern challenge
+Theme Song: 
+
++ FACTION KEYWORD: Chaos - World Eaters
++ DETACHMENT: Berzerker Warband
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Angron
++ ENHANCEMENT:
++ NUMBER OF UNITS: 11
++ SECONDARY: - Bring It Down: (4x2) + (1x4) - Assassination: 2 Characters - Cull The Horde: 1x5
+++++++++++++++++++++++++++++++++++++++++++++++
+
+10x Jakhals (65 pts)
+• 1x Jakhal Pack Leader: Autopistol, Jakhal chainblades
+• 1x Dishonoured: Icon of Khorne, Skullsmasher
+• 1x Jakhal: Icon of Khorne, Icon of Khorne, Autopistol, Mauler chainblade
+• 7x Jakhals: 7 with Autopistol, Jakhal chainblades
+10x Khorne Berserkers (180 pts)
+• 9x Khorne Berserker
+7 with Berserker chainblade, Bolt pistol
+1 with Khornate eviscerator, Plasma pistol
+1 with Icon of Khorne, Khornate eviscerator, Plasma pistol
+• 1x Khorne Berserker Champion: Berserker chainblade, Bolt pistol
+
+Char1: 1x Angron (415 pts): Warlord, Samni'arius and Spinegrinder
+Char2: 1x Khârn the Betrayer (100 pts): Gorechild, Khârn's plasma pistol
+
+3x Exalted Eightbound (155 pts)
+• 2x Exalted Eightbound: 2 with Eightbound chainfist, Eightbound eviscerator
+• 1x Exalted Eightbound Champion: Eviscerator and chainfist
+
+10x World Eaters Terminator Squad (360 pts)
+• 1x Terminator Champion: Combi-weapon, Power fist
+• 2x Combi-weapon, chainfist: 2 with Chainfist, Combi-weapon
+• 5x Combi-weapon, power fist: 5 with Combi-weapon, Power fist
+• 2x Paired accursed weapons: 2 with Paired accursed weapons
+
+5x World Eaters Terminator Squad (180 pts)
+• 1x Terminator Champion: Chainfist, Combi-weapon
+• 1x Combi-weapon, chainfist: Chainfist, Combi-weapon
+• 2x Combi-weapon, power fist: 2 with Combi-weapon, Power fist
+• 1x Paired accursed weapons: Paired accursed weapons
+
+1x World Eaters Helbrute (130 pts): Close combat weapon, Heavy flamer, Helbrute fist, Multi-melta
+
+1x World Eaters Heldrake (210 pts): Heldrake claws, Baleflamer
+
+1x World Eaters Predator Destructor (130 pts): Armoured tracks, Havoc launcher, Predator autocannon, Combi-weapon, 2x Lascannon
+
+1x World Eaters Rhino (75 pts): Armoured tracks, Combi-bolter, Havoc launcher, Combi-weapon
+

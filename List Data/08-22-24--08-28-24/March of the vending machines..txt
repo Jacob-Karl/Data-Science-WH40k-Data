@@ -1,0 +1,55 @@
+March of the vending machines.
+
+
+Necron fun list version 2
+++ Army Roster (Xenos - Necrons) [2,000pts] ++
+
++ Configuration + Large and in Charge and looking for Chickies
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Hypercrypt Legion
+
+
++ Character +
+
+Chronomancer [90pts]: Chronomancer's stave, Dimensional Overseer, Warlord
+
+Plasmancer [90pts]: Arisen Tyrant, Plasmic lance
+
++ Battleline +
+
+Necron Warriors [200pts]
+20x Warrior w/ gauss reaper: 20x Close combat weapon, 20x Gauss reaper
+
+Necron Warriors [200pts]
+20x Warrior w/ gauss reaper: 20x Close combat weapon, 20x Gauss reaper
+
++ Infantry +
+
+Deathmarks [60pts]
+5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
+Deathmarks [60pts]
+5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
++ Vehicle +
+
+Canoptek Reanimator [75pts]: 2x Atomiser beam, Reanimator's claws
+
+Canoptek Spyders [75pts]
+Canoptek Spyder: Automaton claws, Fabricator claw array, Gloom prism
+Two particle beamers: 2x Particle beamer
+
+Doomsday Ark [200pts]: Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+
+Doomsday Ark [200pts]: Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+
+Monolith [375pts]: Particle whip, Portal of exile
+Four death rays: 4x Death ray
+
+Monolith [375pts]: Particle whip, Portal of exile
+Four death rays: 4x Death ray
+
+Created with BattleScribe ()
+

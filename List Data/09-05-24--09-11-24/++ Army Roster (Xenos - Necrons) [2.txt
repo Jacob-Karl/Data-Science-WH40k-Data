@@ -1,0 +1,67 @@
+++ Army Roster (Xenos - Necrons) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Awakened Dynasty
+
++ Epic Hero +
+
+C'tan Shard of the Nightbringer [295pts]
+
+Illuminor Szeras [175pts]
+
+Imotekh the Stormlord [100pts]: Warlord
+
++ Character +
+
+Plasmancer [85pts]: Veil of Darkness
+
+Plasmancer [65pts]
+
+Skorpekh Lord [95pts]: Enaegic Dermal Bond
+
+Skorpekh Lord [80pts]
+
+Skorpekh Lord [80pts]
+
+Technomancer [85pts]
+
++ Battleline +
+
+Immortals [150pts]
+. 10x Immortal: 10x Close combat weapon, 10x Gauss blaster
+
+Immortals [150pts]
+. 10x Immortal: 10x Close combat weapon, 10x Gauss blaster
+
++ Infantry +
+
+Flayed Ones [60pts]
+. 5x Flayed One: 5x Flayer claws
+
+Skorpekh Destroyers [90pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers [90pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers [90pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
++ Mounted +
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
++ Beast +
+
+Canoptek Wraiths [250pts]
+. 6x Wraith w/ claws and particle caster: 6x Particle caster, 6x Vicious claws
+
+++ Total: [2,000pts] ++
+

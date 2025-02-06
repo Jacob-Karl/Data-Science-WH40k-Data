@@ -1,0 +1,70 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Necrons
++ DETACHMENT: Awakened Dynasty (Command Protocols)
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char1: Lokhust Lord
++ ENHANCEMENT: Veil of Darkness (on Char1: Lokhust Lord)
+& Enaegic Dermal Bond (on Char2: Skorpekh Lord)
++ NUMBER OF UNITS: 15
++ SECONDARY: - Bring It Down: (3x2) - Assassination: 7 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Lokhust Lord (100 pts)
+1 with Lord's blade
+• Warlord, Resurrection orb
+Enhancement: Veil of Darkness (+20 pts)
+
+Char2: 1x Skorpekh Lord (95 pts)
+1 with Enmitic annihilator, Flensing claw, Hyperphase harvester
+Enhancement: Enaegic Dermal Bond (+15 pts)
+
+Char3: 1x Skorpekh Lord (80 pts)
+1 with Enmitic annihilator, Flensing claw, Hyperphase harvester
+
+Char4: 1x Technomancer (85 pts)
+1 with Staff of light
+
+Char5: 1x C'tan Shard of the Nightbringer (295 pts)
+1 with Gaze of death, Scythe of the Nightbringer
+
+Char6: 1x Illuminor Szeras (175 pts)
+1 with Eldritch lance, Impaling legs
+
+Char7: 1x Imotekh the Stormlord (100 pts)
+1 with Gauntlet of Fire, Staff of the Destroyer
+
+OTHER DATASHEETS
+
+5x Flayed Ones (60 pts)
+• 5x Flayed One
+5 with Flayer claws
+
+3x Skorpekh Destroyers (90 pts)
+• 3x Skorpekh Destroyer
+3 with Skorpekh hyperphase weapons
+
+3x Skorpekh Destroyers (90 pts)
+• 3x Skorpekh Destroyer
+3 with Skorpekh hyperphase weapons
+
+1x Lokhust Destroyers (30 pts)
+• 1x Lokhust Destroyer
+1 with Close combat weapon, Gauss cannon
+
+3x Lokhust Heavy Destroyers (150 pts)
+• 3x Destroyer
+3 with Close combat weapon, Enmitic exterminator
+
+6x Canoptek Wraiths (250 pts)
+• 6x Wraith
+6 with Particle caster, Vicious claws
+
+1x Doomsday Ark (200 pts)
+1 with Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+
+1x Doomsday Ark (200 pts)
+1 with Armoured bulk, Doomsday cannon, 2x Gauss flayer array
+

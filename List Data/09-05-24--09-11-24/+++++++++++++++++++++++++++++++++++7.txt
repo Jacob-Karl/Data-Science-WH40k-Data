@@ -1,0 +1,112 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Kauyon
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char5: Commander Shadowsun
++ ENHANCEMENT: Exemplar of the Kauyon (on Char1: Commander in Coldstar Battlesuit)
+& Precision of the Patient Hunter (on Char2: Commander in Enforcer Battlesuit)
++ NUMBER OF UNITS: 19
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Commander in Coldstar Battlesuit (115 pts)
+1 with Battlesuit fists, Cyclic ion blaster, 3x Plasma rifle
+• Marker Drone, Shield Drone
+Enhancement: Exemplar of the Kauyon (+20 pts)
+
+Char2: 1x Commander in Enforcer Battlesuit (95 pts)
+1 with Battlesuit fists, Cyclic ion blaster, 3x Plasma rifle
+• Marker Drone, Shield Drone
+Enhancement: Precision of the Patient Hunter (+15 pts)
+
+Char3: 1x Ethereal (50 pts)
+1 with Honour stave
+• Marker Drone, Shield Drone, Hover Drone
+
+Char4: 1x Firesight Team (70 pts)
+1 with Close combat weapons, Longshot pulse rifles, Pulse pistol
+
+Char5: 1x Commander Shadowsun (100 pts)
+1 with Battlesuit fists, Flechette launcher, 2x High-energy fusion blaster, Light missile pod, Pulse pistol
+• Warlord
+
+Char6: 1x Darkstrider (60 pts)
+1 with Close combat weapon, Shade
+
+BATTLELINE
+
+10x Strike Team (75 pts)
+• 1x Fire Warrior Shas'ui
+1 with Close combat weapon, Pulse pistol, Pulse rifle, Support turret
+• Guardian Drone, Marker Drone
+• 9x Fire Warrior
+9 with Close combat weapon, Pulse pistol, Pulse rifle
+
+OTHER DATASHEETS
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+1 with Battlesuit fists, Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+2 with Battlesuit fists, Burst cannon
+
+3x Stealth Battlesuits (60 pts)
+• 1x Stealth Shas'vre
+1 with Battlesuit fists, Fusion blaster
+• Battlesuit support system, Homing beacon, Marker Drone, Shield Drone
+• 2x Stealth Shas'ui
+2 with Battlesuit fists, Burst cannon
+
+2x Broadside Battlesuits (180 pts)
+• 1x Broadside Shas'vre
+1 with Crushing bulk, Heavy rail rifle, Seeker missile, Twin plasma rifle
+• 2x Shield Drone
+• 1x Broadside Shas'ui
+1 with Crushing bulk, Heavy rail rifle, Seeker missile, Twin plasma rifle
+• Marker Drone, Shield Drone
+
+1x Broadside Battlesuits (90 pts)
+• 1x Broadside Shas'vre
+1 with Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle
+• Marker Drone, Shield Drone
+
+1x Broadside Battlesuits (90 pts)
+• 1x Broadside Shas'vre
+1 with Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle
+• Marker Drone, Shield Drone
+
+3x Crisis Fireknife Battlesuits (130 pts)
+• 2x Crisis Fireknife Shas'ui
+2 with Battlesuit fists, Twin pulse carbine, 2x Plasma rifle
+• Shield Drone
+• 1x Crisis Fireknife Shas'vre
+1 with Battlesuit fists, Twin pulse carbine, 2x Plasma rifle
+• Shield Drone
+
+3x Crisis Sunforge Battlesuits (150 pts)
+• 2x Crisis Sunforge Shas'ui
+2 with Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+• Shield Drone
+• 1x Crisis Sunforge Shas'vre
+1 with Battlesuit fists, 2x Fusion blaster, Twin pulse carbine
+• Shield Drone
+
+1x Ghostkeel Battlesuit (160 pts)
+1 with Ghostkeel fists, Cyclic ion raker, Twin fusion blaster
+• Battlesuit support system
+
+1x Hammerhead Gunship (145 pts)
+1 with Armoured hull, Ion cannon, 2x Seeker missile, 2x Accelerator burst cannon
+
+1x Hammerhead Gunship (145 pts)
+1 with Armoured hull, Railgun, 2x Seeker missile, 2x Accelerator burst cannon
+
+1x Sky Ray Gunship (140 pts)
+1 with Armoured hull, Seeker missile rack, 2x Accelerator burst cannon
+
+1x Devilfish (85 pts)
+1 with Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine
+

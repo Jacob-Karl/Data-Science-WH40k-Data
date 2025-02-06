@@ -1,0 +1,110 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels
++ DETACHMENT: Sons of Sanguinius
++ TOTAL ARMY POINTS: 1995pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char2: Captain with Jump Pack
++ ENHANCEMENT: Icon of the Angel (on Char2: Captain with Jump Pack)
++ NUMBER OF UNITS: 17
++ SECONDARY: - Bring It Down: (3x2) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Captain (80 pts)
+1 with Power Fist, Plasma Pistol
+
+Char2: 1x Captain with Jump Pack (95 pts)
+1 with Bolt Pistol, Power Fist, Plasma Pistol
+• Warlord
+Enhancement: Icon of the Angel (+10 pts)
+
+Char3: 1x Chaplain with Jump Pack (75 pts)
+1 with Crozius Arcanum, Power Fist
+
+Char4: 1x Lemartes (120 pts)
+1 with Bolt Pistol, The Blood Crozius
+
+Char5: 1x Callidus Assassin (100 pts)
+1 with Neural shredder, Phase sword and poison blades
+
+BATTLELINE
+
+5x Assault Intercessor Squad (75 pts)
+• 1x Assault Intercessor Sergeant
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors
+4 with Astartes Chainsword, Heavy Bolt Pistol
+
+5x Intercessor Squad (80 pts)
+• 1x Intercessor Sergeant
+1 with Bolt Pistol, Plasma Pistol, Power Fist
+• 4x Intercessors
+4 with Bolt Pistol, Bolt Rifle, Close Combat Weapon
+
+OTHER DATASHEETS
+
+10x Assault Intercessors with Jump Packs (160 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 9x Assault Intercessors with Jump Pack
+7 with Astartes Chainsword, Heavy Bolt Pistol
+2 with Astartes Chainsword, Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+5x Assault Intercessors with Jump Packs (80 pts)
+• 1x Assault Intercessor Sergeant with Jump Pack
+1 with Plasma Pistol, Power Fist
+• 4x Assault Intercessors with Jump Pack
+3 with Astartes Chainsword, Heavy Bolt Pistol
+1 with Astartes Chainsword, Plasma Pistol
+
+10x Death Company Marines with Jump Packs (280 pts)
+• 10x Death Company Marine
+10 with Power Fist, Inferno Pistol
+
+10x Sanguinary Guard (310 pts)
+• 8x Sanguinary Guard
+8 with Encarmine Blade, Inferno Pistol
+• 2x Sanguinary Guard with Power Fist
+2 with Power Fist, Inferno Pistol
+• Sanguinary Banner
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Missile Launcher
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+1 with Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+1 with Bolt Pistol, Boltgun, Close Combat Weapon
+
+5x Scout Squad (65 pts)
+• 1x Scout Sergeant
+1 with Bolt Pistol, Close Combat Weapon, Astartes Chainsword
+• 2x Scout
+1 with Bolt Pistol, Close Combat Weapon, Heavy Bolter
+1 with Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+• 2x Scouts
+1 with Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+1 with Bolt Pistol, Boltgun, Close Combat Weapon
+
+1x Baal Predator (125 pts)
+1 with Armoured Tracks, Hunter Killer Missile, Storm Bolter, 2 Heavy Flamers, Baal Flamestorm Cannon
+
+1x Baal Predator (125 pts)
+1 with Armoured Tracks, Hunter Killer Missile, Storm Bolter, 2 Heavy Flamers, Baal Flamestorm Cannon
+
+1x Impulsor (80 pts)
+1 with Armoured Hull, Ironhail Heavy Stubber, Bellicatus Missile Array, 2 Fragstorm Grenade Launchers
+
+ALLIED UNITS
+

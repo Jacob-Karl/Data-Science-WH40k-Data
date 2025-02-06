@@ -1,0 +1,68 @@
+CHARACTERS
+
+CHAR1 Biologus Putrifier (60 points)
+CHAR2 Biologus Putrifier (60 points)
+CHAR3 Biologus Putrifier (60 points)
+CHAR4 Foul Blightspawn (60 points)
+CHAR5 Foul Blightspawn (60 points)
+• Warlord
+
+BATTLELINE
+
+Plague Marines (180 points)
+• Plague Champion: Heavy plague weapon, Plasma gun
+• 4x Plague Marine: 4x Heavy plague weapon, 4x Plague knives
+• 2x Plague Marine: 2x Meltagun
+• 1x Plague Marine: 1x Blightlauncher
+• 2x Plague Marine: 2x Plague spewer
+
+Plague Marines (180 points)
+• Plague Champion: Heavy plague weapon, Plasma gun
+• 4x Plague Marine: 4x Heavy plague weapon, 4x Plague knives
+• 2x Plague Marine: 2x Meltagun
+• 1x Plague Marine: 1x Blightlauncher
+• 2x Plague Marine: 2x Plague spewer
+
+Plague Marines (180 points)
+• Plague Champion: Heavy plague weapon, Plasma gun
+• 4x Plague Marine: 4x Heavy plague weapon, 4x Plague knives
+• 2x Plague Marine: 2x Meltagun
+• 1x Plague Marine: 1x Blightlauncher
+• 2x Plague Marine: 2x Plague spewer
+
+Plague Marines (90 points)
+• Plague Champion: Heavy plague weapon, Plasma gun
+• 2x Plague Marine: 2x Heavy plague weapon, 2x Plague knives
+• 2x Plague Marine: 1x Meltagun
+• 1x Plague Marine: 1x Plague spewer
+
+Plague Marines (90 points)
+• Plague Champion: Heavy plague weapon, Plasma gun
+• 2x Plague Marine: 2x Heavy plague weapon, 2x Plague knives
+• 2x Plague Marine: 1x Meltagun
+• 1x Plague Marine: 1x Plague spewer
+
+DEDICATED TRANSPORTS
+
+Death Guard Rhino (75 points): 2x Plague combi-bolter, 1x Havoc launcher
+Death Guard Rhino (75 points): 2x Plague combi-bolter, 1x Havoc launcher
+Death Guard Rhino (75 points): 2x Plague combi-bolter, 1x Havoc launcher
+Death Guard Rhino (75 points): 2x Plague combi-bolter, 1x Havoc launcher
+
+OTHER DATASHEETS
+
+Foetid Bloat-Drone (90 points): 2x Plaguespitter
+Foetid Bloat-Drone (90 points): 2x Plaguespitter
+
+10 Death Guard Cultists (50 points): Flamer, Heavy stubber, Granade launcher
+
+10 Poxwalkers (50 points)
+
+Plagueburst Crawler (180 points) 2 x Entropy Cannon, Heavy slugger, Plagueburst Mortar
+
+Plagueburst Crawler (180 points) 2 x Entropy Cannon, Heavy slugger, Plagueburst Mortar
+
+ALLIES
+
+Nurglings (40 points)
+

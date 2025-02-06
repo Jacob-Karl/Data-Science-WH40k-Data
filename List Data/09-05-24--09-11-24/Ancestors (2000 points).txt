@@ -1,0 +1,142 @@
+Ancestors (2000 points)
+
+Leagues of Votann
+Strike Force (2000 points)
+Oathband
+
+
+CHARACTERS
+
+Einhyr Champion (60 points)
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+
+Einhyr Champion (75 points)
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+• Enhancement: A Long List
+
+Einhyr Champion (80 points)
+• Warlord
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+• Enhancement: Appraising Glare
+
+
+BATTLELINE
+
+Hearthkyn Warriors (100 points)
+• 1x Theyn
+• 1x Close combat weapon
+1x EtaCarn plasma pistol
+1x Kin melee weapon
+1x Weavefield Crest
+• 9x Hearthkyn Warrior
+• 9x Autoch-pattern bolt pistol
+9x Close combat weapon
+1x Comms Array
+7x Ion blaster
+2x Kin melee weapon
+1x Medipack
+1x Pan Spectral Scanner
+
+Hearthkyn Warriors (100 points)
+• 1x Theyn
+• 1x Close combat weapon
+1x EtaCarn plasma pistol
+1x Kin melee weapon
+1x Weavefield Crest
+• 9x Hearthkyn Warrior
+• 9x Autoch-pattern bolt pistol
+9x Close combat weapon
+1x Comms Array
+7x Ion blaster
+2x Kin melee weapon
+1x Medipack
+1x Pan Spectral Scanner
+
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+
+OTHER DATASHEETS
+
+Brôkhyr Thunderkyn (85 points)
+• 3x Brôkhyr Thunderkyn
+• 3x Close combat weapon
+3x Graviton blast cannon
+
+Einhyr Hearthguard (160 points)
+• 1x Hesyr
+• 1x Concussion gauntlet
+1x Exo-armour grenade launcher
+1x Teleport Crest
+1x Volkanite disintegrator
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Einhyr Hearthguard (160 points)
+• 1x Hesyr
+• 1x Concussion gauntlet
+1x Exo-armour grenade launcher
+1x Volkanite disintegrator
+1x Weavefield Crest
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Einhyr Hearthguard (160 points)
+• 1x Hesyr
+• 1x Concussion gauntlet
+1x Exo-armour grenade launcher
+1x Volkanite disintegrator
+1x Weavefield Crest
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x Exo-armour grenade launcher
+4x Volkanite disintegrator
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Exported with App Version: v1.18.0 (46), Data Version: v464
+

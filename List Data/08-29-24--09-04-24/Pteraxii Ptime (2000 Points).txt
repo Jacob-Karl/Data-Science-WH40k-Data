@@ -1,0 +1,172 @@
+Pteraxii Ptime (2000 Points)
+
+Adeptus Mechanicus
+Skitarii Hunter Cohort
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Skitarii Marshal (60 Points)
+• 1x Control stave
+• 1x Mechanicus pistol
+• Enhancements: Cantic Thrallnet
+
+Skitarii Marshal (35 Points)
+• 1x Control stave
+• 1x Mechanicus pistol
+
+Skitarii Marshal (65 Points)
+• Warlord
+• 1x Control stave
+• 1x Mechanicus pistol
+• Enhancements: Battle-sphere Uplink
+
+Tech-Priest Manipulus (65 Points)
+• 1x Magnarail lance
+• 1x Omnissian staff
+
+BATTLELINE
+
+Skitarii Rangers (85 Points)
+• 1x Skitarii Ranger Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Galvanic rifle
+• 9x Skitarii Ranger
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 6x Galvanic rifle
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 1x Transuranic arquebus
+
+Skitarii Rangers (85 Points)
+• 1x Skitarii Ranger Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Galvanic rifle
+• 9x Skitarii Ranger
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 6x Galvanic rifle
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Radium carbine
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Radium carbine
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+Skitarii Vanguard (90 Points)
+• 1x Skitarii Vanguard Alpha
+◦ 1x Alpha combat weapon
+◦ 1x Close combat weapon
+◦ 1x Radium carbine
+• 9x Skitarii Vanguard
+◦ 1x Arc rifle
+◦ 9x Close combat weapon
+◦ 1x Omnispex
+◦ 1x Plasma caliver
+◦ 6x Radium carbine
+◦ 1x Transuranic arquebus
+
+DEDICATED TRANSPORTS
+
+Skorpius Dunerider (85 Points)
+• 1x Armoured hull
+• 1x Cognis heavy stubber array
+
+Skorpius Dunerider (85 Points)
+• 1x Armoured hull
+• 1x Cognis heavy stubber array
+
+OTHER DATASHEETS
+
+Ironstrider Ballistarii (210 Points)
+• 3x Ironstrider Ballistarii
+◦ 3x Ironstrider feet
+◦ 3x Twin cognis lascannon
+
+Kataphron Breachers (320 Points)
+• 6x Kataphron Breacher
+◦ 6x Heavy arc rifle
+◦ 6x Hydraulic claw
+
+Pteraxii Skystalkers (65 Points)
+• 1x Pteraxii Skystalker Alpha
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Pteraxii Skystalker
+◦ 4x Close combat weapon
+◦ 4x Flechette carbine
+
+Pteraxii Skystalkers (65 Points)
+• 1x Pteraxii Skystalker Alpha
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Pteraxii Skystalker
+◦ 4x Close combat weapon
+◦ 4x Flechette carbine
+
+Pteraxii Skystalkers (65 Points)
+• 1x Pteraxii Skystalker Alpha
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Pteraxii Skystalker
+◦ 4x Close combat weapon
+◦ 4x Flechette carbine
+
+Pteraxii Sterylizors (150 Points)
+• 1x Pteraxii Sterylizor Alpha
+◦ 1x Flechette blaster
+◦ 1x Pteraxii talons
+◦ 1x Taser goad
+• 9x Pteraxii Sterylizor
+◦ 9x Phosphor torch
+◦ 9x Pteraxii talons
+
+Sicarian Infiltrators (70 Points)
+• 1x Sicarian Infiltrator Princeps
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Sicarian Infiltrator
+◦ 4x Flechette blaster
+◦ 4x Taser goad
+
+Sicarian Infiltrators (70 Points)
+• 1x Sicarian Infiltrator Princeps
+◦ 1x Flechette blaster
+◦ 1x Taser goad
+• 4x Sicarian Infiltrator
+◦ 4x Flechette blaster
+◦ 4x Taser goad
+
+Sicarian Ruststalkers (150 Points)
+• 1x Sicarian Ruststalker Princeps
+◦ 1x Transonic blades and chordclaw
+• 9x Sicarian Ruststalker
+◦ 9x Transonic blades
+
+Exported with App Version: v1.20.0 (44), Data Version: v464

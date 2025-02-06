@@ -1,0 +1,131 @@
+Astra Militarum
+Combined Regiment
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Regimental Enginseer (45 Points)
+• 1x Archeotech pistol
+• 1x Enginseer axe
+• 1x Servo-arm
+
+Regimental Enginseer (45 Points)
+• 1x Archeotech pistol
+• 1x Enginseer axe
+• 1x Servo-arm
+
+Tank Commander (220 Points)
+• Warlord
+• 1x Armoured tracks
+• 1x Demolisher battle cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Militarum plasma cannon
+• Enhancements: Grand Strategist
+
+BATTLELINE
+
+Catachan Jungle Fighters (55 Points)
+• 1x Jungle Fighter Sergeant
+◦ 1x Close combat weapon
+◦ 1x Laspistol
+• 9x Jungle Fighter
+◦ 9x Close combat weapon
+◦ 2x Flamer
+◦ 7x Lasgun
+◦ 1x Vox-caster
+
+DEDICATED TRANSPORTS
+
+Chimera (70 Points)
+• 1x Armoured tracks
+• 1x Chimera heavy bolter
+• 1x Heavy bolter
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lasgun array
+
+OTHER DATASHEETS
+
+Basilisk (140 Points)
+• 1x Armoured tracks
+• 1x Earthshaker cannon
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+
+Hellhound (115 Points)
+• 1x Armoured tracks
+• 1x Heavy bolter
+• 1x Hunter-killer missile
+• 1x Inferno cannon
+
+Hellhound (115 Points)
+• 1x Armoured tracks
+• 1x Heavy flamer
+• 1x Hunter-killer missile
+• 1x Inferno cannon
+
+Leman Russ Battle Tank (170 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Leman Russ battle cannon
+• 2x Plasma cannon
+
+Leman Russ Demolisher (200 Points)
+• 1x Armoured tracks
+• 1x Demolisher battle cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Leman Russ Eradicator (150 Points)
+• 1x Armoured tracks
+• 1x Eradicator nova cannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Leman Russ Exterminator (170 Points)
+• 1x Armoured tracks
+• 1x Exterminator autocannon
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Multi-melta
+
+Leman Russ Vanquisher (145 Points)
+• 1x Armoured tracks
+• 1x Heavy stubber
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 2x Plasma cannon
+• 1x Vanquisher battle cannon
+
+Rogal Dorn Battle Tank (240 Points)
+• 1x Armoured tracks
+• 1x Co-axial autocannon
+• 1x Heavy stubber
+• 2x Heavy stubber
+• 2x Multi-melta
+• 1x Oppressor cannon
+• 1x Pulveriser cannon
+
+Scout Sentinels (60 Points)
+• 1x Close combat weapon
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Sentinel chainsaw
+
+Scout Sentinels (60 Points)
+• 1x Close combat weapon
+• 1x Hunter-killer missile
+• 1x Lascannon
+• 1x Sentinel chainsaw
+
+Exported with App Version: v1.19.0 (43), Data Version: v438
+

@@ -1,0 +1,81 @@
+All hail Hiner!
+
+++ Army Roster (Xenos - Necrons) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size
+
+Detachment Choice: Hypercrypt Legion
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+The Silent King [420pts]
+
+. 2x Triarchal Menhir: 2x Annihilator beam, 2x Armoured bulk
+
++ Character +
+
+
+Royal Warden [65pts]: Dimensional Overseer
+
++ Battleline +
+
+
+Immortals [75pts]
+
+. 5x Immortal: 5x Close combat weapon, 5x tesla
+
++ Infantry +
+
+
+Deathmarks [60pts]
+
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
+Deathmarks [60pts]
+
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
++ Mounted +
+
+
+Lokhust Destroyers [30pts]
+
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+
+. Lokhust Destroyer
+
++ Vehicle +
+
+
+Canoptek Spyders [75pts]
+
+. Canoptek Spyder: Fabricator claw array, Gloom prism, Two particle beamers
+
+Doomsday Ark [200pts]
+
+Doomsday Ark [200pts]
+
+Monolith [375pts]
+
+. Four death rays
+
+Monolith [375pts]
+
+. Four death rays
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()
+

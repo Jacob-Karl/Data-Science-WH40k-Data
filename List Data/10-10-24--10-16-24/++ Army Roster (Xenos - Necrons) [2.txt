@@ -1,0 +1,80 @@
+++ Army Roster (Xenos - Necrons) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Hypercrypt Legion
+
+Show/Hide Options
+
++ Character +
+
+Lokhust Lord [105pts]: Arisen Tyrant, Lord's blade, Resurrection orb
+
+Psychomancer [55pts]: Warlord
+
++ Battleline +
+
+Immortals [75pts]
+. 5x Immortal: 5x Close combat weapon, 5x Tesla carbine
+
+Immortals [75pts]
+. 5x Immortal: 5x Close combat weapon, 5x Tesla carbine
+
++ Infantry +
+
+Deathmarks [120pts]
+. 10x Deathmark: 10x Close combat weapon, 10x Synaptic disintegrator
+
+Flayed Ones [60pts]
+. 5x Flayed One: 5x Flayer claws
+
+Flayed Ones [120pts]
+. 10x Flayed One: 10x Flayer claws
+
+Flayed Ones [60pts]
+. 5x Flayed One: 5x Flayer claws
+
++ Swarm +
+
+Canoptek Scarab Swarms [40pts]
+. 3x Canoptek Scarab Swarm: 3x Feeder mandibles
+
+Canoptek Scarab Swarms [40pts]
+. 3x Canoptek Scarab Swarm: 3x Feeder mandibles
+
+Canoptek Scarab Swarms [40pts]
+. 3x Canoptek Scarab Swarm: 3x Feeder mandibles
+
++ Mounted +
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
+Lokhust Heavy Destroyers [150pts]
+. 3x Destroyer w/ enmitic exterminator: 3x Close combat weapon, 3x Enmitic exterminator
+
+Lokhust Heavy Destroyers [150pts]
+. 3x Destroyer w/ enmitic exterminator: 3x Close combat weapon, 3x Enmitic exterminator
+
++ Vehicle +
+
+Canoptek Spyders [75pts]
+. Canoptek Spyder: Fabricator claw array, Gloom prism, Two particle beamers
+
+Doomsday Ark [200pts]
+
+Doomsday Ark [200pts]
+
+Monolith [375pts]
+. Four death rays
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+
+s

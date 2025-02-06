@@ -1,0 +1,71 @@
+hypa hypa crypt
+
+
+
+
+++ Army Roster (Xenos - Necrons) [1,980pts] ++
+
+Detachment Choice: Hypercrypt Legion
+
++ Epic Hero +
+
+Imotekh the Stormlord [100pts]
+
++ Character +
+
+Hexmark Destroyer [95pts]: Dimensional Overseer, Warlord
+
+Skorpekh Lord [100pts]: Osteoclave Fulcrum
+
++ Infantry +
+
+Deathmarks [60pts]
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
+Flayed Ones [60pts]
+. 5x Flayed One: 5x Flayer claws
+
+Skorpekh Destroyers [90pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
+Skorpekh Destroyers [90pts]
+. 3x Skorpekh Destroyer: 3x Skorpekh hyperphase weapons
+
++ Mounted +
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+. Lokhust Destroyer
+
+Lokhust Heavy Destroyers [150pts]
+. 3x Destroyer w/ gauss destructor: 3x Close combat weapon, 3x Gauss destructor
+
+Lokhust Heavy Destroyers [150pts]
+. 3x Destroyer w/ gauss destructor: 3x Close combat weapon, 3x Gauss destructor
+
+Tomb Blades [75pts]
+. Tomb Blade: Shadowloom, Twin tesla carbine
+. Tomb Blade: Shadowloom, Twin tesla carbine
+. Tomb Blade: Shadowloom, Twin tesla carbine
+
+Tomb Blades [75pts]
+. Tomb Blade: Shadowloom, Twin tesla carbine
+. Tomb Blade: Shadowloom, Twin tesla carbine
+. Tomb Blade: Shadowloom, Twin tesla carbine
+
++ Vehicle +
+
+Canoptek Reanimator [75pts]
+
+Doomsday Ark [200pts]
+
+Doomsday Ark [200pts]
+
+Tesseract Vault [400pts]
+
+++ Total: [1,980pts] ++
+
+Created with BattleScribe ()
+

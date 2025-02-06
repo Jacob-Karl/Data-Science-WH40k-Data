@@ -1,0 +1,34 @@
+++ Army Roster (Imperium - Imperial Knights) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Noble Lance
+
++ Epic Hero +
+
+Canis Rex [435pts]: Warlord
+
++ Character +
+
+Cerastus Knight Atrapos [450pts]: Mysterious Guardian
+
+Cerastus Knight Atrapos [425pts]
+
++ Battleline +
+
+Armiger Helverin [140pts]: Questoris heavy stubber
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
+Armiger Warglaive [150pts]: Meltagun
+
++ Allied Units +
+
+Callidus Assassin [100pts]
+
+++ Total: [2,000pts] ++
+

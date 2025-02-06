@@ -1,0 +1,127 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Orks
++ DETACHMENT: Dread Mob
++ TOTAL ARMY POINTS: 2000pts
++
++ WARLORD: Char2: Warboss
++ ENHANCEMENT: Gitfinder Gogglez (on Char1: Big Mek with Shokk Attack Gun)
++ NUMBER OF UNITS: 18
++ SECONDARY: - Bring It Down: (1x2) + (1x4) + (3x6) - Assassination: 5 Characters - Cull The Horde: 1x5
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+1x Big Mek with Shokk Attack Gun (85 pts)
+• 1x Close combat weapon
+• 1x Shokk attack gun
+• Gitfinder Gogglez (+10 pts)
+
+1x Warboss (65 pts)
+• 1x Kombi-weapon
+• 1x Twin slugga
+• 1x Attack squig
+• 1x Power klaw
+• Warlord
+
+1x Warboss (65 pts)
+• 1x Kombi-weapon
+• 1x Twin slugga
+• 1x Attack squig
+• 1x Power klaw
+
+1x Warboss (65 pts)
+• 1x Kombi-weapon
+• 1x Twin slugga
+• 1x Attack squig
+• 1x Power klaw
+
+1x Zodgrod Wortsnagga (80 pts)
+• 1x Da Grabzappa
+• 1x Squigstoppa
+
+OTHER DATASHEETS
+
+22x Gretchin (80 pts)
+• 20x Gretchin
+• 2x Runtherd
+
+11x Gretchin (40 pts)
+• 10x Gretchin
+• 1x Runtherd
+
+10x Lootas (100 pts)
+• 8x Loota
+• 2x Spanner
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+• 1x Power klaw
+• 1x Slugga
+• 4x Nob
+• 4x Power klaw
+• 4x Slugga
+• Ammo Runt
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+• 1x Power klaw
+• 1x Slugga
+• 4x Nob
+• 4x Power klaw
+• 4x Slugga
+• Ammo Runt
+
+5x Nobz (105 pts)
+• 1x Boss Nob
+• 1x Power klaw
+• 1x Slugga
+• 4x Nob
+• 4x Power klaw
+• 4x Slugga
+• Ammo Runt
+
+5x Stormboyz (65 pts)
+• 1x Boss Nob
+• 1x Slugga
+• 1x Power klaw
+• 4x Stormboy
+• 4x Choppa
+• 4x Slugga
+
+5x Stormboyz (65 pts)
+• 1x Boss Nob
+• 1x Slugga
+• 1x Power klaw
+• 4x Stormboy
+• 4x Choppa
+• 4x Slugga
+
+1x Battlewagon (160 pts)
+• 4x Big shoota
+• 1x Grabbin' klaw
+• 1x Lobba
+• 1x Wreckin' ball
+• 1x Zzap gun
+• 1x Deff rolla
+• 'Ard Case
+
+6x Killa Kans (250 pts)
+• 6x Killa Kan
+• 6x Kan klaw
+• 6x Rokkit launcha
+
+6x Killa Kans (250 pts)
+• 6x Killa Kan
+• 6x Kan klaw
+• 6x Rokkit launcha
+
+6x Killa Kans (250 pts)
+• 6x Killa Kan
+• 6x Kan klaw
+• 6x Rokkit launcha
+
+1x Trukk (65 pts)
+• 1x Big shoota
+• 1x Spiked wheels
+• 1x Wreckin' ball
+

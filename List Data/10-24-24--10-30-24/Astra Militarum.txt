@@ -1,0 +1,150 @@
+Astra Militarum
+Strike Force (2000 points)
+Combined Regiment
+
+
+CHARACTERS
+
+Cadian Command Squad (65 points)
+• 1x Cadian Commander
+• 1x Plasma pistol
+1x Power fist
+• 1x Cadian Veteran Guardsman
+• 1x Plasma pistol
+1x Power fist
+• 1x Cadian Veteran Guardsman with Master Vox
+• 1x Close combat weapon
+1x Lasgun
+1x Master Vox
+• 1x Cadian Veteran Guardsman with Medi-pack
+• 1x Close combat weapon
+1x Lasgun
+1x Medi-pack
+• 1x Cadian Veteran Guardsman with Regimental Standard
+• 1x Close combat weapon
+1x Plasma gun
+
+Lord Solar Leontus (125 points)
+• Warlord
+• 1x Conquest
+1x Konstantin's hooves
+1x Sol's Righteous Gaze
+
+Tank Commander (240 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Militarum plasma cannon
+• Enhancement: Grand Strategist
+
+
+BATTLELINE
+
+Cadian Shock Troops (60 points)
+• 1x Shock Trooper Sergeant
+• 1x Bolt pistol
+1x Chainsword
+• 9x Shock Trooper
+• 9x Close combat weapon
+7x Lasgun
+1x Meltagun
+1x Plasma gun
+1x Vox-caster
+
+Death Korps of Krieg (65 points)
+• 1x Death Korps Watchmaster
+• 1x Plasma pistol
+1x Power weapon
+• 9x Death Korps Trooper
+• 9x Close combat weapon
+1x Death Korps Medi-pack
+1x Grenade launcher
+6x Lasgun
+1x Meltagun
+1x Plasma gun
+
+
+OTHER DATASHEETS
+
+Basilisk (140 points)
+• 1x Armoured tracks
+1x Earthshaker cannon
+1x Heavy bolter
+
+Hellhound (115 points)
+• 1x Armoured tracks
+1x Heavy bolter
+1x Hunter-killer missile
+1x Inferno cannon
+
+Leman Russ Demolisher (200 points)
+• 1x Armoured tracks
+1x Demolisher battle cannon
+1x Heavy stubber
+1x Hunter-killer missile
+1x Lascannon
+2x Multi-melta
+
+Nork Deddog (60 points)
+• 1x Huge knife
+1x Ripper gun
+
+Rogal Dorn Battle Tank (240 points)
+• 1x Armoured tracks
+1x Co-axial autocannon
+3x Heavy stubber
+2x Multi-melta
+1x Oppressor cannon
+1x Pulveriser cannon
+
+Rogal Dorn Battle Tank (240 points)
+• 1x Armoured tracks
+1x Co-axial autocannon
+3x Heavy stubber
+2x Multi-melta
+1x Oppressor cannon
+1x Pulveriser cannon
+
+Rogal Dorn Battle Tank (240 points)
+• 1x Armoured tracks
+1x Co-axial autocannon
+3x Heavy stubber
+2x Multi-melta
+1x Oppressor cannon
+1x Pulveriser cannon
+
+Scout Sentinels (55 points)
+• 1x Close combat weapon
+1x Hunter-killer missile
+1x Lascannon
+1x Sentinel chainsaw
+
+Scout Sentinels (55 points)
+• 1x Close combat weapon
+1x Hunter-killer missile
+1x Lascannon
+1x Sentinel chainsaw
+
+Tempestus Scions (50 points)
+• 1x Tempestor
+• 1x Plasma pistol
+1x Power fist
+• 4x Tempestus Scion
+• 4x Close combat weapon
+2x Hot-shot lasgun
+1x Meltagun
+1x Plasma gun
+
+Tempestus Scions (50 points)
+• 1x Tempestor
+• 1x Plasma pistol
+1x Power fist
+• 4x Tempestus Scion
+• 4x Close combat weapon
+2x Hot-shot lasgun
+1x Meltagun
+1x Plasma gun
+
+Exported with App Version: v1.22.0 (51), Data Version: v488

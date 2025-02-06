@@ -1,0 +1,70 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ PLAYER NAME: 宝
++ TEAM NAME: 深圳战棋研究所
++ FACTION KEYWORD: Imperium - Adeptus Custodes
++ DETACHMENT: Shield Host
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char3: Shield-Captain in Allarus Terminator Armour
++ ENHANCEMENT: From the Hall of Armouries (on Char3: Shield-Captain in Allarus Terminator Armour)
++ NUMBER OF UNITS: 11
++ SECONDARY: - Assassination: 3 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTER
+
+Char1: 1x Blade Champion (110 pts)
+1 with Vaultswords
+
+Char2: 1x Blade Champion (110 pts)
+1 with Vaultswords
+
+Char3: 1x Shield-Captain in Allarus Terminator Armour (165 pts)
+1 with Balistus grenade launcher, Castellan Axe
+• Warlord
+Enhancement: From the Hall of Armouries (+25 pts)
+
+OTHER DATASHEETS
+
+3x Allarus Custodians (195 pts)
+• 3x Allarus Custodian (Castellan Axe)
+3 with Balistus grenade launcher, Castellan Axe
+
+5x Custodian Wardens (250 pts)
+• 4x Custodian Warden (Guardian Spear)
+4 with Guardian Spear
+• 1x Custodian Warden
+1 with Guardian Spear
+• Vexilla
+
+5x Custodian Wardens (250 pts)
+• 4x Custodian Warden (Guardian Spear)
+4 with Guardian Spear
+• 1x Custodian Warden
+1 with Guardian Spear
+• Vexilla
+
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior
+1 with Boltgun, Close combat weapon
+• 3x Prosecutor
+3 with Boltgun, Close combat weapon
+
+6x Venatari Custodians (330 pts)
+• 6x Venatari Custodian (Venatari lance)
+6 with Venatari lance
+
+6x Venatari Custodians (330 pts)
+• 6x Venatari Custodian (Venatari lance)
+6 with Venatari lance
+
+3x Venatari Custodians (165 pts)
+• 3x Venatari Custodian (Venatari lance)
+3 with Venatari lance
+
+4x Witchseekers (50 pts)
+• 1x Witchseeker Sister Superior
+1 with Close combat weapon, Witchseeker flamer
+• 3x Witchseeker
+3 with Close combat weapon, Witchseeker flamer
+

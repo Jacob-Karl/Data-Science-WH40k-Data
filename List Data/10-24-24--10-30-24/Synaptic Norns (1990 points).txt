@@ -1,0 +1,71 @@
+Synaptic Norns (1990 points)
+
+Tyranids
+Strike Force (2000 points)
+Synaptic Nexus
+
+
+CHARACTERS
+
+Deathleaper (80 points)
+• 1x Lictor claws and talons
+
+Hive Tyrant (255 points)
+• 1x Monstrous bonesword and lash whip
+1x Monstrous scything talons
+• Enhancement: Synaptic Control
+
+Neurotyrant (115 points)
+• Warlord
+• 1x Neurotyrant claws and lashes
+1x Psychic scream
+• Enhancement: Power of the Hive Mind
+
+Parasite of Mortrex (95 points)
+• 1x Barbed ovipositor
+1x Clawed limbs
+• Enhancement: The Dirgeheart of Kharis (Aura)
+
+The Swarmlord (240 points)
+• 1x Bone sabres
+1x Synaptic pulse
+
+
+OTHER DATASHEETS
+
+Biovores (50 points)
+• 1x Chitin-barbed limbs
+1x Spore Mine launcher
+
+Exocrine (135 points)
+• 1x Bio-plasmic cannon
+1x Powerful limbs
+
+Exocrine (135 points)
+• 1x Bio-plasmic cannon
+1x Powerful limbs
+
+Exocrine (135 points)
+• 1x Bio-plasmic cannon
+1x Powerful limbs
+
+Norn Emissary (275 points)
+• 1x Monstrous rending claws
+1x Monstrous scything talons
+1x Psychic Tendril
+
+Norn Emissary (275 points)
+• 1x Monstrous rending claws
+1x Monstrous scything talons
+1x Psychic Tendril
+
+Zoanthropes (200 points)
+• 1x Neurothrope
+• 1x Chitinous claws and teeth
+1x Warp Blast
+• 5x Zoanthrope
+• 5x Chitinous claws and teeth
+5x Warp Blast
+
+Exported with App Version: v1.21.0 (49), Data Version: v469
+

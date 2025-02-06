@@ -1,0 +1,144 @@
+Name: Mathieu "Northan" Clerc
+Team: LyS
+Factions used: Leagues of Votann
+Detachments used: Oathband
+Enhancements: Einhyr Champion: Appraising Glare and Kâhl: Grim Demeanor
+
+IStillLoveMyHearthguards
+
+CHARACTERS
+
+Einhyr Champion (80 points)
+• 1x Autoch-pattern combi-bolter
+1x Mass hammer
+1x Weavefield Crest
+• Enhancement: Appraising Glare
+
+Kâhl (90 points)
+• Warlord
+• 1x Mass gauntlet
+1x Rampart Crest
+1x Volkanite disintegrator
+• Enhancement: Grim Demeanour
+
+
+BATTLELINE
+
+Hearthkyn Warriors (100 points)
+• 1x Theyn
+• 1x Close combat weapon
+1x EtaCarn plasma pistol
+1x Kin melee weapon
+1x Weavefield Crest
+• 9x Hearthkyn Warrior
+• 9x Autoch-pattern bolt pistol
+7x Autoch-pattern bolter
+9x Close combat weapon
+1x Comms Array
+1x EtaCarn plasma beamer
+1x HYLas auto rifle
+1x Medipack
+
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+Sagitaur (115 points)
+• 1x Armoured wheels
+1x HYLas beam cannon
+1x Twin bolt cannon
+
+
+OTHER DATASHEETS
+
+Cthonian Beserks (200 points)
+• 10x Cthonian Beserk
+• 10x Concussion maul
+2x Mole grenade launcher
+
+Cthonian Beserks (100 points)
+• 5x Cthonian Beserk
+• 5x Heavy plasma axe
+1x Mole grenade launcher
+
+Einhyr Hearthguard (320 points)
+• 1x Hesyr
+• 1x Concussion hammer
+1x EtaCarn plasma gun
+1x Exo-armour grenade launcher
+1x Teleport Crest
+• 9x Einhyr Hearthguard
+• 9x Concussion gauntlet
+9x EtaCarn plasma gun
+9x Exo-armour grenade launcher
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Hekaton Land Fortress (225 points)
+• 1x Armoured wheels
+1x MATR autocannon
+1x Pan Spectral Scanner
+1x SP heavy conversion beamer
+2x Twin bolt cannon
+
+Hernkyn Pioneers (90 points)
+• 3x Hernkyn Pioneer
+• 3x Bolt revolver
+3x Bolt shotgun
+1x HYLas rotary cannon
+3x Magna-coil autocannon
+1x Pan Spectral Scanner
+3x Plasma knife
+1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 points)
+• 3x Hernkyn Pioneer
+• 3x Bolt revolver
+3x Bolt shotgun
+1x HYLas rotary cannon
+3x Magna-coil autocannon
+1x Pan Spectral Scanner
+3x Plasma knife
+1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 points)
+• 3x Hernkyn Pioneer
+• 3x Bolt revolver
+3x Bolt shotgun
+1x HYLas rotary cannon
+3x Magna-coil autocannon
+1x Pan Spectral Scanner
+3x Plasma knife
+1x Rollbar Searchlight
+
+Hernkyn Yaegirs (80 points)
+• 1x Yaegir Theyn
+• 1x Bolt revolver
+1x Close combat weapon
+1x Plasma knife
+• 9x Hernkyn Yaegir
+• 1x APM launcher
+8x Bolt revolver
+9x Close combat weapon
+8x Plasma knife
+
+Hernkyn Yaegirs (80 points)
+• 1x Yaegir Theyn
+• 1x Bolt revolver
+1x Close combat weapon
+1x Plasma knife
+• 9x Hernkyn Yaegir
+• 1x APM launcher
+8x Bolt revolver
+9x Close combat weapon
+8x Plasma knife
+
