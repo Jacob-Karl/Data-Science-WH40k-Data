@@ -1,0 +1,66 @@
+++ Army Roster (Chaos - World Eaters) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Blessings of Khorne Reference
+
+Detachment Choice: Berzerker Warband
+
+Show/Hide Options: Chaos Knights are visible
+
++ Epic Hero +
+
+Angron [415pts]
+
+Khârn the Betrayer [100pts]
+
+Lord Invocatus [140pts]
+
++ Character +
+
+World Eaters Daemon Prince [215pts]: Battle-lust
+
+World Eaters Master of Executions [100pts]
+
++ Battleline +
+
+Jakhals [65pts]: Icon of Khorne
+. A: 8 chainblades
+. . 8x Jakhals: 8x Autopistol, 8x Jakhal chainblades
+. Dishonoured w/ skullsmasher
+
+Khorne Berserkers [180pts]: Icon of Khorne
+. 6x Khorne Berserker: 6x Berserker chainblade, 6x Bolt pistol
+. Khorne Berserker Champion: Plasma pistol
+. Khorne Berserker w/ alternate weapons: Berserker chainblade, Plasma pistol
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+
+Khorne Berserkers [90pts]: Icon of Khorne
+. 2x Khorne Berserker: 2x Berserker chainblade, 2x Bolt pistol
+. Khorne Berserker Champion: Plasma pistol
+. Khorne Berserker w/ alternate weapons: Bolt pistol, Khornate eviscerator
+. Khorne Berserker w/ alternate weapons: Berserker chainblade, Plasma pistol
+
++ Infantry +
+
+Exalted Eightbound [310pts]
+. 5x Exalted Eightbound: 5x Eightbound chainfist, 5x Eightbound eviscerator
+. Exalted Eightbound Champion: Paired Eightbound chainfists
+
+Exalted Eightbound [310pts]
+. 5x Exalted Eightbound: 5x Eightbound chainfist, 5x Eightbound eviscerator
+. Exalted Eightbound Champion: Paired Eightbound chainfists
+
++ Dedicated Transport +
+
+World Eaters Rhino [75pts]: Combi-weapon, Havoc launcher
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+
+It's totally going to be battle ready, there's no need to double check that
+

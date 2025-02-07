@@ -1,0 +1,87 @@
+++ Army Roster (Xenos - Orks) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: War Horde
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Boss Snikrot [95pts]
+
+Ghazghkull Thraka [235pts]: Warlord
+
++ Character +
+
+Beastboss [80pts]
+
+Beastboss [80pts]
+
+Warboss [90pts]: Attack squig, Follow Me Ladz, Power klaw
+
+Warboss [65pts]: Attack squig, Power klaw
+
++ Battleline +
+
+Beast Snagga Boyz [105pts]
+. 9x Beast Snagga Boy: 9x Choppa, 9x Slugga
+
+Beast Snagga Boyz [105pts]
+. 9x Beast Snagga Boy: 9x Choppa, 9x Slugga
+
++ Infantry +
+
+Flash Gitz [80pts]: Ammo Runt
+. 4x Flash Gitz: 4x Choppa, 4x Snazzgun
+
+Flash Gitz [80pts]: Ammo Runt
+. 4x Flash Gitz: 4x Choppa, 4x Snazzgun
+
+Gretchin [40pts]
+. 1 Runtherd and 10 Gretchin
+. . 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+
+Gretchin [40pts]
+. 1 Runtherd and 10 Gretchin
+. . 10x Gretchin: 10x Close combat weapon, 10x Grot blasta
+
+Meganobz [200pts]
+. 5x Meganob w/ Killsaw and power klaw: 5x Killsaw, 5x Power klaw
+
+Nobz [105pts]: Ammo Runt
+. Boss Nob
+. . Slugga and power klaw
+. 4x Nob w/ Slugga and power klaw: 4x Power klaw, 4x Slugga
+
+Nobz [105pts]: Ammo Runt
+. Boss Nob
+. . Slugga and power klaw
+. 4x Nob w/ Slugga and power klaw: 4x Power klaw, 4x Slugga
+
+Stormboyz [65pts]
+. Boss Nob: Power klaw
+. 4x Stormboy: 4x Choppa, 4x Slugga
+
+Stormboyz [65pts]
+. Boss Nob: Power klaw
+. 4x Stormboy: 4x Choppa, 4x Slugga
+
++ Vehicle +
+
+Kill Rig [170pts]
+
++ Dedicated Transport +
+
+Trukk [65pts]: Wreckin' ball
+
+Trukk [65pts]: Wreckin' ball
+
+Trukk [65pts]: Wreckin' ball
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

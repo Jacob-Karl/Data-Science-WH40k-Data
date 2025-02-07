@@ -1,0 +1,84 @@
+++ Army Roster (Imperium - Adeptus Astartes - Ultramarines) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Vanguard Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Marneus Calgar [185pts]: Warlord
+. 2x Victrix Honour Guard: 2x Victrix Power Sword
+
+Uriel Ventris [75pts]
+
++ Character +
+
+Apothecary Biologis [80pts]: The Blade Driven Deep
+
++ Battleline +
+
+Intercessor Squad [80pts]
+. Intercessor Sergeant: Bolt Rifle, Power Fist
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry +
+
+Aggressor Squad [240pts]
+. Aggressor Sergeant
+. 5x Aggressors: 5x Twin Power Fist
+. Auto Boltstorm Gauntlets & Fragstorm Grenade Launcher
+
+Centurion Devastator Squad [370pts]
+. Devastator Centurion: Centurion Missile Launcher, Twin Lascannon
+. Devastator Centurion: Centurion Missile Launcher, Twin Lascannon
+. Devastator Centurion: Centurion Missile Launcher, Twin Lascannon
+. Devastator Centurion: Centurion Missile Launcher, Twin Lascannon
+. Devastator Centurion: Centurion Missile Launcher, Twin Lascannon
+. Devastator Centurion Sergeant: Centurion Missile Launcher, Twin Lascannon
+
+Hellblaster Squad [115pts]
+. 4x Hellblaster: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Plasma Incinerator
+. Hellblaster Sergeant: Plasma Pistol
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Missile Launcher
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Boltgun: 2x Bolt Pistol, 2x Boltgun, 2x Close Combat Weapon
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Missile Launcher
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Boltgun: 2x Bolt Pistol, 2x Boltgun, 2x Close Combat Weapon
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Missile Launcher
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Boltgun: 2x Bolt Pistol, 2x Boltgun, 2x Close Combat Weapon
+
++ Vehicle +
+
+Gladiator Lancer [160pts]: 2 Fragstorm Grenade Launchers, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Gladiator Lancer [160pts]: 2 Fragstorm Grenade Launchers, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Storm Speeder Thunderstrike [160pts]
+
++ Dedicated Transport +
+
+Impulsor [80pts]: 2 Storm Bolters, Ironhail Heavy Stubber, Shield Dome
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe ()
+

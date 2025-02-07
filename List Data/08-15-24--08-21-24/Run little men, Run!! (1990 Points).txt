@@ -1,0 +1,165 @@
+Run little men, Run!! (1990 Points)
+
+Leagues of Votann
+Oathband
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Einhyr Champion (60 Points)
+• 1x Autoch-pattern combi-bolter
+• 1x Mass hammer
+• 1x Weavefield Crest
+
+Einhyr Champion (80 Points)
+• 1x Autoch-pattern combi-bolter
+• 1x Mass hammer
+• 1x Weavefield Crest
+• Enhancements: Appraising Glare
+
+Kâhl (90 Points)
+• Warlord
+• 1x Mass gauntlet
+• 1x Rampart Crest
+• 1x Volkanite disintegrator
+• Enhancements: Grim Demeanour
+
+BATTLELINE
+
+Hearthkyn Warriors (100 Points)
+• 1x Theyn
+◦ 1x Close combat weapon
+◦ 1x EtaCarn plasma pistol
+◦ 1x Kin melee weapon
+◦ 1x Weavefield Crest
+• 9x Hearthkyn Warrior
+◦ 9x Autoch-pattern bolt pistol
+◦ 9x Close combat weapon
+◦ 1x Comms Array
+◦ 1x HYLas auto rifle
+◦ 7x Ion blaster
+◦ 1x Magna-rail rifle
+◦ 1x Medipack
+◦ 1x Pan Spectral Scanner
+
+DEDICATED TRANSPORTS
+
+Sagitaur (115 Points)
+• 1x Armoured wheels
+• 1x HYLas beam cannon
+• 1x Twin bolt cannon
+
+Sagitaur (115 Points)
+• 1x Armoured wheels
+• 1x HYLas beam cannon
+• 1x Twin bolt cannon
+
+Sagitaur (115 Points)
+• 1x Armoured wheels
+• 1x HYLas beam cannon
+• 1x Twin bolt cannon
+
+Sagitaur (115 Points)
+• 1x Armoured wheels
+• 1x HYLas beam cannon
+• 1x Twin bolt cannon
+
+OTHER DATASHEETS
+
+Brôkhyr Thunderkyn (85 Points)
+• 3x Brôkhyr Thunderkyn
+◦ 3x Close combat weapon
+◦ 3x Graviton blast cannon
+
+Brôkhyr Thunderkyn (85 Points)
+• 3x Brôkhyr Thunderkyn
+◦ 3x Close combat weapon
+◦ 3x Graviton blast cannon
+
+Cthonian Beserks (100 Points)
+• 5x Cthonian Beserk
+◦ 5x Concussion maul
+◦ 1x Mole grenade launcher
+
+Cthonian Beserks (100 Points)
+• 5x Cthonian Beserk
+◦ 5x Concussion maul
+◦ 1x Mole grenade launcher
+
+Einhyr Hearthguard (160 Points)
+• 1x Hesyr
+◦ 1x Concussion hammer
+◦ 1x EtaCarn plasma gun
+◦ 1x Exo-armour grenade launcher
+◦ 1x Teleport Crest
+• 4x Einhyr Hearthguard
+◦ 4x Concussion gauntlet
+◦ 4x EtaCarn plasma gun
+◦ 4x Exo-armour grenade launcher
+
+Einhyr Hearthguard (160 Points)
+• 1x Hesyr
+◦ 1x Concussion hammer
+◦ 1x EtaCarn plasma gun
+◦ 1x Exo-armour grenade launcher
+◦ 1x Weavefield Crest
+• 4x Einhyr Hearthguard
+◦ 4x Concussion gauntlet
+◦ 4x EtaCarn plasma gun
+◦ 4x Exo-armour grenade launcher
+
+Einhyr Hearthguard (160 Points)
+• 1x Hesyr
+◦ 1x Concussion hammer
+◦ 1x EtaCarn plasma gun
+◦ 1x Exo-armour grenade launcher
+◦ 1x Teleport Crest
+• 4x Einhyr Hearthguard
+◦ 4x Concussion gauntlet
+◦ 4x EtaCarn plasma gun
+◦ 4x Exo-armour grenade launcher
+
+Hernkyn Pioneers (90 Points)
+• 3x Hernkyn Pioneer
+◦ 3x Bolt revolver
+◦ 3x Bolt shotgun
+◦ 1x HYLas rotary cannon
+◦ 3x Magna-coil autocannon
+◦ 1x Pan Spectral Scanner
+◦ 3x Plasma knife
+◦ 1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+• 3x Hernkyn Pioneer
+◦ 3x Bolt revolver
+◦ 3x Bolt shotgun
+◦ 1x HYLas rotary cannon
+◦ 3x Magna-coil autocannon
+◦ 1x Pan Spectral Scanner
+◦ 3x Plasma knife
+◦ 1x Rollbar Searchlight
+
+Hernkyn Pioneers (90 Points)
+• 3x Hernkyn Pioneer
+◦ 3x Bolt revolver
+◦ 3x Bolt shotgun
+◦ 1x HYLas rotary cannon
+◦ 3x Magna-coil autocannon
+◦ 1x Pan Spectral Scanner
+◦ 3x Plasma knife
+◦ 1x Rollbar Searchlight
+
+Hernkyn Yaegirs (80 Points)
+• 1x Yaegir Theyn
+◦ 1x Bolt revolver
+◦ 1x Close combat weapon
+◦ 1x Plasma knife
+• 9x Hernkyn Yaegir
+◦ 1x APM launcher
+◦ 7x Bolt revolver
+◦ 9x Close combat weapon
+◦ 1x Magna-coil rifle
+◦ 7x Plasma knife
+
+Exported with App Version: v1.19.0 (43), Data Version: v438
+

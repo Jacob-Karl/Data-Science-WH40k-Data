@@ -1,0 +1,75 @@
+++ Army Roster (Chaos - Chaos Daemons) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Daemonic Incursion
+
+Khorne Daemons are visible
+
+Nurgle Daemons are visible
+
+Slaanesh Daemons are visible
+
+Tzeentch Daemons are visible
+
++ Epic Hero +
+
+
+Skarbrand [305pts]: Bellow of endless fury, Slaughter and Carnage, Warlord
+
++ Character +
+
+
+Bloodthirster [325pts]: A'rgath, the King of Blades, Great axe of Khorne, Hellfire breath
+
+Fateskimmer [95pts]: Arcane Fireball, Herald combat weapon, Screamer bites
+
+Fluxmaster [60pts]: Arcane Fireball, Herald combat weapon
+
+Great Unclean One [260pts]: Bilesword, Plague flail, Putrid vomit, The Endless Gift
+
+Keeper of Secrets [305pts]: Phantasmagoria, Shining aegis, Snapping claws, Soulstealer, Witstealer sword
+
++ Battleline +
+
+
+Bloodletters [120pts]: Daemonic Icon, Instrument of Chaos
+
+. 9x Bloodletter: 9x Hellblade
+. Bloodreaper: Hellblade
+
+Daemonettes [100pts]: Daemonic Icon, Instrument of Chaos
+
+. 10x Daemonette: 10x Slashing claws
+
+Pink Horrors [140pts]: Daemonic Icon, Instrument of Chaos
+
+. 10x Pink Horror: 10x Coruscating Pink flames, 10x Pink claws
+
++ Infantry +
+
+
+Flamers [75pts]
+
+. 3x Flamer: 3x Flamer mouths, 3x Flickering Flames
+
++ Beast +
+
+
+Beasts of Nurgle [70pts]
+
+. Beast of Nurgle: Putrid appendages
+
+Beasts of Nurgle [70pts]
+
+. Beast of Nurgle: Putrid appendages
+
+Screamers [75pts]
+
+. 3x Screamer: 3x Lamprey bite
+
+++ Total: [2,000pts] ++
+

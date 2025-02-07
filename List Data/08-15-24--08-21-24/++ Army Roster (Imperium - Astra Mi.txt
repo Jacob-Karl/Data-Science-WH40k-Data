@@ -1,0 +1,103 @@
+++ Army Roster (Imperium - Astra Militarum) [1,995pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Combined Regiment
+
++ Epic Hero +
+
+Ursula Creed [55pts]
+
++ Character +
+
+Militarum Tempestus Command Squad [70pts]
+. Tempestor Prime: Plasma Pistol, Warlord
+. Tempestus Scion w/ Medi-pack
+. . Hot-shot Laspistol and Medi-pack
+. Tempestus Scion w/ Special Weapon: Hot-shot Volley Gun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+
+Militarum Tempestus Command Squad [70pts]
+. Tempestor Prime: Plasma Pistol
+. Tempestus Scion w/ Medi-pack
+. . Hot-shot Laspistol and Medi-pack
+. Tempestus Scion w/ Special Weapon: Hot-shot Volley Gun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+
+Tank Commander [220pts]: Demolisher Battle Cannon, Grand Strategist, Heavy Stubber, Hunter-killer Missile, Lascannon
+. Two Multi-meltas
+
++ Battleline +
+
+Death Korps of Krieg [130pts]
+. 2 Death Korps Watchmaster and 18 Death Korps Troopers
+. . 11x Death Korps Trooper: 11x Close Combat Weapon, 11x Lasgun
+. . Death Korps Trooper w/ Death Korps Medi-pack
+. . 2x Death Korps Trooper w/ Grenade Launcher: 2x Close Combat Weapon, 2x Grenade Launcher
+. . 2x Death Korps Trooper w/ Meltagun: 2x Close Combat Weapon, 2x Meltagun
+. . 2x Death Korps Trooper w/ Plasma Gun: 2x Close Combat Weapon, 2x Lasgun, 2x Plasma Gun
+. . Watchmasters
+. . . Death Korps Watchmaster: Plasma Pistol, Power Weapon
+. . . Death Korps Watchmaster: Plasma Pistol, Power Weapon
+
+Infantry Squad [60pts]
+. 1 Sergeant, 7 Guardsmen and 1 Heavy Weapons Team: Guardsman w/ Vox Caster
+. . 5x Guardsman: 5x Close Combat Weapon, 5x Lasgun
+. . Guardsman w/ Plasma Gun
+. . Heavy Weapons Team: Mortar
+. . Sergeant: Plasma Pistol, Power Weapon
+
+Tempestus Scions [50pts]
+. Tempestor: Plasma Pistol, Power Fist
+. 2x Tempestus Scion: 2x Close Combat Weapon, 2x Hot-shot Lasgun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+
+Tempestus Scions [100pts]
+. Tempestor: Plasma Pistol, Power Fist
+. 5x Tempestus Scion: 5x Close Combat Weapon, 5x Hot-shot Lasgun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+
+Tempestus Scions [100pts]
+. Tempestor: Plasma Pistol, Power Fist
+. 5x Tempestus Scion: 5x Close Combat Weapon, 5x Hot-shot Lasgun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+. Tempestus Scion w/ Special Weapon: Meltagun
+. Tempestus Scion w/ Special Weapon: Plasma Gun
+
++ Mounted +
+
+Attilan Rough Riders [60pts]: Attilan Rough Rider w/ Hunting Lance, Attilan Rough Rider w/ Hunting Lance, Attilan Rough Rider w/ Hunting Lance, Attilan Rough Rider w/ Hunting Lance
+. Rough Rider Sergeant: Hunting Lance
+
++ Vehicle +
+
+Hellhound [115pts]: Heavy Bolter, Hunter-killer Missile, Inferno Cannon
+
+Hellhound [115pts]: Heavy Bolter, Hunter-killer Missile, Inferno Cannon
+
+Leman Russ Battle Tank [170pts]: Armoured Tracks, Heavy Stubber, Hunter-killer Missile, Lascannon
+. 2 Multi-meltas
+
+Leman Russ Battle Tank [170pts]: Armoured Tracks, Heavy Stubber, Hunter-killer Missile, Lascannon
+. 2 Multi-meltas
+
+Leman Russ Battle Tank [170pts]: Armoured Tracks, Heavy Stubber, Hunter-killer Missile, Lascannon
+. 2 Multi-meltas
+
+Leman Russ Exterminator [170pts]: Armoured Tracks, Heavy Stubber, Hunter-killer Missile, Lascannon
+. 2 Multi-meltas
+
+Leman Russ Exterminator [170pts]: Armoured Tracks, Heavy Stubber, Hunter-killer Missile, Lascannon
+. 2 Multi-meltas
+
+++ Total: [1,995pts] ++
+

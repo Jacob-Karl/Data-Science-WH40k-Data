@@ -1,0 +1,108 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Player Name: Georgios Floros
+Team Name: Hellas
+Factions Used: Blood Angels
+Army Points: 2000
+Army Enhancements (list on which model): None
+Detachment Rule: Sons of Sanguinius - The Red Thirst
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+CHARACTERS
+
+Captain with Jump Pack (85 Points)
+• 1x Plasma pistol
+1x Power fist
+
+Commander Dante (120 Points)
+• Warlord
+• 1x Perdition
+1x The Axe Mortalis
+
+Lemartes (120 Points)
+• 1x Bolt Pistol
+1x The Blood Crozius
+
+The Sanguinor (140 Points)
+• 1x Encarmine broadsword
+
+BATTLELINE
+
+Intercessor Squad (80 Points)
+• 1x Intercessor Sergeant
+• 1x Bolt pistol
+1x Bolt rifle
+1x Thunder hammer
+• 4x Intercessor
+• 1x Astartes grenade launcher
+4x Bolt pistol
+4x Bolt rifle
+4x Close combat weapon
+
+OTHER DATASHEETS
+
+Assault Intercessors with Jump Packs (80 Points)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma pistol
+1x Power fist
+• 4x Assault Intercessors with Jump Packs
+• 4x Astartes chainsword
+3x Heavy bolt pistol
+1x Plasma pistol
+
+Assault Intercessors with Jump Packs (80 Points)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma pistol
+1x Power fist
+• 4x Assault Intercessors with Jump Packs
+• 4x Astartes chainsword
+3x Heavy bolt pistol
+1x Plasma pistol
+
+Assault Intercessors with Jump Packs (80 Points)
+• 1x Assault Intercessor Sergeant with Jump Pack
+• 1x Plasma pistol
+1x Power fist
+• 4x Assault Intercessors with Jump Packs
+• 4x Astartes chainsword
+3x Heavy bolt pistol
+1x Plasma pistol
+
+Death Company Dreadnought (145 Points)
+• 1x Heavy flamer
+1x Heavy flamer
+1x Magna-grapple
+1x Twin Furioso fists
+
+Death Company Marines with Jump Packs (280 Points)
+• 10x Death Company Marine with Jump Pack
+• 10x Inferno pistol
+10x Power fist
+
+Sanguinary Guard (310 Points)
+• 10x Sanguinary Guard
+• 10x Encarmine blade
+10x Inferno pistol
+
+Sanguinary Guard (310 Points)
+• 10x Sanguinary Guard
+• 10x Encarmine blade
+10x Inferno pistol
+
+Scout Squad (65 Points)
+• 1x Scout Sergeant
+• 1x Astartes chainsword
+1x Bolt pistol
+1x Close combat weapon
+• 4x Scout
+• 4x Bolt pistol
+4x Close combat weapon
+4x Combat knife
+
+Vanguard Veteran Squad with Jump Packs (105 Points)
+• 1x Vanguard Veteran Sergeant with Jump Pack
+• 1x Storm Shield
+1x Vanguard Veteran weapon
+• 4x Vanguard Veteran with Jump Pack
+• 4x Storm Shield
+4x Vanguard Veteran weapon
+

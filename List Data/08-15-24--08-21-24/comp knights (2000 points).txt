@@ -1,0 +1,68 @@
+comp knights (2000 points)
+
+Imperial Knights
+Strike Force (2000 points)
+Noble Lance
+
+
+CHARACTERS
+
+Canis Rex (435 points)
+• Warlord
+• 1x Chainbreaker las-impulsor
+1x Chainbreaker multi-laser
+1x Freedom's Hand
+
+Cerastus Knight Lancer (445 points)
+• 1x Cerastus shock lance
+• Enhancement: Revered Knight (Aura)
+
+Knight Crusader (470 points)
+• 1x Avenger gatling cannon
+1x Heavy flamer
+1x Meltagun
+1x Thermal cannon
+1x Titanic feet
+• Enhancement: Mysterious Guardian
+
+
+BATTLELINE
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+Armiger Warglaive (150 points)
+• 1x Questoris heavy stubber
+1x Reaper chain-cleaver
+1x Thermal spear
+
+
+ALLIED UNITS
+
+Callidus Assassin (100 points)
+• 1x Neural shredder
+1x Phase sword and poison blades
+
+Inquisitorial Henchmen (50 points)
+• 4x Inquisitorial Acolyte
+• 4x Acolyte firearm
+4x Acolyte melee weapon
+1x Eviscerator
+1x Plasma pistol
+
+Inquisitorial Henchmen (50 points)
+• 4x Inquisitorial Acolyte
+• 4x Acolyte firearm
+4x Acolyte melee weapon
+1x Eviscerator
+1x Plasma pistol
+
+Exported with App Version: v1.19.0 (47), Data Version: v438
+

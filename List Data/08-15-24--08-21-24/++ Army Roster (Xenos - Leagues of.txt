@@ -1,0 +1,84 @@
+++ Army Roster (Xenos - Leagues of Votann) [1,995pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [90pts] +
+
+Kâhl [90pts]: Forgewrought plasma axe, Grim Demeanour [20pts], Rampart crest, Volkanite disintegrator, Warlord
+
++ Battleline [200pts] +
+
+Hearthkyn Warriors [100pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Kin melee weapon
+. Theyn: Close combat weapon, Etacarn plasma pistol, Kin melee weapon, Weavefield crest
+
+Hearthkyn Warriors [100pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Kin melee weapon
+. Theyn: Close combat weapon, Etacarn plasma pistol, Kin melee weapon, Weavefield crest
+
++ Infantry [770pts] +
+
+Brôkhyr Thunderkyn [170pts]
+. 6x Brôkhyr Thunderkyn: 6x Close combat weapon, 6x Graviton blast cannon
+
+Cthonian Beserks [100pts]
+. 4x Beserk: 4x Concussion maul
+. Beserk w/ mole grenade launcher: Concussion maul, Mole grenade launcher
+
+Cthonian Beserks [100pts]
+. 4x Beserk: 4x Concussion maul
+. Beserk w/ mole grenade launcher: Concussion maul, Mole grenade launcher
+
+Einhyr Hearthguard [320pts]
+. 9x Einhyr Hearthguard: 9x Concussion gauntlet, 9x EtaCarn plasma gun, 9x Exo-armour grenade launcher
+. Hesyr: Concussion gauntlet, EtaCarn plasma gun, Exo-armour grenade launcher, Teleport crest
+
+Hernkyn Yaegirs [80pts]
+. 9x Hernkyn Yaegir: 9x Bolt revolver and plasma knife, 9x Close combat weapon
+. Hernkyn Yaegir w/ APM launcher: APM launcher, Close combat weapon
+
++ Mounted [360pts] +
+
+Hernkyn Pioneers [180pts]
+. Hernkyn Pioneer: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife
+. Hernkyn Pioneer w/ comms array: Bolt revolver, Bolt shotgun, Comms array, Magna-coil autocannon, Plasma knife
+. 2x Hernkyn Pioneer w/ HYLas rotary cannon: 2x Bolt revolver, 2x Bolt shotgun, 2x HYLas rotary cannon, 2x Magna-coil autocannon, 2x Plasma knife
+. Hernkyn Pioneer w/ pan-spectral scanner: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Pan-spectral scanner, Plasma knife
+. Hernkyn Pioneer w/ searchlight: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife, Rollbar searchlight
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon: Bolt revolver, Bolt shotgun, HYLas rotary cannon, Magna-coil autocannon, Plasma knife
+. Hernkyn Pioneer w/ pan-spectral scanner: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Pan-spectral scanner, Plasma knife
+. Hernkyn Pioneer w/ searchlight: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife, Rollbar searchlight
+
+Hernkyn Pioneers [90pts]
+. Hernkyn Pioneer w/ HYLas rotary cannon: Bolt revolver, Bolt shotgun, HYLas rotary cannon, Magna-coil autocannon, Plasma knife
+. Hernkyn Pioneer w/ pan-spectral scanner: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Pan-spectral scanner, Plasma knife
+. Hernkyn Pioneer w/ searchlight: Bolt revolver, Bolt shotgun, Magna-coil autocannon, Plasma knife, Rollbar searchlight
+
++ Dedicated Transport [575pts] +
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+++ Total: [1,995pts] ++
+
+Created with BattleScribe ()
+

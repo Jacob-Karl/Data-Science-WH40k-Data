@@ -1,0 +1,62 @@
+Chaos - Death Guard - deepest of spirals has led me here - [1985pts]
+UHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+# ++ Army Roster ++ [1985pts]
+## Configuration
+Battle Size: Strike Force (2000 Point limit)
+Detachment Choice: Plague Company
+Show/Hide Options: Chaos Knights are visible, Nurgle Daemons are visible
+
+## Epic Hero [80pts]
+Typhus [80pts]: Master-crafted manreaper, Warlord
+
+## Character [335pts]
+Biologus Putrifier [60pts]: Hyper blight grenades, Injector pistol, Plague knives
+Biologus Putrifier [60pts]: Hyper blight grenades, Injector pistol, Plague knives
+Foul Blightspawn [60pts]: Close combat weapon, Plague sprayer
+Foul Blightspawn [60pts]: Close combat weapon, Plague sprayer
+Lord of Contagion [95pts]: Plagueblade, Deadly Pathogen
+
+## Battleline [360pts]
+Plague Marines [180pts]:
+• 1x Plague Champion: Heavy plague weapon, Plasma gun
+• 4x Plague Marine w/ heavy plague weapon: Heavy plague weapon, Plague knives
+• 1x Plague Marine w/ blight launcher: Blight launcher, Plague knives
+• 2x Plague Marine w/ plague spewer: Plague knives, Plague spewer
+• 2x Plague Marine w/ special weapon: Plague knives, Meltagun
+Plague Marines [180pts]:
+• 1x Plague Champion: Heavy plague weapon, Plasma gun
+• 4x Plague Marine w/ heavy plague weapon: Heavy plague weapon, Plague knives
+• 1x Plague Marine w/ blight launcher: Blight launcher, Plague knives
+• 2x Plague Marine w/ plague spewer: Plague knives, Plague spewer
+• 2x Plague Marine w/ special weapon: Plague knives, Meltagun
+
+## Infantry [340pts]
+Death Guard Cultists [50pts]:
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+• 9x Cultist: Brutal assault weapon, Cultist firearm
+Death Guard Cultists [50pts]:
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+• 9x Cultist: Brutal assault weapon, Cultist firearm
+Deathshroud Terminators [120pts]:
+• 1x Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+• 2x Deathshroud Terminator: Manreaper, Plaguespurt gauntlet
+Deathshroud Terminators [120pts]:
+• 1x Deathshroud Terminator Champion: Manreaper, 2x Plaguespurt gauntlet
+• 2x Deathshroud Terminator: Manreaper, Plaguespurt gauntlet
+
+## Vehicle [130pts]
+Death Guard Predator Destructor [130pts]: Armoured tracks, Havoc launcher, Predator autocannon, Plague combi-bolter, 2 lascannons (2x Lascannon)
+
+## Dedicated Transport [150pts]
+Death Guard Rhino [75pts]: Armoured tracks, Havoc launcher, 2x Plague combi-bolter
+Death Guard Rhino [75pts]: Armoured tracks, Havoc launcher, 2x Plague combi-bolter
+
+## Allied Units [590pts]
+Plaguebearers [110pts]:
+• 8x Plaguebearer: Plaguesword
+• 1x Plaguebearer: Plaguesword, Instrument of Chaos
+• 1x Plaguebearer: Plaguesword, Daemonic Icon
+War Dog Brigand [170pts]: Armoured feet, Avenger chaincannon, Daemonbreath spear, Diabolus heavy stubber
+War Dog Brigand [170pts]: Armoured feet, Avenger chaincannon, Daemonbreath spear, Diabolus heavy stubber
+War Dog Karnivore [140pts]: Reaper chaintalon, Slaughterclaw, Diabolus heavy stubber
+

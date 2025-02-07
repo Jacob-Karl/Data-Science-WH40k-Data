@@ -1,0 +1,117 @@
+Arch City (2000 Points)
+
+Aeldari
+Battle Host
+Strike Force (2000 Points)
+
+CHARACTERS
+
+Autarch Wayleaper (150 Points)
+• Warlord
+• 1x Dragon fusion gun
+• 1x Mandiblasters
+• 1x Star glaive
+• Enhancements: The Phoenix Gem
+
+Avatar of Khaine (335 Points)
+• 1x The Wailing Doom
+
+Death Jester (105 Points)
+• 1x Jester's blade
+• 1x Shrieker cannon
+• Enhancements: Fate's Messenger
+
+Farseer (80 Points)
+• 1x Eldritch Storm
+• 1x Shuriken pistol
+• 1x Singing spear
+
+Fuegan (130 Points)
+• 1x Searsong
+• 1x The Fire Axe
+
+Karandras (90 Points)
+• 1x Arhra's Bane
+• 1x Isirmathil
+• 1x The Scorpion's Bite
+
+Solitaire (115 Points)
+• 1x Solitaire weapons
+
+BATTLELINE
+
+Guardian Defenders (100 Points)
+• 10x Guardian Defender
+◦ 10x Close combat weapon
+◦ 10x Shuriken catapult
+• 1x Heavy Weapon Platform
+◦ 1x Bright lance
+◦ 1x Close combat weapon
+
+OTHER DATASHEETS
+
+Falcon (140 Points)
+• 1x Bright lance
+• 1x Pulse laser
+• 1x Shuriken cannon
+• 1x Wraithbone hull
+
+Falcon (140 Points)
+• 1x Bright lance
+• 1x Pulse laser
+• 1x Shuriken cannon
+• 1x Wraithbone hull
+
+Fire Dragons (90 Points)
+• 1x Fire Dragon Exarch
+◦ 1x Close combat weapon
+◦ 1x Firepike
+• 4x Fire Dragon
+◦ 4x Close combat weapon
+◦ 4x Dragon fusion gun
+
+Rangers (55 Points)
+• 5x Ranger
+◦ 5x Close combat weapon
+◦ 5x Ranger long rifle
+◦ 5x Shuriken pistol
+
+Shroud Runners (80 Points)
+• 3x Shroud Runner
+◦ 3x Close combat weapon
+◦ 3x Ranger long rifle
+◦ 3x Scatter laser
+◦ 3x Shuriken pistol
+
+Skyweavers (105 Points)
+• 2x Skyweaver
+◦ 2x Close combat weapon
+◦ 2x Skyweaver haywire cannon
+◦ 2x Zephyrglaive
+
+Striking Scorpions (65 Points)
+• 1x Striking Scorpion Exarch
+◦ 1x Mandiblasters
+◦ 1x Scorpion chainsword
+◦ 1x Scorpion's claw
+• 4x Striking Scorpion
+◦ 4x Mandiblasters
+◦ 4x Scorpion chainsword
+◦ 4x Shuriken pistol
+
+Support Weapons (135 Points)
+• 1x Close combat weapon
+• 1x D-cannon
+• 1x Shuriken catapult
+
+Swooping Hawks (85 Points)
+• 1x Swooping Hawk Exarch
+◦ 1x Aeldari power sword
+◦ 1x Close combat weapon
+◦ 1x Hawk's talon
+• 4x Swooping Hawk
+◦ 4x Close combat weapon
+◦ 4x Lasblaster
+
+Exported with App Version: v1.19.0 (43), Data Version: v438
+
